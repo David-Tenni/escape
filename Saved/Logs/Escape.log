@@ -809,3 +809,61 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.29-04.06.30:659][389]LogAudioMixer: Resetting audio stream to device id 
 [2021.06.29-04.06.31:034][389]LogAudioMixer: Display: 0: FrontLeft
 [2021.06.29-04.06.31:034][389]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-05.34.20:547][117]LogSlate: Took 0.006816 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.29-05.34.20:716][117]LogSlate: Took 0.006000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.29-05.34.37:857][114]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/GameDev/Escape/Escape.uproject" -game -rocket -progress
+[2021.06.29-05.34.38:162][114]Discovering modules, targets and source code for project...
+[2021.06.29-05.34.40:973][114]Binding IntelliSense data...
+[2021.06.29-05.34.47:720][114]Binding IntelliSense data... 100%
+[2021.06.29-05.34.47:720][114]Writing project files...
+[2021.06.29-05.34.50:326][114]Writing project files... 100%
+[2021.06.29-05.34.50:428][114]LogHotReload: Recompiling module Escape...
+[2021.06.29-05.34.50:429][114]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.06.29-05.34.50:460][114]Candidate modules for hot reload:
+[2021.06.29-05.34.50:460][114]  Escape
+[2021.06.29-05.34.50:460][114]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,1069 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.06.29-05.35.38:775][114]Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+Creating makefile for EscapeEditor (no existing makefile)
+Parsing headers for EscapeEditor
+  Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+Reflection code generated for EscapeEditor in 10.1149989 seconds
+Building EscapeEditor...
+Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 7 actions with 12 processes...
+  [1/7] Default.rc2
+  [2/7] SharedPCH.Engine.ShadowErrors.cpp
+  [3/7] MyClass.cpp
+  [4/7] Escape.cpp
+  [5/7] UE4Editor-Escape-1069.lib
+     Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1069.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1069.exp
+  [6/7] UE4Editor-Escape-1069.dll
+     Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1069.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1069.suppressed.exp
+  [7/7] EscapeEditor.target
+Total time in Parallel executor: 18.41 seconds
+Total execution time: 48.21 seconds
+
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: New page: Compilation - Jun 30, 2021, 1:35:38 AM
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: Creating makefile for EscapeEditor (no existing makefile)
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: Reflection code generated for EscapeEditor in 10.1149989 seconds
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: Building EscapeEditor...
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: Building 7 actions with 12 processes...
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:   [1/7] Default.rc2
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:   [2/7] SharedPCH.Engine.ShadowErrors.cpp
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:   [3/7] MyClass.cpp
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:   [4/7] Escape.cpp
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:   [5/7] UE4Editor-Escape-1069.lib
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1069.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1069.exp
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:   [6/7] UE4Editor-Escape-1069.dll
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1069.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1069.suppressed.exp
+[2021.06.29-05.35.38:783][114]CompilerResultsLog:   [7/7] EscapeEditor.target
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: Total time in Parallel executor: 18.41 seconds
+[2021.06.29-05.35.38:783][114]CompilerResultsLog: Total execution time: 48.21 seconds
+[2021.06.29-05.35.38:784][114]LogMainFrame: MainFrame: Module compiling took 48.354 seconds
+[2021.06.29-05.35.38:790][114]Reloading module Escape after successful compile.
+[2021.06.29-05.35.38:844][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.06.29-05.35.38:879][114]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0138 seconds. Added 3601 classes and 859 folders.
+[2021.06.29-05.35.39:029][114]LogSlate: Window 'Add C++ Class' being destroyed
