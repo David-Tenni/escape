@@ -2,7 +2,7 @@
 
 
 #include "WorldPosition.h"
-
+#include "GameFramework/Actor.h"
 // Sets default values for this component's properties
 UWorldPosition::UWorldPosition()
 {
@@ -19,8 +19,11 @@ void UWorldPosition::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
+	FString Log = GetOwner()->GetFName().ToString();
 	
+
+	UE_LOG(LogTemp, Warning, TEXT("%s"),*Log);
+
 }
 
 
@@ -28,7 +31,7 @@ void UWorldPosition::BeginPlay()
 void UWorldPosition::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
-
 	// ...
+
 }
 
