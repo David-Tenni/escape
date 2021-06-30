@@ -5016,3 +5016,78 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-08.13.52:757][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.06.30-08.13.52:758][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2021.06.30-08.13.52:794][410]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.06.30-08.17.41:925][541]Candidate modules for hot reload:
+[2021.06.30-08.17.41:925][541]  Escape
+[2021.06.30-08.17.41:926][541]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,3770 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.06.30-08.17.41:928][541]Warning: Starting HotReload took  0.0s.
+[2021.06.30-08.17.43:602][695]CompilerResultsLog: New page: Compilation - Jul 1, 2021, 4:17:43 AM
+[2021.06.30-08.17.43:602][695]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.06.30-08.17.43:602][695]CompilerResultsLog: Building EscapeEditor...
+[2021.06.30-08.17.43:602][695]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.30-08.17.43:602][695]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.06.30-08.17.43:602][695]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2021.06.30-08.17.43:602][695]CompilerResultsLog:   [2/4] UE4Editor-Escape-3770.lib
+[2021.06.30-08.17.43:602][695]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-3770.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-3770.exp
+[2021.06.30-08.17.43:602][695]CompilerResultsLog:   [3/4] UE4Editor-Escape-3770.dll
+[2021.06.30-08.17.43:602][695]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-3770.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-3770.suppressed.exp
+[2021.06.30-08.17.43:602][695]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.06.30-08.17.43:602][695]CompilerResultsLog: Total time in Parallel executor: 1.14 seconds
+[2021.06.30-08.17.43:602][695]CompilerResultsLog: Total execution time: 1.61 seconds
+[2021.06.30-08.17.43:602][695]LogMainFrame: MainFrame: Module compiling took 1.680 seconds
+[2021.06.30-08.17.43:621][695]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.06.30-08.17.43:622][695]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.30-08.17.43:650][695]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3602 classes and 861 folders.
+[2021.06.30-08.17.43:653][695]Display: HotReload took  1.7s.
+[2021.06.30-08.17.48:371][250]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-08.17.48:376][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-08.17.48:377][250]PIE: New page: PIE session: DefaultMap (Jul 1, 2021, 4:17:48 AM)
+[2021.06.30-08.17.48:377][250]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.06.30-08.17.48:379][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002106s)
+[2021.06.30-08.17.48:380][250]LogAIModule: Creating AISystem for world DefaultMap
+[2021.06.30-08.17.48:380][250]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2021.06.30-08.17.48:380][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003350s)
+[2021.06.30-08.17.48:383][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.30-08.17.48:384][250]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.06.30-08.17.48:384][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-08.17.48:384][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-08.17.48:384][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-08.17.48:384][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-08.17.48:384][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-08.17.48:384][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-08.17.48:384][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-08.17.48:384][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-08.17.48:384][250]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-08.17.48:384][250]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-08.17.48:389][250]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-08.17.48:389][250]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-08.17.48:397][250]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.06.30-08.17.48:397][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-08.17.48:397][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-08.17.48:397][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-08.17.48:398][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-08.17.48:398][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-08.17.48:398][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-08.17.48:409][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-08.17.48:409][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-08.17.48:409][250]LogInit: FAudioDevice initialized.
+[2021.06.30-08.17.48:409][250]LogAudio: Display: Audio Device (ID: 25) registered with world 'DefaultMap'.
+[2021.06.30-08.17.48:420][250]LogLoad: Game class is 'GameModeBase'
+[2021.06.30-08.17.48:420][250]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.06.30-18.17.48
+[2021.06.30-08.17.48:421][250]LogWorld: Bringing up level for play took: 0.000487
+[2021.06.30-08.17.48:421][250]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.06.30-08.17.48:422][250]LogTemp: Warning: X=0.000 Y=-200.000 Z=20.000
+[2021.06.30-08.17.48:422][250]LogTemp: Warning: X=-130.000 Y=300.000 Z=90.000
+[2021.06.30-08.17.48:422][250]PIE: Server logged in
+[2021.06.30-08.17.48:423][250]PIE: Play in editor total start time 0.047 seconds.
+[2021.06.30-08.17.51:018][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-08.17.51:018][556]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.06.30-08.17.51:018][556]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-08.17.51:018][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-08.17.51:022][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-08.17.51:033][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-08.17.51:035][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-08.17.51:036][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-08.17.51:037][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-08.17.51:049][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-08.17.51:051][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.30-08.17.51:086][559]LogPlayLevel: Display: Destroying online subsystem :Context_26

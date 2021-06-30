@@ -19,8 +19,8 @@ void UWorldPosition::BeginPlay()
 {
 	Super::BeginPlay();
 
-	FString Log = GetOwner()->GetFName().ToString();
-	
+	FVector ActorLocation = GetOwner()->GetActorLocation();
+	FString Log = ActorLocation.ToString();
 
 	UE_LOG(LogTemp, Warning, TEXT("%s"),*Log);
 
