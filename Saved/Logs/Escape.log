@@ -871,3 +871,30 @@ Would you like to open the Output Log to see more details?
 [2021.06.30-06.59.59:635][826]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
 [2021.06.30-06.59.59:663][826]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0221 seconds. Added 3602 classes and 861 folders.
 [2021.06.30-06.59.59:664][826]Display: HotReload took 10.2s.
+[2021.06.30-07.01.08:463][447]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.30-07.01.08:465][447]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.30-07.01.10:425][447]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2021.06.30-07.01.10:425][447]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.30-07.01.16:188][447]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.30-07.01.16:240][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../../GameDev/Escape/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.30-07.01.16:257][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.06.30-07.01.16:291][447]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMapAD6A1E2B4BCD00C74774C99C1265E0A5.tmp' to '../../../../../../GameDev/Escape/Content/Maps/DefaultMap.umap'
+[2021.06.30-07.01.16:300][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap_BuiltData" FILE="../../../../../../GameDev/Escape/Content/Maps/DefaultMap_BuiltData.uasset" SILENT=true
+[2021.06.30-07.01.16:319][447]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_BuiltData16C8E3034783229A5C8D409834C6C9FB.tmp' to '../../../../../../GameDev/Escape/Content/Maps/DefaultMap_BuiltData.uasset'
+[2021.06.30-07.01.16:323][447]LogFileHelpers: Saving map 'DefaultMap' took 0.130
+[2021.06.30-07.01.16:328][447]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-07.01.16:328][447]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DefaultMap_BuiltData.DefaultMap_BuiltData
+[2021.06.30-07.01.16:328][447]LogContentValidation: Display: Validating World /Game/Maps/DefaultMap.DefaultMap
+[2021.06.30-07.01.28:784][698]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.30-07.03.18:542][592]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.30-07.03.18:545][592]LogSlate: Window 'Project Settings' being destroyed
+[2021.06.30-07.03.19:970][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../../GameDev/Escape/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.30-07.03.19:973][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.06.30-07.03.19:981][755]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMapDA1EFEC24DEB0C7FA053B699D4532582.tmp' to '../../../../../../GameDev/Escape/Content/Maps/DefaultMap.umap'
+[2021.06.30-07.03.19:987][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap_BuiltData" FILE="../../../../../../GameDev/Escape/Content/Maps/DefaultMap_BuiltData.uasset" SILENT=true
+[2021.06.30-07.03.19:998][755]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_BuiltData928115874996C55AEC3EC1B9EDE28EA1.tmp' to '../../../../../../GameDev/Escape/Content/Maps/DefaultMap_BuiltData.uasset'
+[2021.06.30-07.03.20:004][755]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-07.03.20:004][755]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DefaultMap_BuiltData.DefaultMap_BuiltData
+[2021.06.30-07.03.20:004][755]LogContentValidation: Display: Validating World /Game/Maps/DefaultMap.DefaultMap
+[2021.06.30-07.03.20:453][806]LogSlate: Took 0.006347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.30-07.03.25:019][352]LogSlate: Window 'Output Log' being destroyed
