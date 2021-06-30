@@ -6298,3 +6298,1145 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-12.22.56:608][139]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_Auto4E11E9FFA430B6CDD980175A33091D05F.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto4.umap'
 [2021.06.30-12.22.56:610][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.035
 [2021.06.30-12.22.56:610][139]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2021.06.30-12.27.47:797][153]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.06.30-12.27.47:798][153]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-12.27.47:798][153]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-12.27.47:798][153]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-12.27.47:806][153]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.06.30-12.27.47:813][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.06.30-12.27.47:817][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.06.30-12.27.47:824][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.06.30-12.27.47:829][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.06.30-12.27.47:836][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.06.30-12.27.47:841][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.06.30-12.27.47:846][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.06.30-12.27.47:853][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.06.30-12.27.47:859][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.06.30-12.27.47:864][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.06.30-12.27.47:869][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.06.30-12.27.47:875][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.06.30-12.27.47:880][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.06.30-12.27.47:885][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.06.30-12.27.47:891][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.06.30-12.27.47:896][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.06.30-12.27.47:900][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.06.30-12.27.47:906][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Fire01.uasset"
+[2021.06.30-12.27.47:911][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.06.30-12.27.47:918][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.06.30-12.27.47:923][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.06.30-12.27.47:929][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Light01.uasset"
+[2021.06.30-12.27.47:934][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.06.30-12.27.47:941][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Light02.uasset"
+[2021.06.30-12.27.47:946][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.06.30-12.27.47:954][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.06.30-12.27.47:959][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.06.30-12.27.47:965][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.06.30-12.27.47:972][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.06.30-12.27.47:984][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.06.30-12.27.47:990][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.06.30-12.27.47:997][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.06.30-12.27.48:004][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.06.30-12.27.48:011][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Steam01.uasset"
+[2021.06.30-12.27.48:017][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.06.30-12.27.48:023][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.06.30-12.27.48:029][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.06.30-12.27.48:034][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.06.30-12.27.48:039][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.06.30-12.27.48:044][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.06.30-12.27.48:048][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.06.30-12.27.48:054][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.06.30-12.27.48:059][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.06.30-12.27.48:064][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.06.30-12.27.48:069][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.06.30-12.27.48:074][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.06.30-12.27.48:079][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.06.30-12.27.48:083][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.06.30-12.27.48:089][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.06.30-12.27.48:101][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.06.30-12.27.48:107][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.06.30-12.27.48:151][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.06.30-12.27.48:158][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../GameDev/Escape/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.06.30-12.27.48:164][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.06.30-12.27.48:170][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../GameDev/Escape/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.06.30-12.27.48:178][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.06.30-12.27.48:184][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../GameDev/Escape/Content/StarterContent/Maps/StarterMap.umap"
+[2021.06.30-12.27.48:208][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.06.30-12.27.48:217][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.06.30-12.27.48:225][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.06.30-12.27.48:230][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.06.30-12.27.48:235][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.06.30-12.27.48:241][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.06.30-12.27.48:246][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.06.30-12.27.48:251][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.06.30-12.27.48:257][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.06.30-12.27.48:262][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.06.30-12.27.48:267][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.06.30-12.27.48:273][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.06.30-12.27.48:278][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.06.30-12.27.48:285][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.06.30-12.27.48:291][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.06.30-12.27.48:296][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.06.30-12.27.48:301][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.06.30-12.27.48:307][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.06.30-12.27.48:312][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.06.30-12.27.48:317][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.06.30-12.27.48:323][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.06.30-12.27.48:328][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.06.30-12.27.48:333][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.06.30-12.27.48:338][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.06.30-12.27.48:343][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.06.30-12.27.48:348][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.06.30-12.27.48:353][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.06.30-12.27.48:359][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.06.30-12.27.48:365][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.06.30-12.27.48:370][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.06.30-12.27.48:376][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.06.30-12.27.48:381][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.06.30-12.27.48:386][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.06.30-12.27.48:392][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.06.30-12.27.48:397][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.06.30-12.27.48:402][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.06.30-12.27.48:408][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.06.30-12.27.48:413][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.06.30-12.27.48:418][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.06.30-12.27.48:424][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.06.30-12.27.48:429][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.06.30-12.27.48:434][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.06.30-12.27.48:440][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.06.30-12.27.48:445][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.06.30-12.27.48:450][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.06.30-12.27.48:455][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.06.30-12.27.48:461][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.06.30-12.27.48:466][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.06.30-12.27.48:473][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.06.30-12.27.48:478][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.06.30-12.27.48:483][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.06.30-12.27.48:489][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.06.30-12.27.48:497][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.06.30-12.27.48:502][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.06.30-12.27.48:507][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.06.30-12.27.48:513][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.06.30-12.27.48:518][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.06.30-12.27.48:524][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.06.30-12.27.48:531][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.06.30-12.27.48:536][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.06.30-12.27.48:545][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.06.30-12.27.48:553][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.06.30-12.27.48:560][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.06.30-12.27.48:565][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.06.30-12.27.48:571][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.06.30-12.27.48:576][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Door.uasset"
+[2021.06.30-12.27.48:581][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.06.30-12.27.48:591][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.06.30-12.27.48:597][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.06.30-12.27.48:602][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.06.30-12.27.48:610][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.06.30-12.27.48:616][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.06.30-12.27.48:621][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.06.30-12.27.48:627][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.06.30-12.27.48:631][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.06.30-12.27.48:637][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.06.30-12.27.48:643][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.06.30-12.27.48:659][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.06.30-12.27.48:665][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.06.30-12.27.48:673][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.06.30-12.27.48:678][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.06.30-12.27.48:684][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.06.30-12.27.48:689][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.06.30-12.27.48:695][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.06.30-12.27.48:700][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.06.30-12.27.48:707][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.06.30-12.27.48:714][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.06.30-12.27.48:720][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.06.30-12.27.48:725][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.06.30-12.27.48:731][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.06.30-12.27.48:737][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.06.30-12.27.48:742][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.06.30-12.27.48:749][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.06.30-12.27.48:758][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.06.30-12.27.48:766][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.06.30-12.27.48:773][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.06.30-12.27.48:778][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.06.30-12.27.48:783][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.06.30-12.27.48:788][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.06.30-12.27.48:793][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.06.30-12.27.48:800][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.06.30-12.27.48:806][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.06.30-12.27.48:811][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.06.30-12.27.48:817][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.06.30-12.27.48:824][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.06.30-12.27.48:830][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.06.30-12.27.48:834][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.06.30-12.27.48:839][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.06.30-12.27.48:846][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.06.30-12.27.48:852][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.06.30-12.27.48:865][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.06.30-12.27.48:877][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.06.30-12.27.48:888][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.06.30-12.27.48:899][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.06.30-12.27.48:913][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.06.30-12.27.48:928][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.06.30-12.27.48:944][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.06.30-12.27.48:959][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.06.30-12.27.48:977][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.06.30-12.27.48:988][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.06.30-12.27.49:000][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.06.30-12.27.49:011][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.06.30-12.27.49:023][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.06.30-12.27.49:029][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.06.30-12.27.49:034][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.06.30-12.27.49:041][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.06.30-12.27.49:046][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.06.30-12.27.49:051][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.06.30-12.27.49:058][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.06.30-12.27.49:070][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.06.30-12.27.49:078][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.06.30-12.27.49:091][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.06.30-12.27.49:097][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.06.30-12.27.49:112][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.06.30-12.27.49:122][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.06.30-12.27.49:131][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.06.30-12.27.49:155][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.06.30-12.27.49:168][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.06.30-12.27.49:180][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.06.30-12.27.49:194][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.06.30-12.27.49:209][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.06.30-12.27.49:220][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.06.30-12.27.49:234][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.06.30-12.27.49:247][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.06.30-12.27.49:259][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.06.30-12.27.49:269][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.06.30-12.27.49:282][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.06.30-12.27.49:288][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.06.30-12.27.49:297][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.06.30-12.27.49:303][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.06.30-12.27.49:308][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.06.30-12.27.49:313][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.06.30-12.27.49:321][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.06.30-12.27.49:327][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.06.30-12.27.49:332][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.06.30-12.27.49:338][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.06.30-12.27.49:344][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.06.30-12.27.49:350][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.06.30-12.27.49:364][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.06.30-12.27.49:379][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.06.30-12.27.49:392][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.06.30-12.27.49:403][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.06.30-12.27.49:423][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.06.30-12.27.49:437][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.06.30-12.27.49:444][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.06.30-12.27.49:453][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.06.30-12.27.49:467][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.06.30-12.27.49:481][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.06.30-12.27.49:496][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.06.30-12.27.49:509][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.06.30-12.27.49:519][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.06.30-12.27.49:531][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.06.30-12.27.49:543][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.06.30-12.27.49:553][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.06.30-12.27.49:562][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.06.30-12.27.49:576][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.06.30-12.27.49:586][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.06.30-12.27.49:596][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.06.30-12.27.49:608][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.06.30-12.27.49:621][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.06.30-12.27.49:631][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.06.30-12.27.49:643][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.06.30-12.27.49:657][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.06.30-12.27.49:672][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.06.30-12.27.49:685][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.06.30-12.27.49:696][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.06.30-12.27.49:702][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.06.30-12.27.49:709][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.06.30-12.27.49:716][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.06.30-12.27.49:727][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.06.30-12.27.49:732][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.06.30-12.27.49:739][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.06.30-12.27.49:745][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.06.30-12.27.49:750][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.06.30-12.27.49:768][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.06.30-12.27.49:776][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.06.30-12.27.49:783][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.06.30-12.27.49:790][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.06.30-12.27.49:795][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.06.30-12.27.49:807][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.06.30-12.27.49:816][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.06.30-12.27.49:823][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.06.30-12.27.49:830][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.06.30-12.27.49:840][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.06.30-12.27.49:849][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.06.30-12.27.49:859][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.06.30-12.27.49:871][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.06.30-12.27.49:882][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.06.30-12.27.49:892][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.06.30-12.27.49:908][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.06.30-12.27.49:918][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.06.30-12.27.49:928][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.06.30-12.27.49:944][153]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../GameDev/Escape/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.06.30-12.27.49:960][153]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.06.30-12.27.49:960][153]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.06.30-12.27.50:011][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2021.06.30-12.27.50:019][153]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/Floor_400x4004C772B7140D7C7FADEF5DA97ED770D41.tmp' to '../../../../../../GameDev/Escape/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.06.30-12.27.50:028][153]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.06.30-12.27.50:029][153]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.06.30-12.27.53:167][491]LogSlate: Window 'Add Content to the Project' being destroyed
+[2021.06.30-12.29.34:941][657]LogContentBrowser: Deferred new asset file creation: M_Brick_Clay_Old_Inst
+[2021.06.30-12.29.34:957][657]LogContentBrowser: Creating deferred item: M_Brick_Clay_Old_Inst
+[2021.06.30-12.29.36:303][787]LogContentBrowser: Attempting asset rename: M_Brick_Clay_Old_Inst -> M_Brick_Clay_Old_Inst
+[2021.06.30-12.29.36:303][787]LogContentBrowser: End creating deferred item M_Brick_Clay_Old_Inst
+[2021.06.30-12.29.38:840][ 52]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/StarterContent/Materials/M_Brick_Clay_Old_Inst.M_Brick_Clay_Old_Inst
+[2021.06.30-12.29.54:811][829]LogSlate: Window 'M_Brick_Clay_Old_Inst' being destroyed
+[2021.06.30-12.29.54:815][829]LogSlate: Window 'M_Brick_Clay_Old_Inst' being destroyed
+[2021.06.30-12.29.54:824][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.06.30-12.29.54:839][829]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.29.55:159][829]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.06.30-12.29.55:159][829]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.06.30-12.29.55:161][829]TextureStreamingBuild: Display: Compiling optional shaders took 0.322 seconds.
+[2021.06.30-12.29.55:176][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.06.30-12.29.55:206][829]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-12.29.55:206][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-12.29.56:989][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.06.30-12.29.58:462][  6]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-12.30.01:874][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.30-12.30.03:306][363]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-12.30.03:366][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.06.30-12.30.06:146][656]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.30.06:205][657]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.06.30-12.30.06:205][657]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.06.30-12.30.06:205][657]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.06.30-12.30.06:206][657]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.06.30-12.30.06:206][657]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.06.30-12.30.06:206][657]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.30.06:206][657]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.30-12.30.14:788][450]Cmd: EDIT CUT
+[2021.06.30-12.30.14:791][450]LogEditorActor: Deleted Actor: Brush
+[2021.06.30-12.30.14:794][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.30-12.30.14:804][450]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.06.30-12.30.31:853][462]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.30-12.30.31:869][462]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.30-12.30.33:605][671]LogContentBrowser: Attempting asset rename: NewFolder -> House
+[2021.06.30-12.30.33:605][671]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.30-12.30.53:786][ 21]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Brick_Clay_Old_2.M_Brick_Clay_Old_2
+[2021.06.30-12.30.53:788][ 21]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.30.53:870][ 21]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.30.53:877][ 21]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.30.53:877][ 21]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.30.53:877][ 21]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.30.53:877][ 21]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.30.53:877][ 21]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.30.53:877][ 21]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.30.53:877][ 21]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.30.53:877][ 21]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.30.53:878][ 21]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.30.53:896][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2021.06.30-12.30.53:902][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_61, compiling. 
+[2021.06.30-12.30.53:906][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_62, compiling. 
+[2021.06.30-12.30.53:910][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_20, compiling. 
+[2021.06.30-12.30.53:914][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2021.06.30-12.30.53:918][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2021.06.30-12.30.53:922][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2021.06.30-12.30.53:926][ 21]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_21, compiling. 
+[2021.06.30-12.30.54:569][ 45]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 43
+[2021.06.30-12.30.54:590][ 46]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2021.06.30-12.30.54:735][ 55]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2021.06.30-12.30.54:819][ 60]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 40
+[2021.06.30-12.30.54:820][ 60]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2021.06.30-12.30.54:837][ 61]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 38
+[2021.06.30-12.30.54:872][ 63]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2021.06.30-12.30.54:935][ 67]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2021.06.30-12.30.55:221][ 79]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2021.06.30-12.30.55:273][ 82]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2021.06.30-12.30.55:290][ 83]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2021.06.30-12.30.55:370][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2021.06.30-12.30.55:387][ 89]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2021.06.30-12.30.55:517][ 96]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2021.06.30-12.30.55:575][ 99]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.06.30-12.30.55:622][101]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2021.06.30-12.30.55:737][107]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.06.30-12.30.55:817][111]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2021.06.30-12.30.55:894][115]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.06.30-12.30.55:894][115]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.06.30-12.30.55:894][115]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.06.30-12.30.55:920][116]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.30.55:920][116]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.30.55:920][116]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.30.55:920][116]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.30.55:920][116]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.30.55:920][116]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.30.55:920][116]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.30.55:988][120]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.06.30-12.30.56:006][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.06.30-12.30.56:067][124]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.06.30-12.30.56:221][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2021.06.30-12.30.56:326][136]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.06.30-12.30.56:361][138]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.06.30-12.30.56:361][138]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.06.30-12.30.56:434][142]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.06.30-12.30.56:485][145]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.06.30-12.30.56:526][147]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.30-12.30.56:526][147]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.30-12.30.56:665][154]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.30.56:775][159]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.06.30-12.30.56:795][160]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.06.30-12.30.56:813][161]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.30-12.30.56:986][170]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.06.30-12.30.56:986][170]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.06.30-12.30.56:986][170]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.06.30-12.30.56:986][170]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.06.30-12.30.57:172][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.06.30-12.30.57:222][181]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.30.57:265][183]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.06.30-12.31.09:545][448]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.31.09:602][449]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.31.09:602][449]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.31.09:602][449]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.31.09:602][449]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.31.09:602][449]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.31.09:602][449]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.31.09:602][449]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.31.09:602][449]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.31.10:041][467]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.31.10:063][468]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.31.10:183][475]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.31.10:589][501]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.31.10:589][501]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.31.10:589][501]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.31.10:589][501]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.31.10:589][501]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.31.10:590][501]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.31.10:590][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.32.03:110][417]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.03:145][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.06.30-12.32.03:145][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.06.30-12.32.03:145][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.06.30-12.32.03:145][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.06.30-12.32.03:145][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.06.30-12.32.03:145][418]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.06.30-12.32.03:145][418]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.06.30-12.32.03:145][418]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.06.30-12.32.03:451][438]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.06.30-12.32.03:621][445]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.06.30-12.32.03:641][446]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.06.30-12.32.03:641][446]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.06.30-12.32.03:679][448]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.30-12.32.03:679][448]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.06.30-12.32.03:910][459]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.30-12.32.03:997][463]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.30-12.32.03:997][463]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.06.30-12.32.04:060][466]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.06.30-12.32.04:117][469]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.06.30-12.32.04:198][473]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.06.30-12.32.04:289][478]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.06.30-12.32.04:327][480]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.06.30-12.32.04:383][483]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.06.30-12.32.04:383][483]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.06.30-12.32.04:937][524]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.32.04:937][524]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.32.04:937][524]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.32.04:937][524]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.06.30-12.32.04:937][524]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.32.04:937][524]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.32.04:937][524]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.32.06:945][724]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.06:957][724]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.06:977][725]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.06.30-12.32.06:977][725]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.06.30-12.32.06:977][725]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.06.30-12.32.06:977][725]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.06.30-12.32.06:977][725]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.06.30-12.32.06:977][725]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.06.30-12.32.06:977][725]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.06.30-12.32.06:977][725]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.06.30-12.32.07:158][736]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.06.30-12.32.07:320][743]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.06.30-12.32.07:339][744]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.30-12.32.07:339][744]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.30-12.32.07:358][745]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.06.30-12.32.07:358][745]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.06.30-12.32.07:570][756]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.30-12.32.07:660][760]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.30-12.32.07:660][760]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.06.30-12.32.07:738][764]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.06.30-12.32.07:778][766]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.06.30-12.32.07:911][773]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.06.30-12.32.08:023][779]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.30-12.32.08:044][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.06.30-12.32.08:118][784]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.06.30-12.32.08:118][784]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.06.30-12.32.08:646][824]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.32.08:646][824]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.32.08:646][824]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.32.08:646][824]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.06.30-12.32.08:646][824]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.32.08:646][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.32.08:646][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.32.11:454][124]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.11:467][124]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.11:486][125]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.06.30-12.32.11:486][125]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.06.30-12.32.11:486][125]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2021.06.30-12.32.11:486][125]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2021.06.30-12.32.11:486][125]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.06.30-12.32.11:486][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.06.30-12.32.11:486][125]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.06.30-12.32.11:486][125]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.06.30-12.32.11:674][136]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.06.30-12.32.11:831][143]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.06.30-12.32.11:870][145]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.30-12.32.11:870][145]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.06.30-12.32.11:870][145]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.30-12.32.11:888][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.06.30-12.32.12:110][157]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.30-12.32.12:158][159]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.32.12:158][159]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.06.30-12.32.12:279][165]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.06.30-12.32.12:323][167]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.06.30-12.32.12:362][169]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.06.30-12.32.12:477][175]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.06.30-12.32.12:536][178]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.06.30-12.32.12:595][181]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.06.30-12.32.12:595][181]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.06.30-12.32.13:126][218]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.32.13:126][218]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.32.13:126][218]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.32.13:126][218]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.06.30-12.32.13:126][218]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.32.13:126][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.32.13:126][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.32.34:718][393]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.34:775][394]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.32.34:775][394]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.32.34:775][394]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.32.34:775][394]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.32.34:775][394]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.32.34:775][394]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.32.34:775][394]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.32.34:775][394]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.32.35:364][423]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.06.30-12.32.35:364][423]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.06.30-12.32.35:500][431]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.32.35:878][456]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.32.35:878][456]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.32.35:878][456]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.32.35:878][456]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.32.35:878][456]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.32.35:878][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.32.35:878][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.32.40:313][920]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.40:372][921]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.32.40:372][921]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.32.40:372][921]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.32.40:372][921]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.32.40:372][921]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.32.40:372][921]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.32.40:372][921]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.32.40:373][921]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.32.40:811][941]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.32.40:811][941]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.32.40:947][950]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.32.41:299][975]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.32.41:299][975]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.32.41:299][975]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.32.41:299][975]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.32.41:299][975]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.32.41:299][975]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.32.41:299][975]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.32.52:337][102]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.52:343][102]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.52:361][103]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.32.52:361][103]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.32.52:361][103]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.32.52:361][103]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.32.52:361][103]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.32.52:361][103]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.32.52:361][103]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.32.52:361][103]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.32.52:803][123]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.32.52:826][124]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.32.52:962][132]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.32.53:332][157]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.32.53:332][157]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.32.53:332][157]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.32.53:332][157]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.32.53:332][157]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.32.53:332][157]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.32.53:332][157]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.32.55:040][328]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.55:047][328]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.55:063][329]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.32.55:063][329]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.32.55:063][329]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.32.55:063][329]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.32.55:063][329]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.32.55:063][329]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.32.55:063][329]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.32.55:063][329]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.32.55:557][351]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.32.55:557][351]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.32.55:672][358]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.32.56:062][384]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.32.56:062][384]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.32.56:062][384]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.32.56:062][384]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.32.56:062][384]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.32.56:062][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.32.56:062][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.32.58:194][600]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.58:201][600]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.32.58:222][601]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.32.58:222][601]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.32.58:222][601]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.32.58:222][601]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.32.58:222][601]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.32.58:222][601]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.32.58:222][601]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.32.58:222][601]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.32.58:698][621]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.32.58:698][621]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.32.58:813][628]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.32.59:206][654]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.32.59:206][654]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.32.59:206][654]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.32.59:206][654]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.32.59:206][654]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.32.59:206][654]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.32.59:206][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.33.08:293][572]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.08:302][572]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.08:318][573]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.33.08:318][573]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.33.08:318][573]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.33.08:318][573]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.33.08:318][573]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.33.08:318][573]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.33.08:318][573]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.33.08:318][573]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.33.08:765][593]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.33.08:787][594]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.33.08:925][602]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.33.09:275][624]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.33.09:275][624]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.33.09:275][624]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.33.09:275][624]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.33.09:275][624]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.33.09:275][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.33.09:275][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.33.11:142][816]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.11:150][816]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.11:166][817]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.33.11:166][817]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.33.11:166][817]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.33.11:166][817]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.33.11:166][817]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.33.11:166][817]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.33.11:166][817]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.33.11:166][817]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.33.11:623][838]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.33.11:644][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.33.11:777][847]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.33.12:132][870]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.33.12:132][870]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.33.12:132][870]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.33.12:132][870]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.33.12:132][870]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.33.12:132][870]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.33.12:132][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.33.15:672][233]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.15:679][233]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.15:696][234]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.33.15:696][234]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.33.15:696][234]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.33.15:696][234]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.33.15:696][234]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.33.15:696][234]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.33.15:696][234]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.33.15:696][234]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.33.16:179][256]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.33.16:179][256]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.33.16:315][264]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.33.16:670][287]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.33.16:670][287]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.33.16:670][287]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.33.16:670][287]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.33.16:670][287]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.33.16:670][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.33.16:670][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.33.41:385][867]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.41:393][867]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.41:408][868]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.33.41:409][868]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.33.41:409][868]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.33.41:409][868]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.33.41:409][868]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.33.41:409][868]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.33.41:409][868]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.33.41:409][868]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.33.42:011][901]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.33.42:031][902]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.33.42:170][911]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.33.42:523][936]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.33.42:523][936]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.33.42:523][936]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.33.42:523][936]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.33.42:523][936]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.33.42:523][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.33.42:523][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.33.43:604][ 51]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.43:611][ 51]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.43:638][ 53]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.33.43:638][ 53]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.33.43:638][ 53]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.33.43:638][ 53]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.33.43:638][ 53]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.33.43:638][ 53]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.33.43:638][ 53]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.33.43:638][ 53]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.33.44:106][ 75]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.33.44:128][ 76]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.33.44:229][ 82]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.33.44:607][109]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.33.44:607][109]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.33.44:607][109]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.33.44:607][109]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.33.44:607][109]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.33.44:607][109]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.33.44:607][109]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.33.45:677][221]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.45:685][221]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.45:720][222]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.33.45:721][222]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.33.45:721][222]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.33.45:721][222]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.33.45:721][222]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.33.45:721][222]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.33.45:721][222]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.33.45:721][222]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.33.46:186][243]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.33.46:186][243]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.33.46:307][251]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.33.46:675][276]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.33.46:675][276]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.33.46:675][276]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.33.46:675][276]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.33.46:675][276]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.33.46:675][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.33.46:675][276]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.33.49:997][645]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.50:004][645]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.33.50:019][646]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.33.50:019][646]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.33.50:019][646]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.33.50:019][646]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.33.50:019][646]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.33.50:019][646]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.33.50:019][646]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.33.50:019][646]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.33.50:492][670]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.33.50:492][670]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.06.30-12.33.50:641][678]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.06.30-12.33.51:004][703]MaterialEditorStats: Base pass shader: 145 instructions
+[2021.06.30-12.33.51:004][703]MaterialEditorStats: Base pass shader with Surface Lightmap: 172 instructions
+[2021.06.30-12.33.51:004][703]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 219 instructions
+[2021.06.30-12.33.51:004][703]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.30-12.33.51:004][703]MaterialEditorStats: Texture samplers: 6/16
+[2021.06.30-12.33.51:004][703]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2021.06.30-12.33.51:004][703]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.30-12.34.15:598][778]LogSlate: Window 'Message' being destroyed
+[2021.06.30-12.34.15:603][778]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/M_Brick_Clay_Old_2.M_Brick_Clay_Old_2
+(Selecting 'No' will cause all changes to be lost!)
+[2021.06.30-12.34.15:603][778]LogSlate: Window 'M_Brick_Clay_Old_2' being destroyed
+[2021.06.30-12.34.15:618][778]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-12.34.15:618][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-12.34.15:700][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.30-12.34.15:703][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.30-12.34.15:721][779]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_Auto54D0E81044B97F5D5C674C7B00F0A6729.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto5.umap'
+[2021.06.30-12.34.15:722][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.028
+[2021.06.30-12.34.15:722][779]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2021.06.30-12.34.15:723][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Brick_Clay_Old_2] ([1] browsable assets)...
+[2021.06.30-12.34.15:757][779]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Brick_Clay_Old_2.M_Brick_Clay_Old_2]
+[2021.06.30-12.34.15:757][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Brick_Clay_Old_2]
+[2021.06.30-12.34.15:766][779]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/M_Brick_Clay_Old_2_Auto50221451145BC6C2AC36CBBB32BF934A2.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/StarterContent/Materials/M_Brick_Clay_Old_2_Auto5.uasset'
+[2021.06.30-12.34.15:766][779]LogFileHelpers: Auto-saving content packages took 0.044
+[2021.06.30-12.34.36:739][180]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.36:739][180]LogEditorTransaction: Undo Select Brush Surface
+[2021.06.30-12.34.37:171][191]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.37:171][191]LogEditorTransaction: Undo Select Brush Surface
+[2021.06.30-12.34.37:745][252]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.37:745][252]LogEditorTransaction: Undo Create Actors
+[2021.06.30-12.34.38:753][371]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.38:753][371]LogEditorTransaction: Undo Create Actors
+[2021.06.30-12.34.39:134][416]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.39:134][416]LogEditorTransaction: Undo Edit UTiling
+[2021.06.30-12.34.39:135][416]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.39:153][417]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.34.39:153][417]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.34.39:153][417]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.06.30-12.34.39:153][417]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.34.39:153][417]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.06.30-12.34.39:153][417]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.34.39:153][417]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.30-12.34.39:153][417]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.06.30-12.34.39:520][455]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.39:520][455]LogEditorTransaction: Undo Edit UTiling
+[2021.06.30-12.34.39:524][455]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.39:799][473]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.06.30-12.34.39:823][475]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.30-12.34.39:904][483]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.39:904][483]LogEditorTransaction: Undo Edit UTiling
+[2021.06.30-12.34.39:906][483]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.39:955][487]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.06.30-12.34.40:027][494]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.06.30-12.34.40:050][496]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.06.30-12.34.40:050][496]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.06.30-12.34.40:094][500]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.06.30-12.34.40:094][500]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.06.30-12.34.40:305][517]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.40:305][517]LogEditorTransaction: Undo Edit UTiling
+[2021.06.30-12.34.40:309][517]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.40:461][527]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.06.30-12.34.40:521][532]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.34.40:521][532]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.06.30-12.34.40:630][543]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.40:630][543]LogEditorTransaction: Undo Edit VTiling
+[2021.06.30-12.34.40:633][543]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.40:712][546]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.06.30-12.34.40:712][546]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.06.30-12.34.40:773][551]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.30-12.34.40:773][551]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.30-12.34.40:865][559]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.06.30-12.34.40:927][564]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.40:927][564]LogEditorTransaction: Undo Edit VTiling
+[2021.06.30-12.34.40:931][564]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.41:106][576]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.06.30-12.34.41:107][576]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.06.30-12.34.41:187][583]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.41:187][583]LogEditorTransaction: Undo Edit VTiling
+[2021.06.30-12.34.41:191][583]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.41:217][584]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.06.30-12.34.41:228][585]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.34.41:377][599]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.30-12.34.41:399][601]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.41:400][601]LogEditorTransaction: Undo Edit VTiling
+[2021.06.30-12.34.41:404][601]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.41:433][602]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.06.30-12.34.41:433][602]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.06.30-12.34.41:575][614]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.41:575][614]LogEditorTransaction: Undo Edit VTiling
+[2021.06.30-12.34.41:580][614]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.41:611][615]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.06.30-12.34.41:749][626]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.30-12.34.41:749][626]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.41:749][626]LogEditorTransaction: Undo Edit VTiling
+[2021.06.30-12.34.41:753][626]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.41:788][627]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.06.30-12.34.41:873][635]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.41:873][635]LogEditorTransaction: Undo Material Editor: New Expression
+[2021.06.30-12.34.41:877][635]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.41:926][635]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.06.30-12.34.41:926][635]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.30-12.34.41:985][640]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.30-12.34.42:031][644]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.42:031][644]LogEditorTransaction: Undo Material Editor: Delete
+[2021.06.30-12.34.42:035][644]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.42:094][646]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2021.06.30-12.34.42:094][646]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.06.30-12.34.42:205][654]Cmd: TRANSACTION UNDO
+[2021.06.30-12.34.42:205][654]LogEditorTransaction: Undo Edit Default Value
+[2021.06.30-12.34.42:210][654]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old_2, compiling. 
+[2021.06.30-12.34.42:261][655]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2021.06.30-12.34.42:433][669]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.06.30-12.34.42:433][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.06.30-12.34.42:443][670]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.06.30-12.34.42:588][684]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.06.30-12.34.42:588][684]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.06.30-12.34.42:622][687]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.06.30-12.34.42:787][701]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.06.30-12.34.42:787][701]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.06.30-12.34.42:799][702]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2021.06.30-12.34.42:799][702]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.06.30-12.34.42:915][713]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.06.30-12.34.42:929][714]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.30-12.34.42:964][717]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.06.30-12.34.42:964][717]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.06.30-12.34.43:135][731]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.06.30-12.34.43:246][739]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.06.30-12.34.43:390][751]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.06.30-12.34.43:425][754]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.30-12.34.43:425][754]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.06.30-12.34.43:569][768]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.06.30-12.34.43:581][769]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.06.30-12.34.43:650][775]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.06.30-12.34.43:650][775]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.06.30-12.34.45:280][954]Cmd: EDIT COPY
+[2021.06.30-12.34.45:488][979]Cmd: EDIT PASTE
+[2021.06.30-12.37.26:660][997]Candidate modules for hot reload:
+[2021.06.30-12.37.26:660][997]  Escape
+[2021.06.30-12.37.26:661][997]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,9126 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.06.30-12.37.26:663][997]Warning: Starting HotReload took  0.1s.
+[2021.06.30-12.37.28:276][146]CompilerResultsLog: New page: Compilation - Jul 1, 2021, 8:37:28 AM
+[2021.06.30-12.37.28:277][146]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.06.30-12.37.28:277][146]CompilerResultsLog: Building EscapeEditor...
+[2021.06.30-12.37.28:277][146]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.30-12.37.28:277][146]CompilerResultsLog: Building 3 actions with 12 processes...
+[2021.06.30-12.37.28:277][146]CompilerResultsLog:   [1/3] UE4Editor-Escape-9126.lib
+[2021.06.30-12.37.28:277][146]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-9126.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-9126.exp
+[2021.06.30-12.37.28:277][146]CompilerResultsLog:   [2/3] UE4Editor-Escape-9126.dll
+[2021.06.30-12.37.28:277][146]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-9126.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-9126.suppressed.exp
+[2021.06.30-12.37.28:277][146]CompilerResultsLog:   [3/3] EscapeEditor.target
+[2021.06.30-12.37.28:277][146]CompilerResultsLog: Total time in Parallel executor: 0.93 seconds
+[2021.06.30-12.37.28:277][146]CompilerResultsLog: Total execution time: 1.55 seconds
+[2021.06.30-12.37.28:277][146]LogMainFrame: MainFrame: Module compiling took 1.664 seconds
+[2021.06.30-12.37.28:309][146]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.06.30-12.37.28:309][146]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.30-12.37.28:338][146]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3602 classes and 861 folders.
+[2021.06.30-12.37.28:341][146]Display: HotReload took  1.7s.
+[2021.06.30-12.37.30:682][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.30-12.37.31:814][522]Cmd: DELETE
+[2021.06.30-12.37.31:814][522]Cmd: ACTOR DELETE
+[2021.06.30-12.37.31:817][522]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.30-12.37.31:821][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.30-12.37.31:827][522]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.06.30-12.37.32:441][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.06.30-12.37.53:662][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.06.30-12.38.14:883][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../../GameDev/Escape/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.30-12.38.14:886][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.30-12.38.14:908][589]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap973DF4474AEF07ADD93418BF5411C4D7.tmp' to '../../../../../../GameDev/Escape/Content/Maps/DefaultMap.umap'
+[2021.06.30-12.38.14:916][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap_BuiltData" FILE="../../../../../../GameDev/Escape/Content/Maps/DefaultMap_BuiltData.uasset" SILENT=true
+[2021.06.30-12.38.14:928][589]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_BuiltData9A6392D3423C1E0F11620F866DF840A9.tmp' to '../../../../../../GameDev/Escape/Content/Maps/DefaultMap_BuiltData.uasset'
+[2021.06.30-12.38.14:938][589]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-12.38.14:938][589]LogContentValidation: Display: Validating World /Game/Maps/DefaultMap.DefaultMap
+[2021.06.30-12.38.14:938][589]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DefaultMap_BuiltData.DefaultMap_BuiltData
+[2021.06.30-12.38.18:531][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.06.30-12.38.52:729][303]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/GameDev/Escape/Escape.uproject" -game -rocket -progress
+[2021.06.30-12.38.53:033][303]Discovering modules, targets and source code for project...
+[2021.06.30-12.38.56:753][303]Binding IntelliSense data...
+[2021.06.30-12.39.03:696][303]Binding IntelliSense data... 100%
+[2021.06.30-12.39.03:696][303]Writing project files...
+[2021.06.30-12.39.07:715][303]Writing project files... 100%
+[2021.06.30-12.39.07:822][303]Candidate modules for hot reload:
+[2021.06.30-12.39.07:823][303]  Escape
+[2021.06.30-12.39.07:823][303]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,1126 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: New page: Compilation - Jul 1, 2021, 8:39:31 AM
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: Creating makefile for EscapeEditor (no existing makefile)
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.06.30-12.39.31:094][303]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: Reflection code generated for EscapeEditor in 17.3676003 seconds
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: Building EscapeEditor...
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.06.30-12.39.31:094][303]CompilerResultsLog:   [1/6] Escape.init.gen.cpp
+[2021.06.30-12.39.31:094][303]CompilerResultsLog:   [2/6] OpenDoor.cpp
+[2021.06.30-12.39.31:094][303]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2021.06.30-12.39.31:094][303]CompilerResultsLog:   [4/6] UE4Editor-Escape-1126.lib
+[2021.06.30-12.39.31:094][303]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1126.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1126.exp
+[2021.06.30-12.39.31:094][303]CompilerResultsLog:   [5/6] UE4Editor-Escape-1126.dll
+[2021.06.30-12.39.31:094][303]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1126.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1126.suppressed.exp
+[2021.06.30-12.39.31:094][303]CompilerResultsLog:   [6/6] EscapeEditor.target
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: Total time in Parallel executor: 4.28 seconds
+[2021.06.30-12.39.31:094][303]CompilerResultsLog: Total execution time: 23.20 seconds
+[2021.06.30-12.39.31:094][303]LogMainFrame: MainFrame: Module compiling took 23.274 seconds
+[2021.06.30-12.39.31:114][303]LogClass: Could not find existing class OpenDoor in package /Script/Escape for HotReload, assuming new class
+[2021.06.30-12.39.31:116][303]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.06.30-12.39.31:117][303]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.30-12.39.31:146][303]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3603 classes and 861 folders.
+[2021.06.30-12.39.31:149][303]Display: HotReload took 23.3s.
+[2021.06.30-12.39.31:149][303]Warning: HotReload operation took 23.3s.
+[2021.06.30-12.39.31:638][303]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/GameDev/Escape/Source/Escape/OpenDoor.h'
+[2021.06.30-12.39.31:774][303]LogSlate: Window 'Add C++ Component' being destroyed
+[2021.06.30-12.39.31:788][303]LogHotReload: New module detected: UE4Editor-Escape-1126.dll
+[2021.06.30-12.39.31:848][304]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.30-12.39.31:871][304]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.06.30-12.39.31:871][304]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.30-12.39.31:881][304]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3603 classes and 861 folders.
+[2021.06.30-12.39.31:886][304]Display: HotReload took  0.0s.
+[2021.06.30-12.40.10:591][518]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.06.30-12.40.17:566][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.06.30-12.40.22:669][936]Cmd: TRANSACTION UNDO
+[2021.06.30-12.40.22:669][936]LogEditorTransaction: Undo Rotate Actors
+[2021.06.30-12.40.43:208][303]MapCheck: New page: Map Check
+[2021.06.30-12.40.43:223][303]Cmd: MAP REBUILD ALLVISIBLE
+[2021.06.30-12.40.43:223][303]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.06.30-12.40.43:229][303]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=false
+[2021.06.30-12.40.43:240][303]LogEditorServer: Cleared 20 NULL BSP materials after rebuild.
+[2021.06.30-12.40.43:244][303]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.06.30-12.40.43:244][303]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.06.30-12.40.43:244][303]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.06.30-12.40.43:250][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.06.30-12.40.43:255][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.40.43:257][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.40.43:258][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.40.43:277][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.06.30-12.40.43:277][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.06.30-12.40.43:277][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.30-12.40.43:277][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.30-12.40.43:277][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.06.30-12.40.43:277][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.06.30-12.40.43:277][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.06.30-12.40.43:317][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 48
+[2021.06.30-12.40.43:317][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2021.06.30-12.40.43:317][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.40.43:319][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.40.43:321][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.40.43:322][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.40.43:324][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.40.43:326][303]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.30-12.40.45:858][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 58
+[2021.06.30-12.40.45:858][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 57
+[2021.06.30-12.40.45:858][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 56
+[2021.06.30-12.40.45:858][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2021.06.30-12.40.45:858][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 54
+[2021.06.30-12.40.45:858][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 49
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 45
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 44
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 43
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 41
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 39
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 38
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 31
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.06.30-12.40.45:859][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.06.30-12.40.45:859][303]TextureStreamingBuild: Display: Compiling optional shaders took 2.603 seconds.
+[2021.06.30-12.40.45:921][303]LogLevel: Display: Export Material TexCoord Scales took 0.062 seconds.
+[2021.06.30-12.40.45:923][303]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.06.30-12.40.45:925][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.06.30-12.40.45:927][303]LightingResults: New page: Lighting Build - Jul 1, 2021, 8:40:45 AM
+[2021.06.30-12.40.45:934][303]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.06.30-12.40.45:943][303]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.06.30-12.40.45:943][303]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.06.30-12.40.45:944][303]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.06.30-12.40.45:945][303]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11752
+[2021.06.30-12.40.50:475][303]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.06.30-12.40.50:475][303]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.06.30-12.40.50:475][303]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.06.30-12.40.50:475][303]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.06.30-12.40.50:475][303]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.06.30-12.40.50:475][303]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.06.30-12.40.50:603][303]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.06.30-12.40.50:603][303]MapCheck: New page: DefaultMap - Jul 1, 2021, 8:40:50 AM
+[2021.06.30-12.40.50:604][303]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.06.30-12.40.50:604][303]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.57ms to complete.
+[2021.06.30-12.40.50:606][303]LogEditorBuildUtils: Build time 0:07
+[2021.06.30-12.40.50:734][304]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Wood, compiling. 
+[2021.06.30-12.40.50:736][304]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Wood, compiling. 
+[2021.06.30-12.40.50:738][304]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2021.06.30-12.40.50:741][304]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2021.06.30-12.40.50:743][304]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Tiles, compiling. 
+[2021.06.30-12.40.50:746][304]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.06.30-12.40.50:746][304]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.30-12.40.50:746][304]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.06.30-12.40.50:746][304]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.06.30-12.40.50:746][304]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Tiles, compiling. 
+[2021.06.30-12.40.50:797][304]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.06.30-12.40.50:797][304]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.06.30-12.40.50:797][304]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.06.30-12.40.50:797][304]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.06.30-12.40.50:813][305]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Grime, compiling. 
+[2021.06.30-12.40.50:816][305]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Grime, compiling. 
+[2021.06.30-12.40.50:819][305]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2021.06.30-12.40.50:823][305]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2021.06.30-12.40.50:923][306]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_New, compiling. 
+[2021.06.30-12.40.50:928][306]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_New, compiling. 
+[2021.06.30-12.40.50:932][306]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Gravel, compiling. 
+[2021.06.30-12.40.50:936][306]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Gravel, compiling. 
+[2021.06.30-12.40.52:429][307]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.06.30-12.40.52:430][307]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.06.30-12.40.52:430][307]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.06.30-12.40.52:430][307]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.06.30-12.40.52:430][307]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.06.30-12.40.52:430][307]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.06.30-12.40.52:430][307]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.06.30-12.40.52:430][307]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.06.30-12.40.52:430][307]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.06.30-12.40.52:430][307]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.06.30-12.40.53:124][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.30-12.40.54:487][326]Job is a success!
+[2021.06.30-12.40.54:957][327]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.06.30-12.40.54:958][327]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.06.30-12.40.54:958][327]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2021.06.30-12.40.54:958][327]LogVolumetricLightmapImport:      Bricks at depth
+[2021.06.30-12.40.54:958][327]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2021.06.30-12.40.54:958][327]LogVolumetricLightmapImport:          1: 8.5% covering 6.3% of volume
+[2021.06.30-12.40.54:958][327]LogVolumetricLightmapImport:          2: 89.4% covering 1.0% of volume
+[2021.06.30-12.40.54:958][327]LogVolumetricLightmapImport:      Bricks in each level
+[2021.06.30-12.40.54:958][327]LogVolumetricLightmapImport:          DefaultMap 			 47 bricks 	 100.0% (Persistent Level)
+[2021.06.30-12.40.55:027][327]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.06.30-12.40.55:027][327]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.06.30-12.40.55:027][327]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2021.06.30-12.40.55:027][327]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2021.06.30-12.40.55:027][327]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2021.06.30-12.40.55:027][327]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2021.06.30-12.40.55:027][327]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2021.06.30-12.40.55:027][327]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 128X64)
+[2021.06.30-12.40.55:027][327]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X256)
+[2021.06.30-12.40.55:028][327]LogStaticLightingSystem: DefaultMap_BuiltData storing lightmap data for 14 meshes in 3 LightmapResourceClusters (4.7 Meshes per cluster).
+[2021.06.30-12.40.55:032][327]LogMaterial: Display: Material /Game/Scenery/Door/Wood.Wood needed to have new flag set bUsedWithStaticLighting !
+[2021.06.30-12.40.55:034][327]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2021.06.30-12.40.55:044][327]Lightmass on INTERNET: 1.42 sec total, 178 ms importing, 33 ms setup, 64 ms photons, 1.09 sec processing, 0 ms extra exporting [56/56 mappings]. Threads: 12.0 sec total, 689 ms processing.
+[2021.06.30-12.40.55:048][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.06.30-12.40.55:052][327]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.06.30-12.40.55:052][327]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.06.30-12.40.55:052][327]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.06.30-12.40.55:052][327]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.06.30-12.40.55:052][327]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.06.30-12.40.55:052][327]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.06.30-12.40.55:052][327]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.06.30-12.40.55:082][327]LogStaticLightingSystem: Illumination: 8.78 sec (36 ms encoding lightmaps, 13 ms encoding shadowmaps)
+[2021.06.30-12.40.55:082][327]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.0 MB streaming, 0.5 MB non-streaming), 6 textures
+[2021.06.30-12.40.55:082][327]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.0 MB streaming, 0.3 MB non-streaming), 3 textures
+[2021.06.30-12.40.55:500][327]DumpUnbuiltLightIteractions
+[2021.06.30-12.40.55:500][327]Lights with unbuilt interactions: 0
+[2021.06.30-12.40.55:500][327]
+[2021.06.30-12.40.55:500][327]Primitives with unbuilt interactions: 0
+[2021.06.30-12.40.56:646][327]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.06.30-12.40.56:688][328]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.06.30-12.40.56:688][328]MapCheck: New page: DefaultMap - Jul 1, 2021, 8:40:56 AM
+[2021.06.30-12.40.56:688][328]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.396ms to complete.
+[2021.06.30-12.40.59:969][425]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-12.40.59:972][425]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-12.41.01:856][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.06.30-12.41.03:631][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
