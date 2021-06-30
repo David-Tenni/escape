@@ -20,7 +20,7 @@ void UWorldPosition::BeginPlay()
 	Super::BeginPlay();
 
 	FVector ActorLocation = GetOwner()->GetActorLocation();
-	FString Log = ActorLocation.ToString();
+	FString Log = ActorLocation.ToCompactString();
 
 	UE_LOG(LogTemp, Warning, TEXT("%s"),*Log);
 
