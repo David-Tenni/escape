@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
-#include "WorldPosition.generated.h"
+#include "WorldPosition.generated.h" //keep this include last always
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
