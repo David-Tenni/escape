@@ -24243,3 +24243,439 @@ Are you sure?
 [2021.07.01-06.24.35:452][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.07.01-06.24.35:468][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2021.07.01-06.24.35:491][771]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.07.01-06.25.40:961][687]Candidate modules for hot reload:
+[2021.07.01-06.25.40:961][687]  Escape
+[2021.07.01-06.25.40:961][687]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,5973 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.01-06.25.40:963][687]Warning: Starting HotReload took  0.0s.
+[2021.07.01-06.25.42:735][851]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 2:25:42 AM
+[2021.07.01-06.25.42:736][851]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.01-06.25.42:736][851]CompilerResultsLog: Building EscapeEditor...
+[2021.07.01-06.25.42:736][851]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.01-06.25.42:736][851]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.07.01-06.25.42:736][851]CompilerResultsLog:   [1/4] OpenDoor.cpp
+[2021.07.01-06.25.42:736][851]CompilerResultsLog:   [2/4] UE4Editor-Escape-5973.lib
+[2021.07.01-06.25.42:736][851]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5973.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5973.exp
+[2021.07.01-06.25.42:736][851]CompilerResultsLog:   [3/4] UE4Editor-Escape-5973.dll
+[2021.07.01-06.25.42:736][851]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5973.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5973.suppressed.exp
+[2021.07.01-06.25.42:736][851]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.07.01-06.25.42:736][851]CompilerResultsLog: Total time in Parallel executor: 1.24 seconds
+[2021.07.01-06.25.42:736][851]CompilerResultsLog: Total execution time: 1.71 seconds
+[2021.07.01-06.25.42:736][851]LogMainFrame: MainFrame: Module compiling took 1.777 seconds
+[2021.07.01-06.25.42:754][851]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.07.01-06.25.42:755][851]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.01-06.25.42:783][851]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3603 classes and 861 folders.
+[2021.07.01-06.25.42:787][851]Display: HotReload took  1.8s.
+[2021.07.01-06.25.54:160][212]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.01-06.25.54:165][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-06.25.54:165][212]PIE: New page: PIE session: DefaultMap (Jul 2, 2021, 2:25:54 AM)
+[2021.07.01-06.25.54:165][212]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-06.25.54:172][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006363s)
+[2021.07.01-06.25.54:172][212]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.01-06.25.54:173][212]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2021.07.01-06.25.54:173][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007380s)
+[2021.07.01-06.25.54:176][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.01-06.25.54:177][212]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2021.07.01-06.25.54:177][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-06.25.54:177][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-06.25.54:177][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-06.25.54:177][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-06.25.54:177][212]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-06.25.54:177][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-06.25.54:177][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-06.25.54:177][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-06.25.54:177][212]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-06.25.54:177][212]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-06.25.54:182][212]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-06.25.54:182][212]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-06.25.54:189][212]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.01-06.25.54:190][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-06.25.54:190][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-06.25.54:190][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-06.25.54:190][212]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-06.25.54:190][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-06.25.54:190][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-06.25.54:202][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-06.25.54:202][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-06.25.54:202][212]LogInit: FAudioDevice initialized.
+[2021.07.01-06.25.54:202][212]LogAudio: Display: Audio Device (ID: 68) registered with world 'DefaultMap'.
+[2021.07.01-06.25.54:209][212]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-06.25.54:210][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.01-16.25.54
+[2021.07.01-06.25.54:211][212]LogWorld: Bringing up level for play took: 0.000768
+[2021.07.01-06.25.54:211][212]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.07.01-06.25.54:212][212]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.01-06.25.54:212][212]PIE: Server logged in
+[2021.07.01-06.25.54:213][212]PIE: Play in editor total start time 0.049 seconds.
+[2021.07.01-06.26.01:048][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-06.26.01:049][ 27]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-06.26.01:049][ 27]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-06.26.01:049][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-06.26.01:059][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-06.26.01:074][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-06.26.01:076][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-06.26.01:076][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-06.26.01:077][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-06.26.01:093][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-06.26.01:095][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.01-06.26.01:124][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.07.01-06.26.35:420][138]Cmd: SELECT NONE
+[2021.07.01-07.14.15:909][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.07.01-07.14.15:915][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.07.01-07.14.15:933][631]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_Auto2C2B4A59E4DBFEB64DAF23CB30DB01C3B.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto2.umap'
+[2021.07.01-07.14.15:935][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.029
+[2021.07.01-07.14.15:935][631]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2021.07.01-07.20.54:621][239]Candidate modules for hot reload:
+[2021.07.01-07.20.54:621][239]  Escape
+[2021.07.01-07.20.54:621][239]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,5864 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.01-07.20.54:623][239]Warning: Starting HotReload took  0.0s.
+[2021.07.01-07.20.57:545][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.07.01-07.20.59:977][511]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 3:20:59 AM
+[2021.07.01-07.20.59:977][511]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.01-07.20.59:978][511]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.07.01-07.20.59:978][511]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.01-07.20.59:978][511]CompilerResultsLog: Reflection code generated for EscapeEditor in 3.2722316 seconds
+[2021.07.01-07.20.59:978][511]CompilerResultsLog: Building EscapeEditor...
+[2021.07.01-07.20.59:978][511]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.01-07.20.59:978][511]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.07.01-07.20.59:978][511]CompilerResultsLog:   [1/6] Escape.init.gen.cpp
+[2021.07.01-07.20.59:978][511]CompilerResultsLog:   [2/6] OpenDoor.cpp
+[2021.07.01-07.20.59:978][511]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2021.07.01-07.20.59:978][511]CompilerResultsLog:   [4/6] UE4Editor-Escape-5864.lib
+[2021.07.01-07.20.59:978][511]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5864.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5864.exp
+[2021.07.01-07.20.59:978][511]CompilerResultsLog:   [5/6] UE4Editor-Escape-5864.dll
+[2021.07.01-07.20.59:978][511]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5864.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5864.suppressed.exp
+[2021.07.01-07.20.59:978][511]CompilerResultsLog:   [6/6] EscapeEditor.target
+[2021.07.01-07.20.59:978][511]CompilerResultsLog: Total time in Parallel executor: 1.47 seconds
+[2021.07.01-07.20.59:978][511]CompilerResultsLog: Total execution time: 5.28 seconds
+[2021.07.01-07.20.59:978][511]LogMainFrame: MainFrame: Module compiling took 5.361 seconds
+[2021.07.01-07.21.00:008][511]LogClass: Could not find existing class OpenDoor in package /Script/Escape for HotReload, assuming new class
+[2021.07.01-07.21.00:011][511]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2021.07.01-07.21.00:014][511]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2021.07.01-07.21.00:015][511]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.01-07.21.00:057][511]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0134 seconds. Added 3603 classes and 861 folders.
+[2021.07.01-07.21.00:065][511]Display: HotReload took  5.5s.
+[2021.07.01-07.21.42:435][832]Candidate modules for hot reload:
+[2021.07.01-07.21.42:435][832]  Escape
+[2021.07.01-07.21.42:435][832]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,8247 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.01-07.21.42:438][832]Warning: Starting HotReload took  0.0s.
+[2021.07.01-07.21.43:855][968]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 3:21:43 AM
+[2021.07.01-07.21.43:855][968]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.01-07.21.43:855][968]CompilerResultsLog: Building EscapeEditor...
+[2021.07.01-07.21.43:855][968]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.01-07.21.43:855][968]CompilerResultsLog: Building 3 actions with 12 processes...
+[2021.07.01-07.21.43:855][968]CompilerResultsLog:   [1/3] UE4Editor-Escape-8247.lib
+[2021.07.01-07.21.43:855][968]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8247.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8247.exp
+[2021.07.01-07.21.43:855][968]CompilerResultsLog:   [2/3] UE4Editor-Escape-8247.dll
+[2021.07.01-07.21.43:855][968]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8247.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8247.suppressed.exp
+[2021.07.01-07.21.43:855][968]CompilerResultsLog:   [3/3] EscapeEditor.target
+[2021.07.01-07.21.43:855][968]CompilerResultsLog: Total time in Parallel executor: 0.85 seconds
+[2021.07.01-07.21.43:855][968]CompilerResultsLog: Total execution time: 1.36 seconds
+[2021.07.01-07.21.43:855][968]LogMainFrame: MainFrame: Module compiling took 1.423 seconds
+[2021.07.01-07.21.43:875][968]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.07.01-07.21.43:876][968]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.01-07.21.43:907][968]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0111 seconds. Added 3603 classes and 861 folders.
+[2021.07.01-07.21.43:911][968]Display: HotReload took  1.5s.
+[2021.07.01-07.24.16:251][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.07.01-07.24.16:255][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.07.01-07.24.16:272][914]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_Auto3C02970A64E3F005397D53E8E0D87C0F6.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto3.umap'
+[2021.07.01-07.24.16:274][914]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.026
+[2021.07.01-07.24.16:274][914]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2021.07.01-07.26.35:341][403]Candidate modules for hot reload:
+[2021.07.01-07.26.35:341][403]  Escape
+[2021.07.01-07.26.35:341][403]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,5334 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.01-07.26.35:344][403]Warning: Starting HotReload took  0.0s.
+[2021.07.01-07.26.41:158][ 53]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 3:26:41 AM
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog: Reflection code generated for EscapeEditor in 3.6987587 seconds
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog: Building EscapeEditor...
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog:   [1/6] OpenDoor.cpp
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog:   [2/6] Escape.init.gen.cpp
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog:   [3/6] OpenDoor.gen.cpp
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog:   [4/6] UE4Editor-Escape-5334.lib
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5334.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5334.exp
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog:   [5/6] UE4Editor-Escape-5334.dll
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5334.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5334.suppressed.exp
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog:   [6/6] EscapeEditor.target
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog: Total time in Parallel executor: 1.46 seconds
+[2021.07.01-07.26.41:159][ 53]CompilerResultsLog: Total execution time: 5.74 seconds
+[2021.07.01-07.26.41:159][ 53]LogMainFrame: MainFrame: Module compiling took 5.822 seconds
+[2021.07.01-07.26.41:181][ 53]LogClass: Could not find existing class OpenDoor in package /Script/Escape for HotReload, assuming new class
+[2021.07.01-07.26.41:184][ 53]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2021.07.01-07.26.41:188][ 53]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2021.07.01-07.26.41:190][ 53]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.01-07.26.41:221][ 53]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 3603 classes and 861 folders.
+[2021.07.01-07.26.41:225][ 53]Display: HotReload took  5.9s.
+[2021.07.01-07.27.18:960][400]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.01-07.27.18:966][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-07.27.18:966][400]PIE: New page: PIE session: DefaultMap (Jul 2, 2021, 3:27:18 AM)
+[2021.07.01-07.27.18:966][400]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-07.27.18:974][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007782s)
+[2021.07.01-07.27.18:976][400]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.01-07.27.18:976][400]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2021.07.01-07.27.18:976][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.009582s)
+[2021.07.01-07.27.18:979][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.01-07.27.18:981][400]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2021.07.01-07.27.18:982][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-07.27.18:982][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-07.27.18:982][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-07.27.18:982][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-07.27.18:982][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-07.27.18:982][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-07.27.18:982][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-07.27.18:982][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-07.27.18:982][400]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-07.27.18:982][400]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-07.27.18:987][400]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-07.27.18:987][400]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-07.27.18:995][400]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.01-07.27.18:999][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-07.27.18:999][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-07.27.18:999][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-07.27.19:000][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-07.27.19:000][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-07.27.19:000][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-07.27.19:009][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-07.27.19:009][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-07.27.19:009][400]LogInit: FAudioDevice initialized.
+[2021.07.01-07.27.19:009][400]LogAudio: Display: Audio Device (ID: 69) registered with world 'DefaultMap'.
+[2021.07.01-07.27.19:023][400]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-07.27.19:024][400]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.01-17.27.19
+[2021.07.01-07.27.19:024][400]LogWorld: Bringing up level for play took: 0.000947
+[2021.07.01-07.27.19:024][400]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.07.01-07.27.19:027][400]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.01-07.27.19:029][400]PIE: Server logged in
+[2021.07.01-07.27.19:029][400]PIE: Play in editor total start time 0.065 seconds.
+[2021.07.01-07.27.25:689][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-07.27.25:689][193]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-07.27.25:689][193]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-07.27.25:690][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-07.27.25:699][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-07.27.25:714][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-07.27.25:717][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-07.27.25:717][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-07.27.25:718][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-07.27.25:735][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.01-07.27.25:758][194]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.07.01-07.27.34:599][408]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.01-07.27.34:604][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-07.27.34:604][408]PIE: New page: PIE session: DefaultMap (Jul 2, 2021, 3:27:34 AM)
+[2021.07.01-07.27.34:604][408]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-07.27.34:611][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007078s)
+[2021.07.01-07.27.34:612][408]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.01-07.27.34:613][408]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2021.07.01-07.27.34:613][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.008376s)
+[2021.07.01-07.27.34:616][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.07.01-07.27.34:617][408]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.07.01-07.27.34:617][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-07.27.34:617][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-07.27.34:617][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-07.27.34:617][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-07.27.34:617][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-07.27.34:617][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-07.27.34:617][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-07.27.34:617][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-07.27.34:617][408]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-07.27.34:617][408]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-07.27.34:621][408]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-07.27.34:621][408]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-07.27.34:629][408]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.01-07.27.34:629][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-07.27.34:629][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-07.27.34:630][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-07.27.34:630][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-07.27.34:630][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-07.27.34:630][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-07.27.34:642][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-07.27.34:642][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-07.27.34:642][408]LogInit: FAudioDevice initialized.
+[2021.07.01-07.27.34:642][408]LogAudio: Display: Audio Device (ID: 70) registered with world 'DefaultMap'.
+[2021.07.01-07.27.34:648][408]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-07.27.34:649][408]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.01-17.27.34
+[2021.07.01-07.27.34:649][408]LogWorld: Bringing up level for play took: 0.000841
+[2021.07.01-07.27.34:650][408]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.07.01-07.27.34:651][408]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.01-07.27.34:651][408]PIE: Server logged in
+[2021.07.01-07.27.34:652][408]PIE: Play in editor total start time 0.049 seconds.
+[2021.07.01-07.27.48:190][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.07.01-07.28.01:669][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-07.28.01:669][409]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-07.28.01:669][409]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-07.28.01:669][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-07.28.01:678][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-07.28.01:694][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-07.28.01:696][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-07.28.01:696][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-07.28.01:697][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-07.28.01:715][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.01-07.28.01:758][411]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.07.01-07.33.45:721][683]Candidate modules for hot reload:
+[2021.07.01-07.33.45:721][683]  Escape
+[2021.07.01-07.33.45:721][683]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,2797 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.01-07.33.45:724][683]Warning: Starting HotReload took  0.0s.
+[2021.07.01-07.33.50:353][705]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 3:33:50 AM
+[2021.07.01-07.33.50:355][705]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.01-07.33.50:355][705]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.07.01-07.33.50:355][705]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.01-07.33.50:355][705]CompilerResultsLog: Reflection code generated for EscapeEditor in 3.2074864 seconds
+[2021.07.01-07.33.50:355][705]CompilerResultsLog: Building EscapeEditor...
+[2021.07.01-07.33.50:355][705]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.01-07.33.50:355][705]CompilerResultsLog: Building 5 actions with 12 processes...
+[2021.07.01-07.33.50:355][705]CompilerResultsLog:   [1/5] OpenDoor.cpp
+[2021.07.01-07.33.50:355][705]CompilerResultsLog:    C:\GameDev\Escape\Source\Escape\OpenDoor.cpp(32) : error C2660: 'UOpenDoor::OpenDoor': function does not take 0 arguments
+[2021.07.01-07.33.50:355][705]CompilerResultsLog:   C:\GameDev\Escape\Source\Escape\OpenDoor.h(27): note: see declaration of 'UOpenDoor::OpenDoor'
+[2021.07.01-07.33.50:355][705]CompilerResultsLog:   [2/5] OpenDoor.gen.cpp
+[2021.07.01-07.33.50:355][705]LogMainFrame: MainFrame: Module compiling took 4.636 seconds
+[2021.07.01-07.33.50:355][705]Warning: HotReload failed, recompile failed
+[2021.07.01-07.34.05:460][858]Candidate modules for hot reload:
+[2021.07.01-07.34.05:460][858]  Escape
+[2021.07.01-07.34.05:461][858]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,3921 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.01-07.34.05:463][858]Warning: Starting HotReload took  0.0s.
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 3:34:07 AM
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog: Building EscapeEditor...
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog:   [1/4] OpenDoor.cpp
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog:   [2/4] UE4Editor-Escape-3921.lib
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-3921.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-3921.exp
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog:   [3/4] UE4Editor-Escape-3921.dll
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-3921.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-3921.suppressed.exp
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog: Total time in Parallel executor: 1.14 seconds
+[2021.07.01-07.34.07:128][ 11]CompilerResultsLog: Total execution time: 1.60 seconds
+[2021.07.01-07.34.07:128][ 11]LogMainFrame: MainFrame: Module compiling took 1.671 seconds
+[2021.07.01-07.34.07:149][ 11]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.07.01-07.34.07:150][ 11]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.01-07.34.07:178][ 11]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3603 classes and 861 folders.
+[2021.07.01-07.34.07:181][ 11]Display: HotReload took  1.7s.
+[2021.07.01-07.34.07:671][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.01-07.34.07:676][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-07.34.07:676][ 67]PIE: New page: PIE session: DefaultMap (Jul 2, 2021, 3:34:07 AM)
+[2021.07.01-07.34.07:715][ 67]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-07.34.07:722][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007062s)
+[2021.07.01-07.34.07:723][ 67]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.01-07.34.07:723][ 67]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2021.07.01-07.34.07:723][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.008518s)
+[2021.07.01-07.34.07:726][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.01-07.34.07:728][ 67]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2021.07.01-07.34.07:728][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-07.34.07:728][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-07.34.07:728][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-07.34.07:728][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-07.34.07:728][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-07.34.07:728][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-07.34.07:728][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-07.34.07:728][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-07.34.07:728][ 67]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-07.34.07:728][ 67]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-07.34.07:733][ 67]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-07.34.07:733][ 67]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-07.34.07:741][ 67]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.01-07.34.07:741][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-07.34.07:741][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-07.34.07:741][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-07.34.07:742][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-07.34.07:742][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-07.34.07:742][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-07.34.07:754][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-07.34.07:754][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-07.34.07:754][ 67]LogInit: FAudioDevice initialized.
+[2021.07.01-07.34.07:754][ 67]LogAudio: Display: Audio Device (ID: 71) registered with world 'DefaultMap'.
+[2021.07.01-07.34.07:760][ 67]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-07.34.07:762][ 67]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.01-17.34.07
+[2021.07.01-07.34.07:762][ 67]LogWorld: Bringing up level for play took: 0.000794
+[2021.07.01-07.34.07:762][ 67]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.07.01-07.34.07:763][ 67]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.01-07.34.07:763][ 67]PIE: Server logged in
+[2021.07.01-07.34.07:764][ 67]PIE: Play in editor total start time 0.089 seconds.
+[2021.07.01-07.34.09:006][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-07.34.09:006][212]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-07.34.09:006][212]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-07.34.09:006][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-07.34.09:013][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-07.34.09:027][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-07.34.09:030][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-07.34.09:030][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-07.34.09:031][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-07.34.09:046][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-07.34.09:048][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.01-07.34.09:079][214]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.07.01-07.35.14:053][832]Candidate modules for hot reload:
+[2021.07.01-07.35.14:053][832]  Escape
+[2021.07.01-07.35.14:053][832]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,8320 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.01-07.35.14:056][832]Warning: Starting HotReload took  0.0s.
+[2021.07.01-07.35.15:713][985]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 3:35:15 AM
+[2021.07.01-07.35.15:713][985]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.01-07.35.15:713][985]CompilerResultsLog: Building EscapeEditor...
+[2021.07.01-07.35.15:713][985]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.01-07.35.15:713][985]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.07.01-07.35.15:713][985]CompilerResultsLog:   [1/4] OpenDoor.cpp
+[2021.07.01-07.35.15:713][985]CompilerResultsLog:   [2/4] UE4Editor-Escape-8320.lib
+[2021.07.01-07.35.15:713][985]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8320.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8320.exp
+[2021.07.01-07.35.15:713][985]CompilerResultsLog:   [3/4] UE4Editor-Escape-8320.dll
+[2021.07.01-07.35.15:713][985]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8320.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8320.suppressed.exp
+[2021.07.01-07.35.15:713][985]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.07.01-07.35.15:713][985]CompilerResultsLog: Total time in Parallel executor: 1.13 seconds
+[2021.07.01-07.35.15:713][985]CompilerResultsLog: Total execution time: 1.59 seconds
+[2021.07.01-07.35.15:713][985]LogMainFrame: MainFrame: Module compiling took 1.664 seconds
+[2021.07.01-07.35.15:733][985]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2021.07.01-07.35.15:734][985]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.01-07.35.15:763][985]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3603 classes and 861 folders.
+[2021.07.01-07.35.15:766][985]Display: HotReload took  1.7s.
+[2021.07.01-07.35.17:003][131]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.01-07.35.17:008][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.01-07.35.17:008][131]PIE: New page: PIE session: DefaultMap (Jul 2, 2021, 3:35:17 AM)
+[2021.07.01-07.35.17:009][131]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-07.35.17:015][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006401s)
+[2021.07.01-07.35.17:016][131]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.01-07.35.17:016][131]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2021.07.01-07.35.17:016][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007496s)
+[2021.07.01-07.35.17:019][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.01-07.35.17:021][131]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2021.07.01-07.35.17:021][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.01-07.35.17:021][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.01-07.35.17:021][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.01-07.35.17:021][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.01-07.35.17:021][131]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.01-07.35.17:021][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.01-07.35.17:021][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.01-07.35.17:021][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.01-07.35.17:021][131]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.01-07.35.17:021][131]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.01-07.35.17:026][131]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.01-07.35.17:026][131]LogAudioMixer: Display: 1: FrontRight
+[2021.07.01-07.35.17:034][131]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.01-07.35.17:034][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.01-07.35.17:034][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.01-07.35.17:034][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.01-07.35.17:034][131]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.01-07.35.17:034][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.01-07.35.17:035][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.01-07.35.17:047][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.01-07.35.17:047][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.01-07.35.17:047][131]LogInit: FAudioDevice initialized.
+[2021.07.01-07.35.17:047][131]LogAudio: Display: Audio Device (ID: 72) registered with world 'DefaultMap'.
+[2021.07.01-07.35.17:054][131]LogLoad: Game class is 'GameModeBase'
+[2021.07.01-07.35.17:055][131]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.01-17.35.17
+[2021.07.01-07.35.17:055][131]LogWorld: Bringing up level for play took: 0.000839
+[2021.07.01-07.35.17:055][131]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.07.01-07.35.17:057][131]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.01-07.35.17:057][131]PIE: Server logged in
+[2021.07.01-07.35.17:058][131]PIE: Play in editor total start time 0.05 seconds.
+[2021.07.01-07.35.24:185][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.07.01-07.35.24:940][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.07.01-07.35.54:985][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-07.35.54:985][419]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.01-07.35.54:985][419]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.01-07.35.54:985][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-07.35.54:995][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.01-07.35.55:011][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.01-07.35.55:013][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.01-07.35.55:013][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-07.35.55:015][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.01-07.35.55:031][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.01-07.35.55:032][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.01-07.35.55:057][420]LogPlayLevel: Display: Destroying online subsystem :Context_81
