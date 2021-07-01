@@ -18,7 +18,7 @@ UOpenDoor::UOpenDoor()
 void UOpenDoor::BeginPlay()
 {
 	Super::BeginPlay();
-
+	FRotator ReverseDoorAngle = { 0, -90, 0 };
 	float OpenDoorAngle = 90.f;
 	FRotator CurrentRotation = GetOwner()->GetActorRotation();
 	CurrentRotation.Add(0, OpenDoorAngle, 0);
