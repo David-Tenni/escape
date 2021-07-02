@@ -27092,3 +27092,1010 @@ Are you sure?
 [2021.07.02-05.37.50:424][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.07.02-05.37.50:441][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2021.07.02-05.37.50:465][306]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2021.07.02-05.47.18:659][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.02-05.47.18:661][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.07.02-05.47.18:679][498]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_Auto8288E3DB24E24C0E7792CB698B1AF9579.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto8.umap'
+[2021.07.02-05.47.18:680][498]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.025
+[2021.07.02-05.47.18:680][498]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2021.07.02-06.04.29:690][292]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.02-06.04.31:008][426]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.02-06.31.31:114][396]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-06.31.31:120][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-06.31.31:120][396]PIE: New page: PIE session: DefaultMap (Jul 3, 2021, 2:31:31 AM)
+[2021.07.02-06.31.31:153][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-06.31.31:161][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007832s)
+[2021.07.02-06.31.31:161][396]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.02-06.31.31:162][396]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2021.07.02-06.31.31:162][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.009101s)
+[2021.07.02-06.31.31:166][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.07.02-06.31.31:168][396]LogAudio: Display: Creating Audio Device:                 Id: 104, Scope: Unique, Realtime: True
+[2021.07.02-06.31.31:168][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-06.31.31:168][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-06.31.31:168][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-06.31.31:168][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-06.31.31:168][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-06.31.31:168][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-06.31.31:168][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-06.31.31:168][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-06.31.31:168][396]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-06.31.31:168][396]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-06.31.31:173][396]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-06.31.31:173][396]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-06.31.31:181][396]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.02-06.31.31:182][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-06.31.31:182][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-06.31.31:182][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-06.31.31:183][396]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-06.31.31:183][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-06.31.31:183][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-06.31.31:195][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-06.31.31:195][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-06.31.31:195][396]LogInit: FAudioDevice initialized.
+[2021.07.02-06.31.31:195][396]LogAudio: Display: Audio Device (ID: 104) registered with world 'DefaultMap'.
+[2021.07.02-06.31.31:208][396]LogLoad: Game class is 'GameModeBase'
+[2021.07.02-06.31.31:209][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.02-16.31.31
+[2021.07.02-06.31.31:209][396]LogWorld: Bringing up level for play took: 0.000917
+[2021.07.02-06.31.31:209][396]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2021.07.02-06.31.31:211][396]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.02-06.31.31:211][396]PIE: Server logged in
+[2021.07.02-06.31.31:212][396]PIE: Play in editor total start time 0.093 seconds.
+[2021.07.02-06.31.37:329][118]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2021.07.02-06.32.10:312][959]LogSlate: Window 'Select Path' being destroyed
+[2021.07.02-06.32.31:791][959]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.07.02-06.32.31:826][959]LogActorComponent: UnregisterComponent: (/Game/Blueprints/DefaultPawn_BP.Default__DefaultPawn_BP_C:CollisionComponent0) Not registered. Aborting.
+[2021.07.02-06.32.31:827][959]LogActorComponent: UnregisterComponent: (/Game/Blueprints/DefaultPawn_BP.Default__DefaultPawn_BP_C:MovementComponent0) Not registered. Aborting.
+[2021.07.02-06.32.31:827][959]LogActorComponent: UnregisterComponent: (/Game/Blueprints/DefaultPawn_BP.Default__DefaultPawn_BP_C:MeshComponent0) Not registered. Aborting.
+[2021.07.02-06.32.31:837][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.07.02-06.32.31:867][959]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2021.07.02-06.32.32:481][959]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.07.02-06.32.58:539][425]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2021.07.02-06.32.58:544][425]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2021.07.02-06.32.58:549][425]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-06.32.58:549][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.33.06:532][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-06.33.06:532][300]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-06.33.06:533][300]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-06.33.06:533][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.33.06:541][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-06.33.06:545][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.33.06:556][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-06.33.06:556][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-06.33.06:557][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-06.33.06:573][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-06.33.06:579][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.07.02-06.33.06:603][302]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2021.07.02-06.34.08:653][737]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-06.34.08:659][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-06.34.08:659][737]PIE: New page: PIE session: DefaultMap (Jul 3, 2021, 2:34:08 AM)
+[2021.07.02-06.34.08:659][737]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-06.34.08:665][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006618s)
+[2021.07.02-06.34.08:666][737]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.02-06.34.08:666][737]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2021.07.02-06.34.08:666][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007581s)
+[2021.07.02-06.34.08:679][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.07.02-06.34.08:685][737]LogAudio: Display: Creating Audio Device:                 Id: 105, Scope: Unique, Realtime: True
+[2021.07.02-06.34.08:685][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-06.34.08:685][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-06.34.08:685][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-06.34.08:685][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-06.34.08:685][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-06.34.08:685][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-06.34.08:685][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-06.34.08:685][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-06.34.08:686][737]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-06.34.08:686][737]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-06.34.08:690][737]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-06.34.08:690][737]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-06.34.08:698][737]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.02-06.34.08:698][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-06.34.08:698][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-06.34.08:698][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-06.34.08:698][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-06.34.08:698][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-06.34.08:698][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-06.34.08:711][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-06.34.08:711][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-06.34.08:711][737]LogInit: FAudioDevice initialized.
+[2021.07.02-06.34.08:711][737]LogAudio: Display: Audio Device (ID: 105) registered with world 'DefaultMap'.
+[2021.07.02-06.34.08:716][737]LogLoad: Game class is 'GameModeBase'
+[2021.07.02-06.34.08:717][737]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.02-16.34.08
+[2021.07.02-06.34.08:717][737]LogWorld: Bringing up level for play took: 0.000785
+[2021.07.02-06.34.08:717][737]LogOnline: OSS: Creating online subsystem instance for: :Context_116
+[2021.07.02-06.34.08:719][737]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.02-06.34.08:719][737]PIE: Server logged in
+[2021.07.02-06.34.08:720][737]PIE: Play in editor total start time 0.062 seconds.
+[2021.07.02-06.34.14:162][367]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2021.07.02-06.34.17:246][688]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2021.07.02-06.34.18:304][788]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn_BP_C (DefaultPawn_BP)
+[2021.07.02-06.34.19:624][918]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2021.07.02-06.34.21:306][ 93]Cmd: DELETE
+[2021.07.02-06.34.21:306][ 93]Cmd: ACTOR DELETE
+[2021.07.02-06.34.21:310][ 93]LogEditorActor: Deleted Actor: DefaultPawn
+[2021.07.02-06.34.21:322][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.07.02-06.34.21:325][ 93]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.07.02-06.34.21:632][130]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn_BP_C (DefaultPawn_BP)
+[2021.07.02-06.34.21:719][135]Cmd: DELETE
+[2021.07.02-06.34.21:720][135]Cmd: ACTOR DELETE
+[2021.07.02-06.34.21:721][135]LogEditorActor: Deleted Actor: DefaultPawn_BP_C
+[2021.07.02-06.34.21:733][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.07.02-06.34.21:734][135]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.02-06.34.25:035][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2021.07.02-06.34.26:981][707]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2021.07.02-06.34.26:989][707]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-06.34.26:989][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.34.27:027][707]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2021.07.02-06.34.36:671][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-06.34.36:671][799]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-06.34.36:671][799]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-06.34.36:671][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.34.36:681][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-06.34.36:685][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.34.36:698][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-06.34.36:698][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-06.34.36:699][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-06.34.36:719][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.07.02-06.34.36:754][802]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2021.07.02-06.34.41:687][358]LogSlate: Took 0.006764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.07.02-06.35.07:143][182]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.35.16:803][263]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.07:352][ 44]LogEditorTransaction: Undo Set Scale
+[2021.07.02-06.36.07:570][ 50]LogEditorTransaction: Undo Set Scale
+[2021.07.02-06.36.07:756][ 55]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.07:922][ 62]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.08:232][ 98]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.08:665][149]LogEditorTransaction: Undo Add Component
+[2021.07.02-06.36.38:267][494]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:267][494]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:275][495]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:284][496]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:292][497]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:300][498]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:309][499]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:317][500]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:325][501]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:334][502]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:342][503]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:351][504]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:359][505]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:367][506]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:376][507]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:384][508]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:392][509]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:401][510]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:409][511]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:417][512]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:426][513]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:434][514]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:443][515]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:451][516]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:459][517]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:468][518]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:476][519]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:484][520]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:493][521]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:501][522]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:509][523]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:518][524]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:526][525]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:534][526]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:543][527]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:551][528]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:559][529]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:568][530]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:576][531]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:584][532]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:593][533]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:602][534]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:609][535]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:618][536]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:626][537]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:634][538]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:643][539]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:651][540]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:659][541]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:668][542]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:676][543]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:685][544]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:693][545]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:701][546]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:710][547]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:718][548]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:726][549]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:735][550]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:743][551]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:751][552]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:760][553]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:768][554]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:776][555]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:785][556]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:793][557]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:801][558]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:810][559]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:818][560]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:826][561]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.38:835][562]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.r has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=2.000
+[2021.07.02-06.36.57:978][834]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.58:170][839]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.58:322][843]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.58:455][846]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.58:590][856]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.58:750][874]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.58:908][892]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.36.59:136][918]LogEditorTransaction: Undo Add Component
+[2021.07.02-06.36.59:305][936]LogEditorTransaction: Undo Edit Static Mesh
+[2021.07.02-06.36.59:472][955]LogEditorTransaction: Undo Rename Variable
+[2021.07.02-06.37.08:427][976]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.37.49:367][679]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:367][679]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:376][680]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:384][681]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:392][682]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:401][683]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:409][684]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:417][685]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:425][686]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:434][687]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:442][688]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:450][689]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.37.49:459][690]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.875 Y=0.875 Z=0.000
+[2021.07.02-06.38.01:261][ 77]BlueprintLog: New page: Compile DefaultPawn_BP
+[2021.07.02-06.38.01:342][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.07.02-06.38.10:120][477]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:120][477]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:121][477]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:128][478]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:129][478]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:129][478]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:129][478]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:137][479]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:137][479]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:137][479]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:138][479]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:146][480]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:146][480]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:146][480]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:146][480]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:154][481]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:154][481]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:154][481]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:155][481]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:163][482]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:163][482]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:163][482]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:163][482]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:172][483]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:172][483]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:172][483]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:172][483]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:180][484]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:180][484]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:180][484]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:181][484]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:189][485]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:189][485]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:189][485]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:189][485]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:197][486]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:198][486]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:198][486]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:198][486]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:206][487]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:206][487]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:206][487]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:206][487]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:215][488]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:215][488]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:215][488]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:215][488]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:224][489]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:224][489]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:224][489]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:224][489]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:233][490]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:234][490]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:234][490]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:234][490]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:241][491]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:241][491]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:241][491]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:241][491]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:250][492]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:250][492]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:250][492]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:251][492]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:259][493]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:259][493]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:259][493]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:259][493]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:267][494]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:267][494]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:267][494]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:267][494]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:275][495]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:276][495]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:276][495]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:276][495]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:284][496]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:284][496]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:284][496]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:284][496]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:292][497]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:292][497]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:292][497]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:293][497]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:301][498]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:301][498]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:301][498]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:301][498]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:309][499]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:309][499]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:309][499]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:310][499]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:317][500]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:318][500]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:318][500]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:318][500]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:326][501]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:326][501]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:326][501]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:326][501]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:335][502]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:335][502]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:335][502]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:335][502]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:343][503]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:343][503]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:344][503]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:344][503]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:352][504]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:352][504]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:352][504]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:352][504]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:360][505]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:360][505]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:360][505]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:360][505]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:368][506]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:368][506]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:369][506]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:369][506]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:377][507]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:377][507]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:377][507]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:377][507]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:386][508]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:386][508]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:386][508]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:386][508]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:394][509]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:395][509]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:395][509]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:395][509]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:403][510]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:403][510]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:403][510]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:403][510]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:411][511]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:411][511]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:411][511]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:411][511]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:419][512]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:420][512]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:420][512]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:420][512]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:428][513]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:428][513]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:428][513]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:428][513]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:436][514]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:436][514]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:436][514]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:436][514]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:445][515]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:445][515]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:445][515]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:445][515]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:454][516]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:454][516]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:454][516]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:454][516]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:462][517]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:462][517]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:463][517]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:463][517]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:471][518]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:471][518]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:471][518]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:471][518]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:479][519]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:479][519]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:479][519]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:479][519]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:487][520]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:487][520]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:488][520]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:488][520]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:496][521]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:496][521]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:496][521]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:496][521]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:504][522]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:505][522]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:505][522]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:505][522]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:513][523]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:513][523]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:513][523]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:513][523]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:521][524]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:522][524]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:522][524]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:522][524]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:530][525]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:530][525]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:530][525]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:530][525]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:538][526]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:538][526]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:538][526]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:538][526]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:546][527]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:547][527]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:547][527]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:547][527]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:555][528]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:555][528]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:555][528]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:555][528]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:564][529]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:564][529]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:564][529]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:564][529]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:572][530]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:573][530]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:573][530]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:573][530]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:581][531]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:581][531]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:581][531]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:581][531]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:589][532]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:589][532]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:590][532]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:590][532]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:597][533]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:598][533]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:598][533]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:598][533]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:606][534]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:606][534]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:606][534]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:606][534]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:614][535]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:614][535]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:614][535]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:614][535]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:623][536]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:623][536]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:623][536]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:623][536]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:631][537]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:631][537]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:631][537]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:631][537]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:640][538]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:640][538]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:640][538]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:640][538]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:648][539]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:648][539]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:648][539]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:648][539]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:656][540]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:656][540]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:657][540]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:657][540]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:665][541]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:665][541]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:665][541]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:665][541]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:673][542]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:673][542]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:673][542]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:673][542]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:681][543]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:681][543]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:682][543]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:682][543]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:690][544]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:690][544]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:690][544]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:690][544]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:698][545]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:698][545]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:698][545]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:698][545]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:706][546]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:706][546]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:707][546]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:707][546]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:715][547]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:716][547]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:716][547]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:716][547]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:724][548]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:724][548]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:724][548]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:724][548]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:732][549]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:732][549]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:733][549]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:733][549]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:741][550]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:741][550]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:741][550]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:741][550]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:749][551]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:750][551]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:750][551]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:750][551]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:758][552]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:758][552]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:758][552]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:758][552]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:766][553]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:767][553]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:767][553]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:767][553]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:774][554]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:775][554]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:775][554]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:775][554]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:783][555]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:783][555]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:784][555]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:784][555]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:791][556]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:791][556]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:791][556]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:791][556]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:799][557]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:800][557]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:800][557]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:800][557]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:808][558]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:808][558]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:808][558]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:808][558]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:816][559]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:816][559]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:817][559]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:817][559]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:825][560]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:825][560]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:825][560]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:825][560]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:833][561]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:834][561]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:834][561]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:834][561]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:841][562]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:841][562]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:842][562]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:842][562]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:850][563]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:850][563]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:851][563]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:851][563]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:858][564]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:858][564]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:858][564]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:858][564]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:866][565]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:866][565]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:867][565]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:867][565]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:875][566]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:875][566]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:875][566]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:875][566]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:883][567]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:883][567]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:883][567]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:883][567]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:891][568]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:892][568]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:892][568]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:892][568]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:900][569]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:900][569]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:900][569]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:900][569]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:908][570]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:908][570]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:909][570]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:909][570]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:917][571]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:917][571]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:917][571]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:917][571]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:925][572]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:925][572]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:925][572]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:925][572]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:933][573]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:934][573]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:934][573]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:934][573]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:942][574]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:942][574]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:942][574]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:942][574]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:950][575]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:951][575]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:951][575]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:951][575]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:959][576]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:959][576]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:959][576]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:959][576]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:967][577]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:967][577]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:967][577]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:968][577]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:975][578]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:976][578]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:976][578]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:976][578]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:985][579]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:985][579]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:985][579]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:985][579]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:993][580]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:993][580]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.10:993][580]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.10:993][580]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:001][581]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:002][581]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:002][581]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:002][581]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:010][582]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:010][582]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:010][582]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:010][582]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:018][583]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:018][583]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:018][583]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:018][583]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:026][584]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:027][584]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:027][584]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:027][584]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:036][585]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:036][585]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:036][585]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:036][585]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:045][586]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:045][586]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:045][586]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:045][586]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:053][587]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:053][587]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:053][587]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:053][587]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:061][588]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:062][588]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:062][588]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:062][588]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:069][589]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:069][589]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:070][589]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:070][589]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:078][590]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:078][590]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:078][590]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:078][590]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:086][591]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:086][591]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:086][591]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:086][591]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:095][592]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:095][592]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:095][592]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:095][592]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:103][593]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:103][593]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:104][593]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:104][593]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:112][594]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:112][594]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:112][594]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:112][594]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:120][595]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:120][595]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:120][595]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:120][595]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:128][596]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:129][596]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:129][596]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:129][596]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:138][597]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:139][597]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:139][597]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:139][597]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:147][598]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:147][598]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:147][598]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:147][598]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:155][599]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:155][599]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:155][599]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:156][599]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:164][600]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:164][600]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:164][600]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:164][600]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:172][601]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:172][601]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:172][601]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:172][601]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:180][602]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:180][602]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:181][602]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:181][602]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:189][603]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:189][603]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:189][603]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:189][603]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:197][604]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:197][604]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:197][604]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:197][604]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:205][605]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:205][605]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:206][605]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:206][605]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:214][606]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:214][606]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:214][606]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:214][606]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:223][607]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:223][607]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:223][607]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:223][607]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:231][608]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:232][608]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:232][608]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:232][608]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:240][609]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:240][609]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:240][609]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:240][609]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:248][610]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:249][610]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:249][610]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:249][610]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:257][611]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:257][611]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:257][611]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:257][611]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:265][612]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:265][612]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:265][612]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:265][612]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:274][613]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:274][613]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:275][613]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:275][613]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:282][614]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:283][614]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:283][614]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:283][614]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:291][615]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:291][615]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:291][615]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:291][615]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:299][616]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:299][616]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:299][616]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:299][616]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:307][617]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:308][617]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:308][617]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:308][617]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:316][618]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:316][618]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:316][618]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:316][618]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:324][619]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:324][619]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:325][619]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:325][619]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:332][620]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:333][620]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:333][620]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:333][620]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:341][621]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:341][621]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:341][621]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:341][621]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:349][622]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:349][622]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:349][622]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:350][622]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:357][623]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:358][623]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:358][623]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:358][623]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:366][624]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:366][624]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:366][624]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:366][624]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:375][625]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:375][625]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:375][625]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:375][625]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:384][626]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:384][626]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:384][626]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:384][626]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:393][627]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:393][627]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:393][627]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:393][627]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:401][628]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:401][628]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:401][628]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:401][628]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:409][629]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:410][629]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:410][629]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:410][629]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:418][630]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:418][630]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:419][630]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:419][630]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:426][631]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:427][631]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:427][631]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:427][631]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:435][632]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:435][632]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:435][632]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:435][632]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:443][633]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:444][633]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:444][633]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:444][633]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:452][634]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:453][634]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:453][634]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:453][634]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:461][635]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:461][635]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=-2.250
+[2021.07.02-06.38.11:461][635]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:461][635]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:470][636]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.11:470][636]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.DefaultPawn_BP_C_0.re has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2021.07.02-06.38.31:961][ 36]BlueprintLog: New page: Compile DefaultPawn_BP
+[2021.07.02-06.38.31:991][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.07.02-06.39.09:947][308]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.02-06.39.11:426][436]BlueprintLog: New page: Compile DefaultPawn_BP
+[2021.07.02-06.39.11:464][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.07.02-06.39.12:135][513]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2021.07.02-06.39.12:141][513]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-06.39.12:141][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.39.13:025][610]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-06.39.13:030][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-06.39.13:031][610]PIE: New page: PIE session: DefaultMap (Jul 3, 2021, 2:39:13 AM)
+[2021.07.02-06.39.13:031][610]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-06.39.13:038][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006820s)
+[2021.07.02-06.39.13:038][610]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.02-06.39.13:039][610]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2021.07.02-06.39.13:039][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007897s)
+[2021.07.02-06.39.13:052][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.07.02-06.39.13:053][610]LogAudio: Display: Creating Audio Device:                 Id: 106, Scope: Unique, Realtime: True
+[2021.07.02-06.39.13:053][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-06.39.13:053][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-06.39.13:053][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-06.39.13:053][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-06.39.13:053][610]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-06.39.13:053][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-06.39.13:053][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-06.39.13:053][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-06.39.13:054][610]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-06.39.13:054][610]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-06.39.13:058][610]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-06.39.13:058][610]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-06.39.13:066][610]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.02-06.39.13:067][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-06.39.13:067][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-06.39.13:067][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-06.39.13:067][610]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-06.39.13:067][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-06.39.13:067][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-06.39.13:079][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-06.39.13:079][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-06.39.13:079][610]LogInit: FAudioDevice initialized.
+[2021.07.02-06.39.13:079][610]LogAudio: Display: Audio Device (ID: 106) registered with world 'DefaultMap'.
+[2021.07.02-06.39.13:084][610]LogLoad: Game class is 'GameModeBase'
+[2021.07.02-06.39.13:085][610]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.02-16.39.13
+[2021.07.02-06.39.13:085][610]LogWorld: Bringing up level for play took: 0.000781
+[2021.07.02-06.39.13:086][610]LogOnline: OSS: Creating online subsystem instance for: :Context_119
+[2021.07.02-06.39.13:087][610]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.02-06.39.13:087][610]PIE: Server logged in
+[2021.07.02-06.39.13:088][610]PIE: Play in editor total start time 0.058 seconds.
+[2021.07.02-06.39.19:778][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-06.39.19:778][207]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-06.39.19:778][207]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-06.39.19:778][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.39.19:785][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-06.39.19:789][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.39.19:799][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-06.39.19:799][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-06.39.19:800][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-06.39.19:816][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-06.39.19:819][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.07.02-06.39.19:855][209]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2021.07.02-06.39.26:543][995]Cmd: SELECT NONE
+[2021.07.02-06.39.27:553][112]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn_BP_C (DefaultPawn_BP)
+[2021.07.02-06.39.29:482][338]Cmd: DELETE
+[2021.07.02-06.39.29:482][338]Cmd: ACTOR DELETE
+[2021.07.02-06.39.29:484][338]LogEditorActor: Deleted Actor: DefaultPawn_BP_C
+[2021.07.02-06.39.29:498][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.07.02-06.39.29:501][338]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.07.02-06.39.38:302][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2021.07.02-06.39.45:768][525]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2021.07.02-06.39.45:773][525]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2021.07.02-06.39.45:797][525]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-06.39.45:797][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-06.40.15:665][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.07.02-06.40.15:667][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.07.02-06.40.15:684][288]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_Auto9779A7B6547B42F057260A79F1C85D914.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/Maps/DefaultMap_Auto9.umap'
+[2021.07.02-06.40.15:686][288]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.034
+[2021.07.02-06.40.15:686][288]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2021.07.02-06.42.27:681][684]LogContentBrowser: Attempting asset rename: DefaultPawn_BP -> DefaultPawn_BP
+[2021.07.02-06.42.56:214][ 32]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/GameDev/Escape/Escape.uproject" -game -rocket -progress
+[2021.07.02-06.42.56:518][ 32]Discovering modules, targets and source code for project...
+[2021.07.02-06.42.58:622][ 32]Binding IntelliSense data...
+[2021.07.02-06.43.05:048][ 32]Binding IntelliSense data... 100%
+[2021.07.02-06.43.05:048][ 32]Writing project files...
+[2021.07.02-06.43.09:266][ 32]Writing project files... 100%
+[2021.07.02-06.43.09:377][ 32]Candidate modules for hot reload:
+[2021.07.02-06.43.09:377][ 32]  Escape
+[2021.07.02-06.43.09:377][ 32]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,5718 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog: New page: Compilation - Jul 3, 2021, 2:43:15 AM
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog: Creating makefile for EscapeEditor (no existing makefile)
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog: Reflection code generated for EscapeEditor in 3.2927715 seconds
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog: Building EscapeEditor...
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog:   [1/6] Grabber.cpp
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog:   [2/6] Escape.init.gen.cpp
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog:   [3/6] Grabber.gen.cpp
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog:   [4/6] UE4Editor-Escape-5718.lib
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5718.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5718.exp
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog:   [5/6] UE4Editor-Escape-5718.dll
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5718.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5718.suppressed.exp
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog:   [6/6] EscapeEditor.target
+[2021.07.02-06.43.15:535][ 32]CompilerResultsLog: Total time in Parallel executor: 1.21 seconds
+[2021.07.02-06.43.15:536][ 32]CompilerResultsLog: Total execution time: 6.09 seconds
+[2021.07.02-06.43.15:536][ 32]LogMainFrame: MainFrame: Module compiling took 6.162 seconds
+[2021.07.02-06.43.15:560][ 32]LogClass: Could not find existing class Grabber in package /Script/Escape for HotReload, assuming new class
+[2021.07.02-06.43.15:565][ 32]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2021.07.02-06.43.15:568][ 32]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.02-06.43.15:624][ 32]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0123 seconds. Added 3604 classes and 861 folders.
+[2021.07.02-06.43.15:629][ 32]Display: HotReload took  6.3s.
+[2021.07.02-06.43.15:630][ 32]Warning: HotReload operation took  6.3s.
+[2021.07.02-06.43.16:052][ 32]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/GameDev/Escape/Source/Escape/Grabber.h'
+[2021.07.02-06.43.16:181][ 32]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/GameDev/Escape/Source/Escape/Grabber.cpp'
+[2021.07.02-06.43.16:201][ 32]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.07.02-06.43.16:449][ 32]LogHotReload: New module detected: UE4Editor-Escape-5718.dll
+[2021.07.02-06.43.16:499][ 33]LogHotReload: Starting Hot-Reload from IDE
+[2021.07.02-06.43.16:525][ 33]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2021.07.02-06.43.16:532][ 33]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.02-06.43.16:544][ 33]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0115 seconds. Added 3604 classes and 861 folders.
+[2021.07.02-06.43.16:552][ 33]Display: HotReload took  0.1s.
