@@ -3,6 +3,7 @@
 
 #include "OpenDoor.h"
 #include"GameFramework/actor.h"
+#include "EngineMinimal.h"
 // Sets default values for this component's properties
 UOpenDoor::UOpenDoor()
 {
@@ -37,6 +38,9 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 	if (DoorOpenTrigger && DoorOpenTrigger->IsOverlappingActor(ActorThatOpens))
 	{
 		OpenDoor(DeltaTime);
+	}else
+	{
+		CloseDoor(DeltaTime);
 	}
 
 
@@ -45,6 +49,15 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 void UOpenDoor::OpenDoor(float DeltaTime) 
 {
 	CurrentYaw = FMath::FInterpTo(CurrentYaw, OpenTargetYaw, DeltaTime, 2.f);
+
+	FRotator DoorRotation = GetOwner()->GetActorRotation();
+	DoorRotation.Yaw = CurrentYaw;
+	GetOwner()->SetActorRotation(DoorRotation);
+}
+
+void UOpenDoor::CloseDoor(float DeltaTime) 
+{
+	CurrentYaw = FMath::FInterpTo(CurrentYaw, InitialYaw, DeltaTime, 2.f);
 
 	FRotator DoorRotation = GetOwner()->GetActorRotation();
 	DoorRotation.Yaw = CurrentYaw;
