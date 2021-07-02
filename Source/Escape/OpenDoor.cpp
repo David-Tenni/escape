@@ -21,6 +21,11 @@ void UOpenDoor::BeginPlay()
 	InitialYaw = GetOwner()->GetActorRotation().Yaw;
 	CurrentYaw = InitialYaw;
 	OpenTargetYaw += InitialYaw;
+
+	if (!DoorOpenTrigger)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("OpenDoorTrigger not set on %s"), *GetOwner()->GetFName().ToString());
+	}
 }
 
 
@@ -28,14 +33,12 @@ void UOpenDoor::BeginPlay()
 void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
-	if (DoorOpenTrigger->IsOverlappingActor(ActorThatOpens))
+
+	if (DoorOpenTrigger && DoorOpenTrigger->IsOverlappingActor(ActorThatOpens))
 	{
 		OpenDoor(DeltaTime);
 	}
 
-
-	//float CurrentYaw = GetOwner()->GetActorRotation().Yaw;
-	//OpenDoor.Yaw = FMath::FInterpTo(CurrentYaw, OpenTargetYaw,DeltaTime, 2.f);
 
 }
 
