@@ -21,10 +21,10 @@ void UOpenDoor::BeginPlay()
 	InitialYaw = GetOwner()->GetActorRotation().Yaw;
 	CurrentYaw = InitialYaw;
 	OpenTargetYaw += InitialYaw;
-
+	ActorThatOpens = GetWorld()->GetFirstPlayerController()->GetPawn();
 	if (!DoorOpenTrigger)
 	{
-		UE_LOG(LogTemp, Warning, TEXT("OpenDoorTrigger not set on %s"), *GetOwner()->GetFName().ToString());
+		UE_LOG(LogTemp, Error, TEXT("OpenDoorTrigger not set on %s"), *GetOwner()->GetFName().ToString());
 	}
 }
 

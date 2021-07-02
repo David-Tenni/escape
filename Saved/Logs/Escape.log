@@ -24863,3 +24863,77 @@ Are you sure?
 [2021.07.02-04.42.03:428][354]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.026
 [2021.07.02-04.42.03:428][354]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
 [2021.07.02-04.42.04:047][427]Cmd: EDIT COPY
+[2021.07.02-04.47.49:110][630]Candidate modules for hot reload:
+[2021.07.02-04.47.49:110][630]  Escape
+[2021.07.02-04.47.49:111][630]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,1406 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.02-04.47.49:113][630]Warning: Starting HotReload took  0.0s.
+[2021.07.02-04.47.50:806][785]CompilerResultsLog: New page: Compilation - Jul 3, 2021, 12:47:50 AM
+[2021.07.02-04.47.50:806][785]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.02-04.47.50:806][785]CompilerResultsLog: Building EscapeEditor...
+[2021.07.02-04.47.50:806][785]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.02-04.47.50:806][785]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.07.02-04.47.50:806][785]CompilerResultsLog:   [1/4] OpenDoor.cpp
+[2021.07.02-04.47.50:806][785]CompilerResultsLog:   [2/4] UE4Editor-Escape-1406.lib
+[2021.07.02-04.47.50:806][785]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1406.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1406.exp
+[2021.07.02-04.47.50:806][785]CompilerResultsLog:   [3/4] UE4Editor-Escape-1406.dll
+[2021.07.02-04.47.50:806][785]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1406.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1406.suppressed.exp
+[2021.07.02-04.47.50:806][785]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.07.02-04.47.50:806][785]CompilerResultsLog: Total time in Parallel executor: 1.18 seconds
+[2021.07.02-04.47.50:806][785]CompilerResultsLog: Total execution time: 1.63 seconds
+[2021.07.02-04.47.50:806][785]LogMainFrame: MainFrame: Module compiling took 1.699 seconds
+[2021.07.02-04.47.50:827][785]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.07.02-04.47.50:828][785]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.02-04.47.50:857][785]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3603 classes and 861 folders.
+[2021.07.02-04.47.50:860][785]Display: HotReload took  1.8s.
+[2021.07.02-04.47.52:200][944]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-04.47.52:205][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-04.47.52:206][944]PIE: New page: PIE session: DefaultMap (Jul 3, 2021, 12:47:52 AM)
+[2021.07.02-04.47.52:243][944]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-04.47.52:250][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006697s)
+[2021.07.02-04.47.52:251][944]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.02-04.47.52:251][944]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2021.07.02-04.47.52:251][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007783s)
+[2021.07.02-04.47.52:254][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.02-04.47.52:256][944]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2021.07.02-04.47.52:256][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-04.47.52:256][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-04.47.52:256][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-04.47.52:256][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-04.47.52:256][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-04.47.52:256][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-04.47.52:256][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-04.47.52:256][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-04.47.52:256][944]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-04.47.52:256][944]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-04.47.52:261][944]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-04.47.52:261][944]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-04.47.52:269][944]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.02-04.47.52:269][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-04.47.52:269][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-04.47.52:269][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-04.47.52:270][944]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-04.47.52:270][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-04.47.52:270][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-04.47.52:282][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-04.47.52:282][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-04.47.52:282][944]LogInit: FAudioDevice initialized.
+[2021.07.02-04.47.52:282][944]LogAudio: Display: Audio Device (ID: 75) registered with world 'DefaultMap'.
+[2021.07.02-04.47.52:292][944]LogLoad: Game class is 'GameModeBase'
+[2021.07.02-04.47.52:293][944]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.02-14.47.52
+[2021.07.02-04.47.52:293][944]LogWorld: Bringing up level for play took: 0.000793
+[2021.07.02-04.47.52:293][944]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.07.02-04.47.52:294][944]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.02-04.47.52:295][944]PIE: Server logged in
+[2021.07.02-04.47.52:295][944]PIE: Play in editor total start time 0.091 seconds.
+[2021.07.02-04.47.57:425][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-04.47.57:425][552]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-04.47.57:425][552]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-04.47.57:425][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-04.47.57:435][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-04.47.57:449][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-04.47.57:452][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-04.47.57:452][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-04.47.57:453][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-04.47.57:468][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-04.47.57:470][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.02-04.47.57:501][553]LogPlayLevel: Display: Destroying online subsystem :Context_84
