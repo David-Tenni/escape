@@ -3,6 +3,7 @@
 
 #include "Grabber.h"
 
+#define OUT
 // Sets default values for this component's properties
 UGrabber::UGrabber()
 {
@@ -18,7 +19,7 @@ UGrabber::UGrabber()
 void UGrabber::BeginPlay()
 {
 	Super::BeginPlay();
-
+	Player = GetWorld()->GetFirstPlayerController()->GetPawn();
 	// ...
 	
 }
@@ -28,7 +29,12 @@ void UGrabber::BeginPlay()
 void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
+	//get player viewpoint
 
-	// ...
+	FVector PlayerViewLocation = Player->GetActorLocation();
+	FRotator PlayerViewRotation = Player->GetActorRotation();
+	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(OUT PlayerViewLocation, OUT PlayerViewRotation);
+	UE_LOG(LogTemp, Log, TEXT("player location is %s player rotation is %s"), *PlayerViewLocation.ToString(), *PlayerViewRotation.ToString() );
+	//linetraceToDistance based on reach
 }
 
