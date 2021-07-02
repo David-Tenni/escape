@@ -37,7 +37,7 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	//UE_LOG(LogTemp, Log, TEXT("player location is %s player rotation is %s"), *PlayerViewLocation.ToString(), *PlayerViewRotation.ToString() );
 	//linetraceToDistance based on reach
 	FVector LineTraceDirection = PlayerViewRotation.Vector();
-	FVector LineTraceEnd = PlayerViewLocation + FVector(0.f, 100.f, 0.f);
+	FVector LineTraceEnd = PlayerViewLocation + PlayerViewRotation.Vector() * ReachDistance;
 	DrawDebugLine(GetWorld(), PlayerViewLocation, LineTraceEnd, FColor(0, 0, 255), false, 1.0f, 1, 5);
 }
 

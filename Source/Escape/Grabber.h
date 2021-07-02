@@ -30,5 +30,5 @@ private:
 	APawn* Player;
 
 	UPROPERTY(EditAnywhere)
-		float ReachDistance = 1.f;
+		float ReachDistance = 100.f;
 };
