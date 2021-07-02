@@ -1,6 +1,6 @@
 // tutorial said to fill out copyright section so i guess copyright david tenni 2021 although can you copyright code from a tutorial probs not idek whatever its done now
 
-
+#include "DrawDebugHelpers.h"
 #include "Grabber.h"
 
 #define OUT
@@ -34,7 +34,10 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	FVector PlayerViewLocation = Player->GetActorLocation();
 	FRotator PlayerViewRotation = Player->GetActorRotation();
 	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(OUT PlayerViewLocation, OUT PlayerViewRotation);
-	UE_LOG(LogTemp, Log, TEXT("player location is %s player rotation is %s"), *PlayerViewLocation.ToString(), *PlayerViewRotation.ToString() );
+	//UE_LOG(LogTemp, Log, TEXT("player location is %s player rotation is %s"), *PlayerViewLocation.ToString(), *PlayerViewRotation.ToString() );
 	//linetraceToDistance based on reach
+	FVector LineTraceDirection = PlayerViewRotation.Vector();
+	FVector LineTraceEnd = PlayerViewLocation + FVector(0.f, 100.f, 0.f);
+	DrawDebugLine(GetWorld(), PlayerViewLocation, LineTraceEnd, FColor(0, 0, 255), false, 1.0f, 1, 5);
 }
 

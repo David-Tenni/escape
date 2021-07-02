@@ -32920,3 +32920,695 @@ Are you sure?
 [2021.07.02-07.23.33:868][895]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.07.02-07.23.33:886][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2021.07.02-07.23.33:926][897]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2021.07.02-07.37.36:302][499]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawn_BP.DefaultPawn_BP
+[2021.07.02-07.37.51:064][160]LogSlate: Window 'DefaultPawn_BP' being destroyed
+[2021.07.02-07.37.51:103][160]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-07.37.51:103][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-07.46.55:978][858]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-07.46.55:983][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-07.46.55:983][858]PIE: New page: PIE session: DefaultMap (Jul 3, 2021, 3:46:55 AM)
+[2021.07.02-07.46.56:008][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-07.46.56:015][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006775s)
+[2021.07.02-07.46.56:016][858]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.02-07.46.56:016][858]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2021.07.02-07.46.56:016][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.008013s)
+[2021.07.02-07.46.56:033][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.07.02-07.46.56:036][858]LogAudio: Display: Creating Audio Device:                 Id: 111, Scope: Unique, Realtime: True
+[2021.07.02-07.46.56:036][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-07.46.56:036][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-07.46.56:036][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-07.46.56:036][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-07.46.56:036][858]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-07.46.56:036][858]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-07.46.56:036][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-07.46.56:036][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-07.46.56:037][858]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-07.46.56:037][858]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-07.46.56:041][858]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-07.46.56:041][858]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-07.46.56:050][858]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.02-07.46.56:050][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-07.46.56:050][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-07.46.56:050][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-07.46.56:051][858]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-07.46.56:051][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-07.46.56:051][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-07.46.56:063][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-07.46.56:063][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-07.46.56:063][858]LogInit: FAudioDevice initialized.
+[2021.07.02-07.46.56:063][858]LogAudio: Display: Audio Device (ID: 111) registered with world 'DefaultMap'.
+[2021.07.02-07.46.56:067][858]LogLoad: Game class is 'Level1Gamemode_C'
+[2021.07.02-07.46.56:069][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.02-17.46.56
+[2021.07.02-07.46.56:069][858]LogWorld: Bringing up level for play took: 0.000990
+[2021.07.02-07.46.56:069][858]LogOnline: OSS: Creating online subsystem instance for: :Context_128
+[2021.07.02-07.46.56:070][858]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.02-07.46.56:071][858]PIE: Server logged in
+[2021.07.02-07.46.56:071][858]PIE: Play in editor total start time 0.089 seconds.
+[2021.07.02-07.46.56:072][858]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999680 R=0.000000
+[2021.07.02-07.46.56:083][859]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:092][860]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:101][861]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:111][862]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:119][863]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:128][864]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:136][865]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:144][866]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:152][867]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:161][868]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:169][869]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:177][870]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:186][871]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:194][872]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:202][873]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:211][874]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:219][875]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:227][876]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:236][877]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:244][878]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:253][879]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:261][880]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:269][881]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:278][882]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:286][883]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:294][884]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:303][885]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:311][886]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:319][887]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:327][888]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:336][889]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:344][890]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:352][891]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:361][892]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:369][893]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:377][894]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:385][895]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:394][896]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:402][897]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:411][898]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:419][899]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:427][900]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:435][901]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:444][902]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:452][903]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:461][904]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:469][905]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:477][906]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:485][907]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:494][908]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:504][909]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:510][910]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:519][911]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=0.000000 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:527][912]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:536][913]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:545][914]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:553][915]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:561][916]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:570][917]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:578][918]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:586][919]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:595][920]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:603][921]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:611][922]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:619][923]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:628][924]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:636][925]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:645][926]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:653][927]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:661][928]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:669][929]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:678][930]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:686][931]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:694][932]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:703][933]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:711][934]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:720][935]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.825012 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:728][936]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:736][937]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:744][938]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:753][939]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:761][940]LogTemp: player location is X=50.000 Y=-1660.000 Z=252.001 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:769][941]LogTemp: player location is X=50.001 Y=-1659.722 Z=251.999 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:778][942]LogTemp: player location is X=50.003 Y=-1659.167 Z=251.996 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:786][943]LogTemp: player location is X=50.005 Y=-1658.333 Z=251.991 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:794][944]LogTemp: player location is X=50.009 Y=-1657.222 Z=251.984 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:803][945]LogTemp: player location is X=50.013 Y=-1655.833 Z=251.975 player rotation is P=359.650024 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:811][946]LogTemp: player location is X=50.018 Y=-1654.166 Z=251.965 player rotation is P=359.475037 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:819][947]LogTemp: player location is X=50.024 Y=-1652.221 Z=251.952 player rotation is P=359.475037 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:828][948]LogTemp: player location is X=50.031 Y=-1649.999 Z=251.936 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:836][949]LogTemp: player location is X=50.340 Y=-1647.625 Z=251.918 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:844][950]LogTemp: player location is X=50.940 Y=-1645.102 Z=251.897 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:853][951]LogTemp: player location is X=51.820 Y=-1642.431 Z=251.873 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:861][952]LogTemp: player location is X=52.973 Y=-1639.611 Z=251.847 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:869][953]LogTemp: player location is X=54.391 Y=-1636.641 Z=251.818 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:878][954]LogTemp: player location is X=56.069 Y=-1633.519 Z=251.788 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:886][955]LogTemp: player location is X=58.000 Y=-1630.245 Z=251.754 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:894][956]LogTemp: player location is X=60.180 Y=-1626.815 Z=251.719 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:903][957]LogTemp: player location is X=62.606 Y=-1623.228 Z=251.681 player rotation is P=359.300049 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:911][958]LogTemp: player location is X=65.272 Y=-1619.483 Z=251.641 player rotation is P=359.125061 Y=89.649750 R=0.000000
+[2021.07.02-07.46.56:919][959]LogTemp: player location is X=68.177 Y=-1615.577 Z=251.597 player rotation is P=358.949371 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:928][960]LogTemp: player location is X=71.315 Y=-1611.506 Z=251.548 player rotation is P=358.949371 Y=89.824730 R=0.000000
+[2021.07.02-07.46.56:936][961]LogTemp: player location is X=74.684 Y=-1607.270 Z=251.494 player rotation is P=358.774384 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:945][962]LogTemp: player location is X=78.280 Y=-1602.864 Z=251.434 player rotation is P=358.774384 Y=89.999710 R=0.000000
+[2021.07.02-07.46.56:953][963]LogTemp: player location is X=82.101 Y=-1598.288 Z=251.369 player rotation is P=358.599396 Y=90.349678 R=0.000000
+[2021.07.02-07.46.56:961][964]LogTemp: player location is X=86.142 Y=-1593.536 Z=251.296 player rotation is P=358.599396 Y=90.349678 R=0.000000
+[2021.07.02-07.46.56:969][965]LogTemp: player location is X=90.400 Y=-1588.609 Z=251.216 player rotation is P=358.599396 Y=90.349678 R=0.000000
+[2021.07.02-07.46.56:978][966]LogTemp: player location is X=94.876 Y=-1583.503 Z=251.129 player rotation is P=358.424408 Y=90.524658 R=0.000000
+[2021.07.02-07.46.56:986][967]LogTemp: player location is X=99.564 Y=-1578.216 Z=251.033 player rotation is P=358.424408 Y=90.524658 R=0.000000
+[2021.07.02-07.46.56:994][968]LogTemp: player location is X=104.465 Y=-1572.748 Z=250.930 player rotation is P=358.424408 Y=90.524658 R=0.000000
+[2021.07.02-07.46.57:003][969]LogTemp: player location is X=109.576 Y=-1567.097 Z=250.818 player rotation is P=358.424408 Y=90.524658 R=0.000000
+[2021.07.02-07.46.57:011][970]LogTemp: player location is X=114.898 Y=-1561.263 Z=250.698 player rotation is P=358.424408 Y=90.524658 R=0.000000
+[2021.07.02-07.46.57:019][971]LogTemp: player location is X=120.428 Y=-1555.243 Z=250.571 player rotation is P=358.424408 Y=90.524658 R=0.000000
+[2021.07.02-07.46.57:028][972]LogTemp: player location is X=126.166 Y=-1549.038 Z=250.437 player rotation is P=358.424408 Y=90.699638 R=0.000000
+[2021.07.02-07.46.57:036][973]LogTemp: player location is X=132.109 Y=-1542.645 Z=250.295 player rotation is P=358.424408 Y=90.874977 R=0.000000
+[2021.07.02-07.46.57:044][974]LogTemp: player location is X=138.254 Y=-1536.061 Z=250.145 player rotation is P=358.424408 Y=91.400627 R=0.000000
+[2021.07.02-07.46.57:053][975]LogTemp: player location is X=144.596 Y=-1529.280 Z=249.989 player rotation is P=358.424408 Y=91.838524 R=0.000000
+[2021.07.02-07.46.57:061][976]LogTemp: player location is X=151.128 Y=-1522.297 Z=249.825 player rotation is P=358.424408 Y=92.889267 R=0.000000
+[2021.07.02-07.46.57:070][977]LogTemp: player location is X=158.139 Y=-1515.734 Z=249.673 player rotation is P=358.424408 Y=93.910683 R=0.000000
+[2021.07.02-07.46.57:078][978]LogTemp: player location is X=165.598 Y=-1509.545 Z=249.531 player rotation is P=358.424408 Y=95.311333 R=0.000000
+[2021.07.02-07.46.57:086][979]LogTemp: player location is X=173.480 Y=-1503.684 Z=249.398 player rotation is P=358.424408 Y=96.690002 R=0.000000
+[2021.07.02-07.46.57:095][980]LogTemp: player location is X=181.763 Y=-1498.105 Z=249.274 player rotation is P=358.424408 Y=98.246086 R=0.000000
+[2021.07.02-07.46.57:103][981]LogTemp: player location is X=190.275 Y=-1492.857 Z=249.160 player rotation is P=358.424408 Y=99.979118 R=0.000000
+[2021.07.02-07.46.57:111][982]LogTemp: player location is X=198.961 Y=-1487.902 Z=249.056 player rotation is P=358.424408 Y=101.506805 R=0.000000
+[2021.07.02-07.46.57:120][983]LogTemp: player location is X=207.786 Y=-1483.200 Z=248.961 player rotation is P=358.424408 Y=103.213440 R=0.000000
+[2021.07.02-07.46.57:128][984]LogTemp: player location is X=216.719 Y=-1478.707 Z=248.875 player rotation is P=358.424408 Y=105.098457 R=0.000000
+[2021.07.02-07.46.57:136][985]LogTemp: player location is X=225.157 Y=-1474.464 Z=248.794 player rotation is P=358.424408 Y=106.411194 R=0.000000
+[2021.07.02-07.46.57:145][986]LogTemp: player location is X=233.098 Y=-1470.470 Z=248.717 player rotation is P=358.424408 Y=108.464859 R=0.000000
+[2021.07.02-07.46.57:153][987]LogTemp: player location is X=240.542 Y=-1466.726 Z=248.645 player rotation is P=358.424408 Y=110.324524 R=0.000000
+[2021.07.02-07.46.57:161][988]LogTemp: player location is X=247.491 Y=-1463.232 Z=248.578 player rotation is P=358.424408 Y=112.363022 R=0.000000
+[2021.07.02-07.46.57:170][989]LogTemp: player location is X=253.943 Y=-1459.987 Z=248.516 player rotation is P=358.424408 Y=114.395226 R=0.000000
+[2021.07.02-07.46.57:178][990]LogTemp: player location is X=259.899 Y=-1456.992 Z=248.458 player rotation is P=358.424408 Y=116.421753 R=0.000000
+[2021.07.02-07.46.57:186][991]LogTemp: player location is X=265.358 Y=-1454.246 Z=248.406 player rotation is P=358.424408 Y=118.259430 R=0.000000
+[2021.07.02-07.46.57:195][992]LogTemp: player location is X=270.321 Y=-1451.750 Z=248.358 player rotation is P=358.424408 Y=120.459641 R=0.000000
+[2021.07.02-07.46.57:203][993]LogTemp: player location is X=274.788 Y=-1449.504 Z=248.315 player rotation is P=358.424408 Y=122.106377 R=0.000000
+[2021.07.02-07.46.57:211][994]LogTemp: player location is X=278.758 Y=-1447.507 Z=248.276 player rotation is P=358.424408 Y=124.115211 R=0.000000
+[2021.07.02-07.46.57:220][995]LogTemp: player location is X=282.232 Y=-1445.760 Z=248.243 player rotation is P=358.424408 Y=125.755936 R=0.000000
+[2021.07.02-07.46.57:228][996]LogTemp: player location is X=285.210 Y=-1444.263 Z=248.214 player rotation is P=358.424408 Y=127.758041 R=0.000000
+[2021.07.02-07.46.57:236][997]LogTemp: player location is X=287.692 Y=-1443.015 Z=248.190 player rotation is P=358.424408 Y=129.575455 R=0.000000
+[2021.07.02-07.46.57:245][998]LogTemp: player location is X=289.677 Y=-1442.016 Z=248.171 player rotation is P=358.424408 Y=131.208878 R=0.000000
+[2021.07.02-07.46.57:253][999]LogTemp: player location is X=291.166 Y=-1441.268 Z=248.156 player rotation is P=358.599396 Y=132.802689 R=0.000000
+[2021.07.02-07.46.57:261][  0]LogTemp: player location is X=292.158 Y=-1440.769 Z=248.147 player rotation is P=358.786469 Y=134.112228 R=0.000000
+[2021.07.02-07.46.57:269][  1]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.159821 Y=135.045593 R=0.000000
+[2021.07.02-07.46.57:277][  2]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.159821 Y=136.163376 R=0.000000
+[2021.07.02-07.46.57:286][  3]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.334808 Y=137.279022 R=0.000000
+[2021.07.02-07.46.57:294][  4]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=138.207077 R=0.000000
+[2021.07.02-07.46.57:302][  5]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=139.133560 R=0.000000
+[2021.07.02-07.46.57:311][  6]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=140.243576 R=0.000000
+[2021.07.02-07.46.57:319][  7]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=141.536636 R=0.000000
+[2021.07.02-07.46.57:327][  8]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=142.827850 R=0.000000
+[2021.07.02-07.46.57:336][  9]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=144.301529 R=0.000000
+[2021.07.02-07.46.57:344][ 10]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=145.589355 R=0.000000
+[2021.07.02-07.46.57:352][ 11]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=146.875595 R=0.000000
+[2021.07.02-07.46.57:361][ 12]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=147.976822 R=0.000000
+[2021.07.02-07.46.57:369][ 13]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=149.076813 R=0.000000
+[2021.07.02-07.46.57:378][ 14]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=150.175644 R=0.000000
+[2021.07.02-07.46.57:386][ 15]LogTemp: player location is X=292.655 Y=-1440.519 Z=248.142 player rotation is P=359.520416 Y=151.456314 R=0.000000
+[2021.07.02-07.46.57:394][ 16]LogTemp: player location is X=292.899 Y=-1440.652 Z=248.144 player rotation is P=359.520416 Y=152.918533 R=0.000000
+[2021.07.02-07.46.57:403][ 17]LogTemp: player location is X=293.390 Y=-1440.911 Z=248.149 player rotation is P=359.520416 Y=154.379379 R=0.000000
+[2021.07.02-07.46.57:411][ 18]LogTemp: player location is X=294.146 Y=-1441.048 Z=248.155 player rotation is P=359.520416 Y=155.838928 R=0.000000
+[2021.07.02-07.46.57:419][ 19]LogTemp: player location is X=295.159 Y=-1441.059 Z=248.163 player rotation is P=359.520416 Y=157.479538 R=0.000000
+[2021.07.02-07.46.57:427][ 20]LogTemp: player location is X=296.423 Y=-1440.937 Z=248.172 player rotation is P=359.520416 Y=159.118790 R=0.000000
+[2021.07.02-07.46.57:436][ 21]LogTemp: player location is X=297.934 Y=-1440.675 Z=248.183 player rotation is P=359.520416 Y=160.938751 R=0.000000
+[2021.07.02-07.46.57:444][ 22]LogTemp: player location is X=299.686 Y=-1440.264 Z=248.195 player rotation is P=359.520416 Y=162.393616 R=0.000000
+[2021.07.02-07.46.57:452][ 23]LogTemp: player location is X=301.674 Y=-1439.698 Z=248.209 player rotation is P=359.520416 Y=164.151978 R=0.000000
+[2021.07.02-07.46.57:461][ 24]LogTemp: player location is X=303.893 Y=-1438.966 Z=248.225 player rotation is P=359.520416 Y=165.816101 R=0.000000
+[2021.07.02-07.46.57:469][ 25]LogTemp: player location is X=306.336 Y=-1438.062 Z=248.241 player rotation is P=359.520416 Y=167.293839 R=0.000000
+[2021.07.02-07.46.57:477][ 26]LogTemp: player location is X=308.997 Y=-1436.977 Z=248.260 player rotation is P=359.520416 Y=168.770157 R=0.000000
+[2021.07.02-07.46.57:486][ 27]LogTemp: player location is X=311.872 Y=-1435.703 Z=248.280 player rotation is P=359.520416 Y=170.245102 R=0.000000
+[2021.07.02-07.46.57:494][ 28]LogTemp: player location is X=314.953 Y=-1434.232 Z=248.301 player rotation is P=359.520416 Y=171.718750 R=0.000000
+[2021.07.02-07.46.57:502][ 29]LogTemp: player location is X=318.233 Y=-1432.558 Z=248.325 player rotation is P=359.520416 Y=173.007065 R=0.000000
+[2021.07.02-07.46.57:511][ 30]LogTemp: player location is X=321.708 Y=-1430.673 Z=248.349 player rotation is P=359.520416 Y=174.294312 R=0.000000
+[2021.07.02-07.46.57:519][ 31]LogTemp: player location is X=325.369 Y=-1428.571 Z=248.376 player rotation is P=359.345428 Y=175.213028 R=0.000000
+[2021.07.02-07.46.57:527][ 32]LogTemp: player location is X=329.214 Y=-1426.248 Z=248.405 player rotation is P=359.161835 Y=176.314636 R=0.000000
+[2021.07.02-07.46.57:536][ 33]LogTemp: player location is X=333.235 Y=-1423.698 Z=248.438 player rotation is P=358.978363 Y=176.865021 R=0.000000
+[2021.07.02-07.46.57:544][ 34]LogTemp: player location is X=337.432 Y=-1420.922 Z=248.476 player rotation is P=358.795044 Y=177.781647 R=0.000000
+[2021.07.02-07.46.57:552][ 35]LogTemp: player location is X=341.799 Y=-1417.914 Z=248.521 player rotation is P=358.795044 Y=178.514435 R=0.000000
+[2021.07.02-07.46.57:561][ 36]LogTemp: player location is X=346.333 Y=-1414.672 Z=248.572 player rotation is P=358.620056 Y=179.246719 R=0.000000
+[2021.07.02-07.46.57:569][ 37]LogTemp: player location is X=351.029 Y=-1411.192 Z=248.631 player rotation is P=358.620056 Y=179.978500 R=0.000000
+[2021.07.02-07.46.57:577][ 38]LogTemp: player location is X=355.885 Y=-1407.473 Z=248.697 player rotation is P=358.445068 Y=180.892654 R=0.000000
+[2021.07.02-07.46.57:586][ 39]LogTemp: player location is X=360.893 Y=-1403.510 Z=248.773 player rotation is P=358.262360 Y=181.623505 R=0.000000
+[2021.07.02-07.46.57:594][ 40]LogTemp: player location is X=366.051 Y=-1399.300 Z=248.858 player rotation is P=358.262360 Y=182.536499 R=0.000000
+[2021.07.02-07.46.57:602][ 41]LogTemp: player location is X=371.352 Y=-1394.838 Z=248.953 player rotation is P=358.262360 Y=183.448959 R=0.000000
+[2021.07.02-07.46.57:611][ 42]LogTemp: player location is X=376.790 Y=-1390.119 Z=249.057 player rotation is P=358.262360 Y=184.178497 R=0.000000
+[2021.07.02-07.46.57:619][ 43]LogTemp: player location is X=382.360 Y=-1385.142 Z=249.171 player rotation is P=358.262360 Y=185.089905 R=0.000000
+[2021.07.02-07.46.57:627][ 44]LogTemp: player location is X=388.057 Y=-1379.901 Z=249.294 player rotation is P=358.262360 Y=185.818695 R=0.000000
+[2021.07.02-07.46.57:636][ 45]LogTemp: player location is X=393.876 Y=-1374.395 Z=249.426 player rotation is P=358.262360 Y=186.364944 R=0.000000
+[2021.07.02-07.46.57:644][ 46]LogTemp: player location is X=399.813 Y=-1368.621 Z=249.566 player rotation is P=358.087372 Y=187.092911 R=0.000000
+[2021.07.02-07.46.57:652][ 47]LogTemp: player location is X=405.863 Y=-1362.578 Z=249.716 player rotation is P=357.995270 Y=187.645508 R=0.000000
+[2021.07.02-07.46.57:661][ 48]LogTemp: player location is X=412.025 Y=-1356.263 Z=249.878 player rotation is P=357.995270 Y=188.013672 R=0.000000
+[2021.07.02-07.46.57:669][ 49]LogTemp: player location is X=418.296 Y=-1349.678 Z=250.050 player rotation is P=357.820282 Y=188.565567 R=0.000000
+[2021.07.02-07.46.57:677][ 50]LogTemp: player location is X=425.023 Y=-1343.400 Z=250.244 player rotation is P=357.820282 Y=188.749420 R=0.000000
+[2021.07.02-07.46.57:686][ 51]LogTemp: player location is X=432.182 Y=-1337.405 Z=250.460 player rotation is P=357.820282 Y=189.116898 R=0.000000
+[2021.07.02-07.46.57:694][ 52]LogTemp: player location is X=439.752 Y=-1331.667 Z=250.695 player rotation is P=357.820282 Y=189.300522 R=0.000000
+[2021.07.02-07.46.57:702][ 53]LogTemp: player location is X=447.716 Y=-1326.165 Z=250.949 player rotation is P=357.645294 Y=189.667572 R=0.000000
+[2021.07.02-07.46.57:711][ 54]LogTemp: player location is X=456.059 Y=-1320.874 Z=251.224 player rotation is P=357.645294 Y=189.667572 R=0.000000
+[2021.07.02-07.46.57:719][ 55]LogTemp: player location is X=464.686 Y=-1315.827 Z=251.517 player rotation is P=357.645294 Y=189.842560 R=0.000000
+[2021.07.02-07.46.57:727][ 56]LogTemp: player location is X=473.473 Y=-1311.061 Z=251.822 player rotation is P=357.645294 Y=190.025986 R=0.000000
+[2021.07.02-07.46.57:736][ 57]LogTemp: player location is X=482.394 Y=-1306.554 Z=252.138 player rotation is P=357.645294 Y=190.209305 R=0.000000
+[2021.07.02-07.46.57:744][ 58]LogTemp: player location is X=491.430 Y=-1302.283 Z=252.464 player rotation is P=357.645294 Y=190.392532 R=0.000000
+[2021.07.02-07.46.57:752][ 59]LogTemp: player location is X=500.565 Y=-1298.228 Z=252.798 player rotation is P=357.645294 Y=190.575668 R=0.000000
+[2021.07.02-07.46.57:761][ 60]LogTemp: player location is X=509.193 Y=-1294.398 Z=253.114 player rotation is P=357.645294 Y=190.575668 R=0.000000
+[2021.07.02-07.46.57:769][ 61]LogTemp: player location is X=517.313 Y=-1290.793 Z=253.412 player rotation is P=357.645294 Y=190.750656 R=0.000000
+[2021.07.02-07.46.57:777][ 62]LogTemp: player location is X=524.925 Y=-1287.414 Z=253.691 player rotation is P=357.645294 Y=190.933701 R=0.000000
+[2021.07.02-07.46.57:785][ 63]LogTemp: player location is X=532.030 Y=-1284.260 Z=253.951 player rotation is P=357.645294 Y=191.116638 R=0.000000
+[2021.07.02-07.46.57:794][ 64]LogTemp: player location is X=538.627 Y=-1281.332 Z=254.193 player rotation is P=357.645294 Y=191.116638 R=0.000000
+[2021.07.02-07.46.57:802][ 65]LogTemp: player location is X=544.717 Y=-1278.628 Z=254.416 player rotation is P=357.645294 Y=191.116638 R=0.000000
+[2021.07.02-07.46.57:810][ 66]LogTemp: player location is X=550.299 Y=-1276.150 Z=254.620 player rotation is P=357.645294 Y=191.291626 R=0.000000
+[2021.07.02-07.46.57:819][ 67]LogTemp: player location is X=555.374 Y=-1273.897 Z=254.806 player rotation is P=357.645294 Y=191.291626 R=0.000000
+[2021.07.02-07.46.57:827][ 68]LogTemp: player location is X=559.942 Y=-1271.870 Z=254.974 player rotation is P=357.645294 Y=191.291626 R=0.000000
+[2021.07.02-07.46.57:836][ 69]LogTemp: player location is X=564.001 Y=-1270.068 Z=255.122 player rotation is P=357.645294 Y=191.291626 R=0.000000
+[2021.07.02-07.46.57:844][ 70]LogTemp: player location is X=566.642 Y=-1268.491 Z=255.253 player rotation is P=357.645294 Y=191.466614 R=0.000000
+[2021.07.02-07.46.57:852][ 71]LogTemp: player location is X=566.782 Y=-1267.198 Z=255.359 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:860][ 72]LogTemp: player location is X=566.863 Y=-1266.457 Z=255.421 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:869][ 73]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:877][ 74]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:885][ 75]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:894][ 76]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:902][ 77]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:910][ 78]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:919][ 79]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:928][ 80]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:936][ 81]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:945][ 82]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:953][ 83]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:961][ 84]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:970][ 85]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:978][ 86]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:986][ 87]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.57:995][ 88]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.58:003][ 89]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.58:011][ 90]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.58:019][ 91]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.58:028][ 92]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.58:036][ 93]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.58:045][ 94]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.58:053][ 95]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.58:061][ 96]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.645294 Y=191.649475 R=0.000000
+[2021.07.02-07.46.58:069][ 97]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.470306 Y=191.824463 R=0.000000
+[2021.07.02-07.46.58:078][ 98]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.470306 Y=191.824463 R=0.000000
+[2021.07.02-07.46.58:086][ 99]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.470306 Y=191.824463 R=0.000000
+[2021.07.02-07.46.58:094][100]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:103][101]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:111][102]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:119][103]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:128][104]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:136][105]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:144][106]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:153][107]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:161][108]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:169][109]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=191.999451 R=0.000000
+[2021.07.02-07.46.58:178][110]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=192.174438 R=0.000000
+[2021.07.02-07.46.58:186][111]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.295319 Y=192.174438 R=0.000000
+[2021.07.02-07.46.58:194][112]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.120331 Y=192.349426 R=0.000000
+[2021.07.02-07.46.58:203][113]LogTemp: player location is X=566.883 Y=-1266.265 Z=255.436 player rotation is P=357.120331 Y=192.532196 R=0.000000
+[2021.07.02-07.46.58:211][114]LogTemp: player location is X=566.613 Y=-1266.325 Z=255.422 player rotation is P=356.770355 Y=193.080246 R=0.000000
+[2021.07.02-07.46.58:220][115]LogTemp: player location is X=566.072 Y=-1266.449 Z=255.393 player rotation is P=356.770355 Y=193.080246 R=0.000000
+[2021.07.02-07.46.58:228][116]LogTemp: player location is X=565.300 Y=-1266.397 Z=255.352 player rotation is P=356.595367 Y=193.605194 R=0.000000
+[2021.07.02-07.46.58:236][117]LogTemp: player location is X=564.299 Y=-1266.177 Z=255.301 player rotation is P=356.412781 Y=193.787796 R=0.000000
+[2021.07.02-07.46.58:245][118]LogTemp: player location is X=563.069 Y=-1265.792 Z=255.238 player rotation is P=356.412781 Y=193.970306 R=0.000000
+[2021.07.02-07.46.58:253][119]LogTemp: player location is X=561.610 Y=-1265.246 Z=255.162 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:261][120]LogTemp: player location is X=559.920 Y=-1264.542 Z=255.074 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:269][121]LogTemp: player location is X=557.998 Y=-1263.681 Z=254.974 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:278][122]LogTemp: player location is X=555.844 Y=-1262.666 Z=254.861 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:286][123]LogTemp: player location is X=553.458 Y=-1261.497 Z=254.735 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:294][124]LogTemp: player location is X=550.840 Y=-1260.174 Z=254.596 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:303][125]LogTemp: player location is X=547.989 Y=-1258.700 Z=254.444 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:311][126]LogTemp: player location is X=544.905 Y=-1257.074 Z=254.280 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:319][127]LogTemp: player location is X=541.587 Y=-1255.297 Z=254.103 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:328][128]LogTemp: player location is X=538.036 Y=-1253.370 Z=253.914 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:336][129]LogTemp: player location is X=534.250 Y=-1251.293 Z=253.711 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:345][130]LogTemp: player location is X=530.229 Y=-1249.068 Z=253.496 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:353][131]LogTemp: player location is X=525.912 Y=-1247.138 Z=253.257 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:361][132]LogTemp: player location is X=521.310 Y=-1245.484 Z=252.995 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:369][133]LogTemp: player location is X=516.431 Y=-1244.092 Z=252.711 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:378][134]LogTemp: player location is X=511.281 Y=-1242.947 Z=252.405 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:386][135]LogTemp: player location is X=505.866 Y=-1242.036 Z=252.078 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:394][136]LogTemp: player location is X=500.190 Y=-1241.347 Z=251.731 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:403][137]LogTemp: player location is X=495.064 Y=-1240.725 Z=251.417 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:411][138]LogTemp: player location is X=490.488 Y=-1240.169 Z=251.137 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:419][139]LogTemp: player location is X=486.463 Y=-1239.681 Z=250.891 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:428][140]LogTemp: player location is X=482.989 Y=-1239.259 Z=250.678 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:436][141]LogTemp: player location is X=480.065 Y=-1238.904 Z=250.500 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:444][142]LogTemp: player location is X=477.691 Y=-1238.616 Z=250.354 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:452][143]LogTemp: player location is X=475.868 Y=-1238.394 Z=250.243 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:461][144]LogTemp: player location is X=474.596 Y=-1238.240 Z=250.165 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:469][145]LogTemp: player location is X=473.874 Y=-1238.152 Z=250.121 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:477][146]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:486][147]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:494][148]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:502][149]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:511][150]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:519][151]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:527][152]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:536][153]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:544][154]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:552][155]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:561][156]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:569][157]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:577][158]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:586][159]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:594][160]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:602][161]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:611][162]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:619][163]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:627][164]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:636][165]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:644][166]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:652][167]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:661][168]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:669][169]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:677][170]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:686][171]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:694][172]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:702][173]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:711][174]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:719][175]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:727][176]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:735][177]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:744][178]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:752][179]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:761][180]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:769][181]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:777][182]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:785][183]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:794][184]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:802][185]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:810][186]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:819][187]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:827][188]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:835][189]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:844][190]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:852][191]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:860][192]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:869][193]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:877][194]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:885][195]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:894][196]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:902][197]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:910][198]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:919][199]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:927][200]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:935][201]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.237793 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:944][202]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.692596 R=0.000000
+[2021.07.02-07.46.58:952][203]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.692596 R=0.000000
+[2021.07.02-07.46.58:960][204]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.692596 R=0.000000
+[2021.07.02-07.46.58:969][205]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.692596 R=0.000000
+[2021.07.02-07.46.58:977][206]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:985][207]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.58:994][208]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:002][209]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:010][210]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:019][211]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:027][212]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:036][213]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:045][214]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:053][215]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:060][216]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:069][217]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:077][218]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:086][219]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:095][220]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:103][221]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=194.517609 R=0.000000
+[2021.07.02-07.46.59:111][222]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:120][223]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:128][224]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:136][225]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:145][226]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:153][227]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:160][228]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:169][229]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:177][230]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:185][231]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:194][232]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:202][233]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:210][234]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:219][235]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:227][236]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:235][237]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:244][238]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:252][239]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=356.062805 Y=194.167648 R=0.000000
+[2021.07.02-07.46.59:260][240]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=193.992661 R=0.000000
+[2021.07.02-07.46.59:270][241]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=193.992661 R=0.000000
+[2021.07.02-07.46.59:278][242]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=193.992661 R=0.000000
+[2021.07.02-07.46.59:286][243]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.887817 Y=193.817673 R=0.000000
+[2021.07.02-07.46.59:295][244]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.712830 Y=193.635315 R=0.000000
+[2021.07.02-07.46.59:303][245]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.712830 Y=193.635315 R=0.000000
+[2021.07.02-07.46.59:311][246]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.712830 Y=193.635315 R=0.000000
+[2021.07.02-07.46.59:320][247]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.712830 Y=193.635315 R=0.000000
+[2021.07.02-07.46.59:328][248]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.537842 Y=193.460327 R=0.000000
+[2021.07.02-07.46.59:336][249]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.537842 Y=193.460327 R=0.000000
+[2021.07.02-07.46.59:345][250]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.362854 Y=193.285339 R=0.000000
+[2021.07.02-07.46.59:353][251]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.362854 Y=193.285339 R=0.000000
+[2021.07.02-07.46.59:361][252]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.362854 Y=193.110352 R=0.000000
+[2021.07.02-07.46.59:370][253]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.187866 Y=192.928070 R=0.000000
+[2021.07.02-07.46.59:378][254]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.187866 Y=192.928070 R=0.000000
+[2021.07.02-07.46.59:386][255]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.187866 Y=192.753082 R=0.000000
+[2021.07.02-07.46.59:395][256]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.012878 Y=192.570877 R=0.000000
+[2021.07.02-07.46.59:403][257]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.012878 Y=192.570877 R=0.000000
+[2021.07.02-07.46.59:411][258]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.012878 Y=192.395889 R=0.000000
+[2021.07.02-07.46.59:420][259]LogTemp: player location is X=473.702 Y=-1238.131 Z=250.110 player rotation is P=355.012878 Y=192.213760 R=0.000000
+[2021.07.02-07.46.59:428][260]LogTemp: player location is X=473.432 Y=-1238.190 Z=250.086 player rotation is P=355.012878 Y=192.031693 R=0.000000
+[2021.07.02-07.46.59:437][261]LogTemp: player location is X=472.891 Y=-1238.306 Z=250.038 player rotation is P=355.012878 Y=191.849701 R=0.000000
+[2021.07.02-07.46.59:445][262]LogTemp: player location is X=472.079 Y=-1238.479 Z=249.965 player rotation is P=355.012878 Y=191.390579 R=0.000000
+[2021.07.02-07.46.59:453][263]LogTemp: player location is X=471.137 Y=-1238.918 Z=249.877 player rotation is P=355.012878 Y=190.656311 R=0.000000
+[2021.07.02-07.46.59:461][264]LogTemp: player location is X=470.063 Y=-1239.614 Z=249.774 player rotation is P=355.012878 Y=189.922379 R=0.000000
+[2021.07.02-07.46.59:470][265]LogTemp: player location is X=468.853 Y=-1240.561 Z=249.655 player rotation is P=355.362854 Y=189.005371 R=0.000000
+[2021.07.02-07.46.59:478][266]LogTemp: player location is X=467.501 Y=-1241.752 Z=249.522 player rotation is P=355.729492 Y=188.272079 R=0.000000
+[2021.07.02-07.46.59:486][267]LogTemp: player location is X=466.002 Y=-1243.183 Z=249.377 player rotation is P=356.462463 Y=187.539108 R=0.000000
+[2021.07.02-07.46.59:495][268]LogTemp: player location is X=464.350 Y=-1244.849 Z=249.223 player rotation is P=356.828796 Y=186.256943 R=0.000000
+[2021.07.02-07.46.59:503][269]LogTemp: player location is X=462.536 Y=-1246.743 Z=249.063 player rotation is P=357.011902 Y=185.341492 R=0.000000
+[2021.07.02-07.46.59:511][270]LogTemp: player location is X=460.555 Y=-1248.860 Z=248.897 player rotation is P=357.377930 Y=183.694351 R=0.000000
+[2021.07.02-07.46.59:520][271]LogTemp: player location is X=458.395 Y=-1251.189 Z=248.726 player rotation is P=357.560883 Y=181.864929 R=0.000000
+[2021.07.02-07.46.59:528][272]LogTemp: player location is X=456.045 Y=-1253.721 Z=248.553 player rotation is P=357.743744 Y=180.219101 R=0.000000
+[2021.07.02-07.46.59:536][273]LogTemp: player location is X=453.853 Y=-1256.592 Z=248.390 player rotation is P=357.926544 Y=178.208282 R=0.000000
+[2021.07.02-07.46.59:545][274]LogTemp: player location is X=451.791 Y=-1259.790 Z=248.239 player rotation is P=357.926544 Y=176.198242 R=0.000000
+[2021.07.02-07.46.59:553][275]LogTemp: player location is X=449.831 Y=-1263.305 Z=248.098 player rotation is P=357.926544 Y=173.823624 R=0.000000
+[2021.07.02-07.46.59:561][276]LogTemp: player location is X=447.943 Y=-1267.130 Z=247.966 player rotation is P=357.926544 Y=171.267273 R=0.000000
+[2021.07.02-07.46.59:570][277]LogTemp: player location is X=446.096 Y=-1271.255 Z=247.843 player rotation is P=357.926544 Y=168.164261 R=0.000000
+[2021.07.02-07.46.59:578][278]LogTemp: player location is X=444.253 Y=-1275.672 Z=247.728 player rotation is P=357.926544 Y=165.244812 R=0.000000
+[2021.07.02-07.46.59:586][279]LogTemp: player location is X=442.381 Y=-1280.371 Z=247.621 player rotation is P=357.926544 Y=162.143967 R=0.000000
+[2021.07.02-07.46.59:595][280]LogTemp: player location is X=440.445 Y=-1285.343 Z=247.521 player rotation is P=357.926544 Y=159.044189 R=0.000000
+[2021.07.02-07.46.59:603][281]LogTemp: player location is X=438.411 Y=-1290.575 Z=247.427 player rotation is P=357.926544 Y=155.763138 R=0.000000
+[2021.07.02-07.46.59:611][282]LogTemp: player location is X=436.246 Y=-1296.053 Z=247.340 player rotation is P=357.926544 Y=153.029861 R=0.000000
+[2021.07.02-07.46.59:620][283]LogTemp: player location is X=433.921 Y=-1301.764 Z=247.259 player rotation is P=357.401611 Y=150.661789 R=0.000000
+[2021.07.02-07.46.59:628][284]LogTemp: player location is X=431.413 Y=-1307.694 Z=247.183 player rotation is P=357.219513 Y=148.476578 R=0.000000
+[2021.07.02-07.46.59:636][285]LogTemp: player location is X=429.236 Y=-1313.916 Z=247.136 player rotation is P=356.855438 Y=146.292053 R=0.000000
+[2021.07.02-07.46.59:645][286]LogTemp: player location is X=427.345 Y=-1320.426 Z=247.120 player rotation is P=356.491455 Y=144.108215 R=0.000000
+[2021.07.02-07.46.59:653][287]LogTemp: player location is X=425.694 Y=-1327.222 Z=247.137 player rotation is P=356.216461 Y=142.733322 R=0.000000
+[2021.07.02-07.46.59:661][288]LogTemp: player location is X=424.253 Y=-1334.302 Z=247.188 player rotation is P=356.033203 Y=141.633789 R=0.000000
+[2021.07.02-07.46.59:669][289]LogTemp: player location is X=422.994 Y=-1341.664 Z=247.272 player rotation is P=355.666809 Y=140.717834 R=0.000000
+[2021.07.02-07.46.59:678][290]LogTemp: player location is X=421.896 Y=-1349.305 Z=247.392 player rotation is P=355.483673 Y=140.351578 R=0.000000
+[2021.07.02-07.46.59:686][291]LogTemp: player location is X=420.943 Y=-1357.225 Z=247.548 player rotation is P=355.300598 Y=139.985458 R=0.000000
+[2021.07.02-07.46.59:694][292]LogTemp: player location is X=420.672 Y=-1365.136 Z=247.760 player rotation is P=355.117584 Y=139.619461 R=0.000000
+[2021.07.02-07.46.59:703][293]LogTemp: player location is X=421.030 Y=-1373.039 Z=248.027 player rotation is P=354.934631 Y=139.436523 R=0.000000
+[2021.07.02-07.46.59:711][294]LogTemp: player location is X=421.974 Y=-1380.938 Z=248.347 player rotation is P=354.751740 Y=139.253647 R=0.000000
+[2021.07.02-07.46.59:719][295]LogTemp: player location is X=423.465 Y=-1388.835 Z=248.720 player rotation is P=354.751740 Y=139.253647 R=0.000000
+[2021.07.02-07.46.59:728][296]LogTemp: player location is X=425.471 Y=-1396.735 Z=249.142 player rotation is P=354.576752 Y=139.078659 R=0.000000
+[2021.07.02-07.46.59:736][297]LogTemp: player location is X=427.962 Y=-1404.644 Z=249.614 player rotation is P=354.393921 Y=138.895828 R=0.000000
+[2021.07.02-07.46.59:744][298]LogTemp: player location is X=430.910 Y=-1412.571 Z=250.135 player rotation is P=354.393921 Y=138.895828 R=0.000000
+[2021.07.02-07.46.59:753][299]LogTemp: player location is X=434.293 Y=-1420.520 Z=250.704 player rotation is P=354.218933 Y=138.895828 R=0.000000
+[2021.07.02-07.46.59:761][300]LogTemp: player location is X=438.092 Y=-1428.498 Z=251.321 player rotation is P=353.853302 Y=138.720840 R=0.000000
+[2021.07.02-07.46.59:769][301]LogTemp: player location is X=442.286 Y=-1436.514 Z=251.991 player rotation is P=353.853302 Y=138.720840 R=0.000000
+[2021.07.02-07.46.59:778][302]LogTemp: player location is X=446.860 Y=-1444.574 Z=252.710 player rotation is P=353.678314 Y=138.545853 R=0.000000
+[2021.07.02-07.46.59:786][303]LogTemp: player location is X=451.798 Y=-1452.688 Z=253.479 player rotation is P=353.678314 Y=138.545853 R=0.000000
+[2021.07.02-07.46.59:794][304]LogTemp: player location is X=457.086 Y=-1460.861 Z=254.298 player rotation is P=353.678314 Y=138.545853 R=0.000000
+[2021.07.02-07.46.59:803][305]LogTemp: player location is X=462.706 Y=-1469.088 Z=255.164 player rotation is P=353.678314 Y=138.545853 R=0.000000
+[2021.07.02-07.46.59:811][306]LogTemp: player location is X=467.924 Y=-1477.574 Z=256.032 player rotation is P=353.678314 Y=138.545853 R=0.000000
+[2021.07.02-07.46.59:819][307]LogTemp: player location is X=472.765 Y=-1486.281 Z=256.900 player rotation is P=353.678314 Y=138.545853 R=0.000000
+[2021.07.02-07.46.59:827][308]LogTemp: player location is X=476.658 Y=-1495.116 Z=257.710 player rotation is P=353.678314 Y=138.545853 R=0.000000
+[2021.07.02-07.46.59:836][309]LogTemp: player location is X=479.680 Y=-1504.054 Z=258.466 player rotation is P=353.678314 Y=138.545853 R=0.000000
+[2021.07.02-07.46.59:844][310]LogTemp: player location is X=481.899 Y=-1513.077 Z=259.172 player rotation is P=353.678314 Y=138.370865 R=0.000000
+[2021.07.02-07.46.59:853][311]LogTemp: player location is X=483.373 Y=-1522.171 Z=259.831 player rotation is P=353.678314 Y=138.188095 R=0.000000
+[2021.07.02-07.46.59:861][312]LogTemp: player location is X=484.152 Y=-1531.324 Z=260.446 player rotation is P=353.678314 Y=138.005386 R=0.000000
+[2021.07.02-07.46.59:869][313]LogTemp: player location is X=484.284 Y=-1540.529 Z=261.020 player rotation is P=353.678314 Y=137.822739 R=0.000000
+[2021.07.02-07.46.59:877][314]LogTemp: player location is X=483.807 Y=-1549.783 Z=261.555 player rotation is P=353.853302 Y=137.274948 R=0.000000
+[2021.07.02-07.46.59:886][315]LogTemp: player location is X=482.753 Y=-1559.078 Z=262.055 player rotation is P=353.853302 Y=137.274948 R=0.000000
+[2021.07.02-07.46.59:894][316]LogTemp: player location is X=481.158 Y=-1568.417 Z=262.522 player rotation is P=354.028290 Y=136.924988 R=0.000000
+[2021.07.02-07.46.59:903][317]LogTemp: player location is X=479.047 Y=-1577.797 Z=262.957 player rotation is P=354.028290 Y=136.377365 R=0.000000
+[2021.07.02-07.46.59:911][318]LogTemp: player location is X=476.443 Y=-1587.218 Z=263.364 player rotation is P=354.203278 Y=135.829895 R=0.000000
+[2021.07.02-07.46.59:919][319]LogTemp: player location is X=473.085 Y=-1596.027 Z=263.677 player rotation is P=354.203278 Y=134.917725 R=0.000000
+[2021.07.02-07.46.59:928][320]LogTemp: player location is X=469.046 Y=-1604.249 Z=263.904 player rotation is P=354.378265 Y=134.188187 R=0.000000
+[2021.07.02-07.46.59:936][321]LogTemp: player location is X=464.390 Y=-1611.913 Z=264.055 player rotation is P=354.378265 Y=133.094208 R=0.000000
+[2021.07.02-07.46.59:944][322]LogTemp: player location is X=459.172 Y=-1619.039 Z=264.135 player rotation is P=354.553253 Y=132.182816 R=0.000000
+[2021.07.02-07.46.59:953][323]LogTemp: player location is X=453.437 Y=-1625.649 Z=264.151 player rotation is P=354.553253 Y=131.271667 R=0.000000
+[2021.07.02-07.46.59:961][324]LogTemp: player location is X=447.228 Y=-1631.765 Z=264.109 player rotation is P=354.553253 Y=130.178604 R=0.000000
+[2021.07.02-07.46.59:969][325]LogTemp: player location is X=440.880 Y=-1636.819 Z=263.988 player rotation is P=354.553253 Y=129.267944 R=0.000000
+[2021.07.02-07.46.59:978][326]LogTemp: player location is X=434.440 Y=-1640.906 Z=263.797 player rotation is P=354.553253 Y=128.175446 R=0.000000
+[2021.07.02-07.46.59:986][327]LogTemp: player location is X=427.946 Y=-1644.105 Z=263.544 player rotation is P=354.553253 Y=126.901215 R=0.000000
+[2021.07.02-07.46.59:994][328]LogTemp: player location is X=421.430 Y=-1646.485 Z=263.236 player rotation is P=354.553253 Y=125.627312 R=0.000000
+[2021.07.02-07.47.00:003][329]LogTemp: player location is X=415.435 Y=-1648.674 Z=262.953 player rotation is P=354.903229 Y=124.535660 R=0.000000
+[2021.07.02-07.47.00:011][330]LogTemp: player location is X=409.961 Y=-1650.673 Z=262.694 player rotation is P=354.903229 Y=123.808075 R=0.000000
+[2021.07.02-07.47.00:019][331]LogTemp: player location is X=405.009 Y=-1652.482 Z=262.460 player rotation is P=355.078217 Y=123.080681 R=0.000000
+[2021.07.02-07.47.00:028][332]LogTemp: player location is X=400.578 Y=-1654.100 Z=262.250 player rotation is P=355.260010 Y=122.535271 R=0.000000
+[2021.07.02-07.47.00:036][333]LogTemp: player location is X=396.668 Y=-1655.528 Z=262.066 player rotation is P=355.441772 Y=121.989990 R=0.000000
+[2021.07.02-07.47.00:044][334]LogTemp: player location is X=393.280 Y=-1656.765 Z=261.905 player rotation is P=355.441772 Y=121.626556 R=0.000000
+[2021.07.02-07.47.00:052][335]LogTemp: player location is X=390.413 Y=-1657.812 Z=261.770 player rotation is P=355.441772 Y=121.260979 R=0.000000
+[2021.07.02-07.47.00:061][336]LogTemp: player location is X=388.068 Y=-1658.668 Z=261.659 player rotation is P=355.616760 Y=121.078239 R=0.000000
+[2021.07.02-07.47.00:069][337]LogTemp: player location is X=386.243 Y=-1659.334 Z=261.573 player rotation is P=355.616760 Y=120.712852 R=0.000000
+[2021.07.02-07.47.00:078][338]LogTemp: player location is X=384.941 Y=-1659.810 Z=261.511 player rotation is P=355.616760 Y=120.347572 R=0.000000
+[2021.07.02-07.47.00:086][339]LogTemp: player location is X=384.159 Y=-1660.096 Z=261.474 player rotation is P=355.616760 Y=120.164978 R=0.000000
+[2021.07.02-07.47.00:094][340]LogTemp: player location is X=383.899 Y=-1660.191 Z=261.462 player rotation is P=355.616760 Y=119.982430 R=0.000000
+[2021.07.02-07.47.00:102][341]LogTemp: player location is X=383.899 Y=-1660.191 Z=261.462 player rotation is P=355.616760 Y=119.982430 R=0.000000
+[2021.07.02-07.47.00:111][342]LogTemp: player location is X=383.899 Y=-1660.191 Z=261.462 player rotation is P=355.616760 Y=119.982430 R=0.000000
+[2021.07.02-07.47.00:119][343]LogTemp: player location is X=383.899 Y=-1660.191 Z=261.462 player rotation is P=355.616760 Y=119.982430 R=0.000000
+[2021.07.02-07.47.00:127][344]LogTemp: player location is X=383.899 Y=-1660.191 Z=261.462 player rotation is P=355.616760 Y=119.982430 R=0.000000
+[2021.07.02-07.47.00:136][345]LogTemp: player location is X=383.899 Y=-1660.191 Z=261.462 player rotation is P=355.616760 Y=119.982430 R=0.000000
+[2021.07.02-07.47.00:159][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-07.47.00:159][345]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-07.47.00:159][345]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-07.47.00:159][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-07.47.00:170][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-07.47.00:174][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-07.47.00:186][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-07.47.00:186][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-07.47.00:187][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-07.47.00:203][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-07.47.00:206][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.07.02-07.47.00:246][347]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2021.07.02-07.47.46:719][595]Candidate modules for hot reload:
+[2021.07.02-07.47.46:719][595]  Escape
+[2021.07.02-07.47.46:719][595]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,6745 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.02-07.47.46:722][595]Warning: Starting HotReload took  0.0s.
+[2021.07.02-07.47.48:417][751]CompilerResultsLog: New page: Compilation - Jul 3, 2021, 3:47:48 AM
+[2021.07.02-07.47.48:417][751]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.02-07.47.48:417][751]CompilerResultsLog: Building EscapeEditor...
+[2021.07.02-07.47.48:417][751]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.02-07.47.48:417][751]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.07.02-07.47.48:417][751]CompilerResultsLog:   [1/4] Grabber.cpp
+[2021.07.02-07.47.48:417][751]CompilerResultsLog:   [2/4] UE4Editor-Escape-6745.lib
+[2021.07.02-07.47.48:417][751]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-6745.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-6745.exp
+[2021.07.02-07.47.48:417][751]CompilerResultsLog:   [3/4] UE4Editor-Escape-6745.dll
+[2021.07.02-07.47.48:417][751]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-6745.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-6745.suppressed.exp
+[2021.07.02-07.47.48:417][751]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.07.02-07.47.48:417][751]CompilerResultsLog: Total time in Parallel executor: 1.16 seconds
+[2021.07.02-07.47.48:417][751]CompilerResultsLog: Total execution time: 1.64 seconds
+[2021.07.02-07.47.48:418][751]LogMainFrame: MainFrame: Module compiling took 1.701 seconds
+[2021.07.02-07.47.48:451][751]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.07.02-07.47.48:454][751]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.02-07.47.48:503][751]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3605 classes and 861 folders.
+[2021.07.02-07.47.48:508][751]Display: HotReload took  1.8s.
+[2021.07.02-07.47.49:298][814]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-07.47.49:303][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-07.47.49:303][814]PIE: New page: PIE session: DefaultMap (Jul 3, 2021, 3:47:49 AM)
+[2021.07.02-07.47.49:328][814]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-07.47.49:334][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006393s)
+[2021.07.02-07.47.49:335][814]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.02-07.47.49:335][814]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2021.07.02-07.47.49:335][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007381s)
+[2021.07.02-07.47.49:395][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.07.02-07.47.49:396][814]LogAudio: Display: Creating Audio Device:                 Id: 112, Scope: Unique, Realtime: True
+[2021.07.02-07.47.49:396][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-07.47.49:396][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-07.47.49:396][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-07.47.49:396][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-07.47.49:396][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-07.47.49:396][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-07.47.49:396][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-07.47.49:396][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-07.47.49:396][814]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-07.47.49:396][814]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-07.47.49:401][814]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-07.47.49:401][814]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-07.47.49:408][814]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.02-07.47.49:408][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-07.47.49:408][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-07.47.49:408][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-07.47.49:409][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-07.47.49:409][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-07.47.49:409][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-07.47.49:421][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-07.47.49:421][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-07.47.49:421][814]LogInit: FAudioDevice initialized.
+[2021.07.02-07.47.49:421][814]LogAudio: Display: Audio Device (ID: 112) registered with world 'DefaultMap'.
+[2021.07.02-07.47.49:430][814]LogLoad: Game class is 'Level1Gamemode_C'
+[2021.07.02-07.47.49:431][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.02-17.47.49
+[2021.07.02-07.47.49:431][814]LogWorld: Bringing up level for play took: 0.000761
+[2021.07.02-07.47.49:432][814]LogOnline: OSS: Creating online subsystem instance for: :Context_129
+[2021.07.02-07.47.49:433][814]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.02-07.47.49:433][814]PIE: Server logged in
+[2021.07.02-07.47.49:434][814]PIE: Play in editor total start time 0.132 seconds.
+[2021.07.02-07.47.58:558][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-07.47.58:558][818]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-07.47.58:559][818]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-07.47.58:559][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-07.47.58:569][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-07.47.58:574][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-07.47.58:584][818]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-07.47.58:586][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-07.47.58:587][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-07.47.58:601][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-07.47.58:630][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.07.02-07.47.58:645][819]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2021.07.02-07.48.11:458][964]Candidate modules for hot reload:
+[2021.07.02-07.48.11:458][964]  Escape
+[2021.07.02-07.48.11:458][964]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,5990 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.02-07.48.11:461][964]Warning: Starting HotReload took  0.0s.
+[2021.07.02-07.48.13:061][110]CompilerResultsLog: New page: Compilation - Jul 3, 2021, 3:48:13 AM
+[2021.07.02-07.48.13:061][110]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.02-07.48.13:061][110]CompilerResultsLog: Building EscapeEditor...
+[2021.07.02-07.48.13:061][110]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.02-07.48.13:061][110]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.07.02-07.48.13:061][110]CompilerResultsLog:   [1/4] Grabber.cpp
+[2021.07.02-07.48.13:061][110]CompilerResultsLog:   [2/4] UE4Editor-Escape-5990.lib
+[2021.07.02-07.48.13:061][110]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5990.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5990.exp
+[2021.07.02-07.48.13:061][110]CompilerResultsLog:   [3/4] UE4Editor-Escape-5990.dll
+[2021.07.02-07.48.13:061][110]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5990.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5990.suppressed.exp
+[2021.07.02-07.48.13:061][110]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.07.02-07.48.13:061][110]CompilerResultsLog: Total time in Parallel executor: 1.07 seconds
+[2021.07.02-07.48.13:061][110]CompilerResultsLog: Total execution time: 1.54 seconds
+[2021.07.02-07.48.13:061][110]LogMainFrame: MainFrame: Module compiling took 1.606 seconds
+[2021.07.02-07.48.13:091][110]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.07.02-07.48.13:095][110]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.02-07.48.13:141][110]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3605 classes and 861 folders.
+[2021.07.02-07.48.13:146][110]Display: HotReload took  1.7s.
+[2021.07.02-07.48.13:798][159]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.02-07.48.13:803][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.02-07.48.13:803][159]PIE: New page: PIE session: DefaultMap (Jul 3, 2021, 3:48:13 AM)
+[2021.07.02-07.48.13:837][159]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-07.48.13:844][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006431s)
+[2021.07.02-07.48.13:845][159]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.02-07.48.13:845][159]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2021.07.02-07.48.13:845][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007420s)
+[2021.07.02-07.48.13:896][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.07.02-07.48.13:898][159]LogAudio: Display: Creating Audio Device:                 Id: 113, Scope: Unique, Realtime: True
+[2021.07.02-07.48.13:898][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-07.48.13:898][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-07.48.13:898][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-07.48.13:898][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-07.48.13:898][159]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-07.48.13:898][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-07.48.13:898][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-07.48.13:898][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-07.48.13:898][159]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-07.48.13:898][159]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-07.48.13:902][159]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-07.48.13:902][159]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-07.48.13:911][159]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.02-07.48.13:911][159]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-07.48.13:911][159]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-07.48.13:911][159]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-07.48.13:911][159]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-07.48.13:911][159]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-07.48.13:911][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-07.48.13:924][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-07.48.13:924][159]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-07.48.13:924][159]LogInit: FAudioDevice initialized.
+[2021.07.02-07.48.13:924][159]LogAudio: Display: Audio Device (ID: 113) registered with world 'DefaultMap'.
+[2021.07.02-07.48.13:932][159]LogLoad: Game class is 'Level1Gamemode_C'
+[2021.07.02-07.48.13:933][159]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.02-17.48.13
+[2021.07.02-07.48.13:933][159]LogWorld: Bringing up level for play took: 0.000797
+[2021.07.02-07.48.13:934][159]LogOnline: OSS: Creating online subsystem instance for: :Context_130
+[2021.07.02-07.48.13:935][159]LogTemp: Warning: V(X=-1074.00, Y=-200.00, Z=113.00)
+[2021.07.02-07.48.13:935][159]PIE: Server logged in
+[2021.07.02-07.48.13:936][159]PIE: Play in editor total start time 0.135 seconds.
+[2021.07.02-07.48.28:819][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-07.48.28:819][616]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.02-07.48.28:819][616]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-07.48.28:819][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-07.48.28:828][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.02-07.48.28:833][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-07.48.28:845][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.02-07.48.28:845][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-07.48.28:846][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.02-07.48.28:861][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.02-07.48.28:888][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.07.02-07.48.28:902][617]LogPlayLevel: Display: Destroying online subsystem :Context_130
