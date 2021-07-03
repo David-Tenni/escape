@@ -1070,3 +1070,1306 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.03-09.16.37:187][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.07.03-09.16.37:189][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2021.07.03-09.16.37:232][637]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.07.03-10.19.14:549][854]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.03-10.19.14:571][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP
+[2021.07.03-10.19.15:073][854]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.07.03-10.19.15:795][854]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.03-10.19.35:177][838]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.19.35:182][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.19.35:182][838]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:19:35 AM)
+[2021.07.03-10.19.35:182][838]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.19.35:188][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006280s)
+[2021.07.03-10.19.35:189][838]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.19.35:189][838]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2021.07.03-10.19.35:189][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007204s)
+[2021.07.03-10.19.35:206][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.07.03-10.19.35:207][838]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.03-10.19.35:207][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.19.35:207][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.19.35:207][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.19.35:207][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.19.35:207][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.19.35:207][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.19.35:207][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.19.35:207][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.19.35:207][838]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.19.35:207][838]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.19.35:212][838]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.19.35:212][838]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.19.35:220][838]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.19.35:220][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.19.35:220][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.19.35:220][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.19.35:220][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.19.35:220][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.19.35:220][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.19.35:231][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.19.35:231][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.19.35:231][838]LogInit: FAudioDevice initialized.
+[2021.07.03-10.19.35:231][838]LogAudio: Display: Audio Device (ID: 3) registered with world 'DefaultMap'.
+[2021.07.03-10.19.35:236][838]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.19.35:237][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.19.35
+[2021.07.03-10.19.35:237][838]LogWorld: Bringing up level for play took: 0.000778
+[2021.07.03-10.19.35:237][838]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.07.03-10.19.35:239][838]PIE: Server logged in
+[2021.07.03-10.19.35:239][838]PIE: Play in editor total start time 0.058 seconds.
+[2021.07.03-10.19.38:944][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.19.38:944][276]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.19.38:944][276]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.19.38:945][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.19.38:950][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.19.38:953][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.19.38:965][276]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.03-10.19.38:965][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.19.38:966][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.19.38:978][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.19.38:980][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.07.03-10.19.39:021][278]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.07.03-10.19.39:970][376]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.03-10.20.39:668][223]BlueprintLog: New page: Compile DefaultPawnBP
+[2021.07.03-10.20.39:691][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.07.03-10.20.40:092][264]LogSlate: Window 'DefaultPawnBP' being destroyed
+[2021.07.03-10.20.40:122][264]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.20.40:122][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.20.41:299][394]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.20.41:304][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.20.41:304][394]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:20:41 AM)
+[2021.07.03-10.20.41:333][394]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.20.41:339][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006206s)
+[2021.07.03-10.20.41:340][394]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.20.41:340][394]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2021.07.03-10.20.41:340][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007149s)
+[2021.07.03-10.20.41:353][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.07.03-10.20.41:353][394]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.07.03-10.20.41:353][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.20.41:353][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.20.41:353][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.20.41:353][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.20.41:353][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.20.41:353][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.20.41:353][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.20.41:353][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.20.41:354][394]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.20.41:354][394]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.20.41:358][394]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.20.41:358][394]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.20.41:366][394]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.20.41:366][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.20.41:366][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.20.41:366][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.20.41:366][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.20.41:366][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.20.41:366][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.20.41:377][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.20.41:377][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.20.41:377][394]LogInit: FAudioDevice initialized.
+[2021.07.03-10.20.41:377][394]LogAudio: Display: Audio Device (ID: 4) registered with world 'DefaultMap'.
+[2021.07.03-10.20.41:381][394]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.20.41:382][394]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.20.41
+[2021.07.03-10.20.41:382][394]LogWorld: Bringing up level for play took: 0.000788
+[2021.07.03-10.20.41:382][394]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.07.03-10.20.41:384][394]PIE: Server logged in
+[2021.07.03-10.20.41:384][394]PIE: Play in editor total start time 0.081 seconds.
+[2021.07.03-10.20.50:633][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.20.50:634][499]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.20.50:634][499]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.20.50:634][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.20.50:639][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.20.50:642][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.20.50:652][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.03-10.20.50:652][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.20.50:653][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.20.50:664][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.20.50:667][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.07.03-10.20.50:706][501]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.07.03-10.20.58:601][126]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP
+[2021.07.03-10.21.07:637][ 93]BlueprintLog: New page: Compile DefaultPawnBP
+[2021.07.03-10.21.07:661][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.07.03-10.21.28:253][533]LogSlate: Window 'DefaultPawnBP' being destroyed
+[2021.07.03-10.21.28:292][533]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.21.28:293][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.21.55:050][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.07.03-10.21.55:052][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.015
+[2021.07.03-10.21.55:052][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/DefaultPawnBP] ([1] browsable assets)...
+[2021.07.03-10.21.55:077][  0]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP]
+[2021.07.03-10.21.55:077][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DefaultPawnBP]
+[2021.07.03-10.21.55:077][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DefaultPawnBP" FILE="../../../../../../GameDev/Escape/Saved/Autosaves/Game/Blueprints/DefaultPawnBP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.07.03-10.21.55:085][  0]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultPawnBP_Auto18ADB19404356C0AD99D49AAB7B17CF5D.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/Blueprints/DefaultPawnBP_Auto1.uasset'
+[2021.07.03-10.21.55:085][  0]LogFileHelpers: Auto-saving content packages took 0.034
+[2021.07.03-10.23.48:606][409]Candidate modules for hot reload:
+[2021.07.03-10.23.48:606][409]  Escape
+[2021.07.03-10.23.48:606][409]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,7701 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.03-10.23.48:609][409]Warning: Starting HotReload took  0.0s.
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog: New page: Compilation - Jul 4, 2021, 6:24:07 AM
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog: Reflection code generated for EscapeEditor in 17.4478792 seconds
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog: Building EscapeEditor...
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog: Building 5 actions with 12 processes...
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog:   [1/5] Grabber.cpp
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog:   [3/5] UE4Editor-Escape-7701.lib
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-7701.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-7701.exp
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog:   [4/5] UE4Editor-Escape-7701.dll
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-7701.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-7701.suppressed.exp
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog:   [5/5] EscapeEditor.target
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog: Total time in Parallel executor: 1.24 seconds
+[2021.07.03-10.24.07:944][ 18]CompilerResultsLog: Total execution time: 19.26 seconds
+[2021.07.03-10.24.07:944][ 18]LogMainFrame: MainFrame: Module compiling took 19.341 seconds
+[2021.07.03-10.24.07:977][ 18]LogClass: Could not find existing class Grabber in package /Script/Escape for HotReload, assuming new class
+[2021.07.03-10.24.07:990][ 18]LogHotReload: Re-instancing Grabber after hot-reload.
+[2021.07.03-10.24.08:000][ 18]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2021.07.03-10.24.08:007][ 18]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.03-10.24.08:065][ 18]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3605 classes and 861 folders.
+[2021.07.03-10.24.08:065][ 18]Display: HotReload took 19.5s.
+[2021.07.03-10.26.09:829][427]Candidate modules for hot reload:
+[2021.07.03-10.26.09:829][427]  Escape
+[2021.07.03-10.26.09:829][427]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,5231 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.03-10.26.09:831][427]Warning: Starting HotReload took  0.0s.
+[2021.07.03-10.26.11:493][582]CompilerResultsLog: New page: Compilation - Jul 4, 2021, 6:26:11 AM
+[2021.07.03-10.26.11:494][582]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.03-10.26.11:494][582]CompilerResultsLog: Building EscapeEditor...
+[2021.07.03-10.26.11:494][582]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-10.26.11:494][582]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.07.03-10.26.11:494][582]CompilerResultsLog:   [1/4] Grabber.cpp
+[2021.07.03-10.26.11:494][582]CompilerResultsLog:   [2/4] UE4Editor-Escape-5231.lib
+[2021.07.03-10.26.11:494][582]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5231.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5231.exp
+[2021.07.03-10.26.11:494][582]CompilerResultsLog:   [3/4] UE4Editor-Escape-5231.dll
+[2021.07.03-10.26.11:494][582]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5231.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5231.suppressed.exp
+[2021.07.03-10.26.11:494][582]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.07.03-10.26.11:494][582]CompilerResultsLog: Total time in Parallel executor: 1.13 seconds
+[2021.07.03-10.26.11:494][582]CompilerResultsLog: Total execution time: 1.60 seconds
+[2021.07.03-10.26.11:494][582]LogMainFrame: MainFrame: Module compiling took 1.668 seconds
+[2021.07.03-10.26.11:524][582]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.07.03-10.26.11:528][582]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.03-10.26.11:592][582]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3605 classes and 861 folders.
+[2021.07.03-10.26.11:592][582]Display: HotReload took  1.8s.
+[2021.07.03-10.26.12:980][708]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.26.12:985][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.26.12:985][708]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:26:12 AM)
+[2021.07.03-10.26.13:019][708]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.26.13:028][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008699s)
+[2021.07.03-10.26.13:029][708]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.26.13:029][708]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2021.07.03-10.26.13:029][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.009933s)
+[2021.07.03-10.26.13:122][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.07.03-10.26.13:123][708]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.07.03-10.26.13:123][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.26.13:123][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.26.13:123][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.26.13:123][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.26.13:123][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.26.13:123][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.26.13:124][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.26.13:124][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.26.13:124][708]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.26.13:124][708]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.26.13:128][708]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.26.13:128][708]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.26.13:136][708]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.26.13:136][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.26.13:136][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.26.13:136][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.26.13:137][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.26.13:137][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.26.13:137][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.26.13:147][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.26.13:147][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.26.13:147][708]LogInit: FAudioDevice initialized.
+[2021.07.03-10.26.13:147][708]LogAudio: Display: Audio Device (ID: 5) registered with world 'DefaultMap'.
+[2021.07.03-10.26.13:157][708]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.26.13:158][708]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.26.13
+[2021.07.03-10.26.13:158][708]LogWorld: Bringing up level for play took: 0.000815
+[2021.07.03-10.26.13:158][708]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.07.03-10.26.13:160][708]PIE: Server logged in
+[2021.07.03-10.26.13:161][708]PIE: Play in editor total start time 0.177 seconds.
+[2021.07.03-10.26.14:363][851]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:371][852]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:380][853]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:388][854]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:396][855]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:404][856]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:413][857]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:421][858]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:429][859]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:437][860]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:446][861]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:454][862]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:462][863]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:471][864]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:479][865]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:488][866]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:496][867]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:504][868]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:512][869]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:521][870]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:529][871]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:537][872]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:546][873]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:554][874]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:562][875]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:571][876]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:579][877]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:587][878]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:596][879]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:604][880]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:612][881]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:621][882]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:630][883]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:638][884]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:646][885]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:654][886]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:663][887]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:671][888]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:680][889]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:688][890]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:696][891]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:704][892]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:713][893]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:721][894]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:729][895]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:738][896]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:746][897]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:754][898]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:763][899]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:771][900]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:780][901]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:788][902]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:796][903]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:804][904]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:813][905]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:821][906]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:829][907]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:837][908]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:846][909]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:854][910]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:863][911]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:871][912]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:879][913]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:888][914]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:896][915]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:904][916]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:913][917]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:921][918]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:930][919]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:938][920]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:946][921]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:954][922]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:963][923]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:971][924]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:979][925]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:988][926]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.14:996][927]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:005][928]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:013][929]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:021][930]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:029][931]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:038][932]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:046][933]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:054][934]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:063][935]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:071][936]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:080][937]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:088][938]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:096][939]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:105][940]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:113][941]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:121][942]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:130][943]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:138][944]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:146][945]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:154][946]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:163][947]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:171][948]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:180][949]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:188][950]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:196][951]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:205][952]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:213][953]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:221][954]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:230][955]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:238][956]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:247][957]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:255][958]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:263][959]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:271][960]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:280][961]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:288][962]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:296][963]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:305][964]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:313][965]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:322][966]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:330][967]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.15:479][985]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.15:488][986]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.15:496][987]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.15:504][988]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.15:513][989]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.15:521][990]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:080][ 57]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:088][ 58]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:096][ 59]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:104][ 60]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:113][ 61]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:121][ 62]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:129][ 63]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:254][ 78]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:262][ 79]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:271][ 80]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:280][ 81]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:288][ 82]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:296][ 83]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:529][111]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:537][112]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:546][113]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:554][114]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:563][115]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:571][116]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:579][117]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:588][118]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:596][119]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:604][120]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.16:738][136]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:746][137]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:754][138]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:763][139]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:771][140]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.16:780][141]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:038][172]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:046][173]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:054][174]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:063][175]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:071][176]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:080][177]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:088][178]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:096][179]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:104][180]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:237][196]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:246][197]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:254][198]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:263][199]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:271][200]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:538][232]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:546][233]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:554][234]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:563][235]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:571][236]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:580][237]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:588][238]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:596][239]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:604][240]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.17:738][256]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:746][257]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:754][258]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:763][259]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.17:771][260]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:021][290]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:030][291]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:037][292]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:046][293]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:054][294]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:062][295]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:071][296]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:354][330]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:571][356]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:580][357]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:588][358]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:638][364]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.18:647][365]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.18:788][382]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.18:796][383]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.18:804][384]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.18:863][391]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:871][392]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:880][393]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:888][394]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:947][401]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:956][402]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:964][403]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.18:973][404]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:073][416]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:081][417]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:089][418]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:098][419]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:106][420]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:114][421]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:122][422]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:131][423]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:139][424]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:148][425]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:156][426]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:164][427]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:172][428]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:181][429]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:188][430]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:272][440]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:280][441]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:405][456]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:413][457]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:472][464]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:480][465]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:630][483]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:638][484]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:647][485]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:714][493]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:722][494]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:733][495]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:838][508]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:848][509]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.26.19:931][519]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:939][520]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.19:948][521]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.20:055][534]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.20:063][535]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.20:072][536]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.20:080][537]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.26.20:680][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.26.20:680][603]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.26.20:681][603]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.26.20:681][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.26.20:691][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.26.20:695][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.26.20:704][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.03-10.26.20:715][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.26.20:716][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.26.20:727][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.26.20:752][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.07.03-10.26.20:768][604]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.07.03-10.28.46:093][512]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.28.46:098][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.28.46:098][512]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:28:46 AM)
+[2021.07.03-10.28.46:127][512]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.28.46:134][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006250s)
+[2021.07.03-10.28.46:134][512]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.28.46:135][512]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2021.07.03-10.28.46:135][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007335s)
+[2021.07.03-10.28.46:146][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.07.03-10.28.46:149][512]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.07.03-10.28.46:149][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.28.46:149][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.28.46:149][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.28.46:149][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.28.46:149][512]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.28.46:149][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.28.46:149][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.28.46:149][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.28.46:149][512]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.28.46:149][512]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.28.46:155][512]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.28.46:155][512]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.28.46:162][512]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.28.46:162][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.28.46:163][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.28.46:163][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.28.46:163][512]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.28.46:163][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.28.46:163][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.28.46:174][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.28.46:174][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.28.46:174][512]LogInit: FAudioDevice initialized.
+[2021.07.03-10.28.46:174][512]LogAudio: Display: Audio Device (ID: 6) registered with world 'DefaultMap'.
+[2021.07.03-10.28.46:184][512]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.28.46:185][512]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.28.46
+[2021.07.03-10.28.46:185][512]LogWorld: Bringing up level for play took: 0.000792
+[2021.07.03-10.28.46:185][512]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.07.03-10.28.46:187][512]PIE: Server logged in
+[2021.07.03-10.28.46:187][512]PIE: Play in editor total start time 0.089 seconds.
+[2021.07.03-10.28.47:088][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.28.47:088][615]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.28.47:088][615]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.28.47:089][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.28.47:093][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.28.47:097][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.28.47:106][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.03-10.28.47:106][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.28.47:107][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.28.47:119][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.28.47:121][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.07.03-10.28.47:162][618]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.07.03-10.28.48:410][764]Candidate modules for hot reload:
+[2021.07.03-10.28.48:410][764]  Escape
+[2021.07.03-10.28.48:410][764]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,1048 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.03-10.28.48:413][764]Warning: Starting HotReload took  0.0s.
+[2021.07.03-10.28.50:022][911]CompilerResultsLog: New page: Compilation - Jul 4, 2021, 6:28:50 AM
+[2021.07.03-10.28.50:022][911]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.03-10.28.50:022][911]CompilerResultsLog: Building EscapeEditor...
+[2021.07.03-10.28.50:022][911]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-10.28.50:022][911]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.07.03-10.28.50:022][911]CompilerResultsLog:   [1/4] Grabber.cpp
+[2021.07.03-10.28.50:022][911]CompilerResultsLog:   [2/4] UE4Editor-Escape-1048.lib
+[2021.07.03-10.28.50:022][911]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1048.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1048.exp
+[2021.07.03-10.28.50:022][911]CompilerResultsLog:   [3/4] UE4Editor-Escape-1048.dll
+[2021.07.03-10.28.50:022][911]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1048.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-1048.suppressed.exp
+[2021.07.03-10.28.50:022][911]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.07.03-10.28.50:022][911]CompilerResultsLog: Total time in Parallel executor: 1.09 seconds
+[2021.07.03-10.28.50:022][911]CompilerResultsLog: Total execution time: 1.55 seconds
+[2021.07.03-10.28.50:022][911]LogMainFrame: MainFrame: Module compiling took 1.616 seconds
+[2021.07.03-10.28.50:046][911]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.07.03-10.28.50:049][911]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.03-10.28.50:098][911]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3605 classes and 861 folders.
+[2021.07.03-10.28.50:098][911]Display: HotReload took  1.7s.
+[2021.07.03-10.28.50:897][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.07.03-10.28.50:916][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DefaultPawnBP" FILE="../../../../../../GameDev/Escape/Content/Blueprints/DefaultPawnBP.uasset" SILENT=true
+[2021.07.03-10.28.50:920][969]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultPawnBP812A373A45FC1AA10721DEABC6883444.tmp' to '../../../../../../GameDev/Escape/Content/Blueprints/DefaultPawnBP.uasset'
+[2021.07.03-10.28.50:931][969]AssetCheck: New page: Asset Save: DefaultPawnBP
+[2021.07.03-10.28.50:931][969]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP
+[2021.07.03-10.28.51:863][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.28.51:869][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.28.51:869][ 74]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:28:51 AM)
+[2021.07.03-10.28.51:869][ 74]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.28.51:875][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006005s)
+[2021.07.03-10.28.51:876][ 74]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.28.51:876][ 74]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2021.07.03-10.28.51:876][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.006935s)
+[2021.07.03-10.28.51:913][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.07.03-10.28.51:914][ 74]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.07.03-10.28.51:914][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.28.51:914][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.28.51:914][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.28.51:914][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.28.51:914][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.28.51:914][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.28.51:914][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.28.51:914][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.28.51:914][ 74]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.28.51:914][ 74]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.28.51:919][ 74]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.28.51:919][ 74]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.28.51:926][ 74]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.28.51:927][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.28.51:927][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.28.51:927][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.28.51:927][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.28.51:927][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.28.51:927][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.28.51:937][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.28.51:937][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.28.51:937][ 74]LogInit: FAudioDevice initialized.
+[2021.07.03-10.28.51:938][ 74]LogAudio: Display: Audio Device (ID: 7) registered with world 'DefaultMap'.
+[2021.07.03-10.28.51:942][ 74]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.28.51:943][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.28.51
+[2021.07.03-10.28.51:943][ 74]LogWorld: Bringing up level for play took: 0.000779
+[2021.07.03-10.28.51:943][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.07.03-10.28.51:944][ 74]PIE: Server logged in
+[2021.07.03-10.28.51:945][ 74]PIE: Play in editor total start time 0.078 seconds.
+[2021.07.03-10.28.52:796][175]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:804][176]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:813][177]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:821][178]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:829][179]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:837][180]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:846][181]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:854][182]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:863][183]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:871][184]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:879][185]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:887][186]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:896][187]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:904][188]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:912][189]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:921][190]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:929][191]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:937][192]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:946][193]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:954][194]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:963][195]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:971][196]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.52:979][197]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.28.54:898][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.28.54:899][424]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.28.54:899][424]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.28.54:899][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.28.54:903][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.28.54:906][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.28.54:913][424]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.03-10.28.54:913][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.28.54:914][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.28.54:926][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.28.54:928][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.07.03-10.28.54:974][427]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.07.03-10.29.15:602][ 58]Candidate modules for hot reload:
+[2021.07.03-10.29.15:602][ 58]  Escape
+[2021.07.03-10.29.15:602][ 58]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,5083 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.03-10.29.15:605][ 58]Warning: Starting HotReload took  0.0s.
+[2021.07.03-10.29.17:218][204]CompilerResultsLog: New page: Compilation - Jul 4, 2021, 6:29:17 AM
+[2021.07.03-10.29.17:218][204]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.03-10.29.17:218][204]CompilerResultsLog: Building EscapeEditor...
+[2021.07.03-10.29.17:218][204]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-10.29.17:218][204]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.07.03-10.29.17:218][204]CompilerResultsLog:   [1/4] Grabber.cpp
+[2021.07.03-10.29.17:218][204]CompilerResultsLog:   [2/4] UE4Editor-Escape-5083.lib
+[2021.07.03-10.29.17:218][204]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5083.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5083.exp
+[2021.07.03-10.29.17:218][204]CompilerResultsLog:   [3/4] UE4Editor-Escape-5083.dll
+[2021.07.03-10.29.17:218][204]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5083.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5083.suppressed.exp
+[2021.07.03-10.29.17:218][204]CompilerResultsLog:   [4/4] EscapeEditor.target
+[2021.07.03-10.29.17:218][204]CompilerResultsLog: Total time in Parallel executor: 1.09 seconds
+[2021.07.03-10.29.17:218][204]CompilerResultsLog: Total execution time: 1.56 seconds
+[2021.07.03-10.29.17:218][204]LogMainFrame: MainFrame: Module compiling took 1.618 seconds
+[2021.07.03-10.29.17:241][204]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.07.03-10.29.17:244][204]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.03-10.29.17:292][204]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3605 classes and 861 folders.
+[2021.07.03-10.29.17:292][204]Display: HotReload took  1.7s.
+[2021.07.03-10.29.19:563][446]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP
+[2021.07.03-10.29.24:979][ 11]BlueprintLog: New page: Compile DefaultPawnBP
+[2021.07.03-10.29.25:043][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.07.03-10.29.25:470][ 56]LogSlate: Window 'DefaultPawnBP' being destroyed
+[2021.07.03-10.29.25:508][ 56]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.29.25:508][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.29.26:620][174]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.29.26:626][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.29.26:626][174]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:29:26 AM)
+[2021.07.03-10.29.26:668][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.29.26:674][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006299s)
+[2021.07.03-10.29.26:675][174]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.29.26:675][174]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2021.07.03-10.29.26:675][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007239s)
+[2021.07.03-10.29.26:712][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.07.03-10.29.26:713][174]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.07.03-10.29.26:713][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.29.26:713][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.29.26:713][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.29.26:713][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.29.26:713][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.29.26:713][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.29.26:713][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.29.26:713][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.29.26:714][174]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.29.26:714][174]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.29.26:718][174]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.29.26:718][174]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.29.26:726][174]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.29.26:726][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.29.26:726][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.29.26:726][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.29.26:727][174]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.29.26:727][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.29.26:727][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.29.26:737][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.29.26:737][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.29.26:737][174]LogInit: FAudioDevice initialized.
+[2021.07.03-10.29.26:737][174]LogAudio: Display: Audio Device (ID: 8) registered with world 'DefaultMap'.
+[2021.07.03-10.29.26:741][174]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.29.26:743][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.29.26
+[2021.07.03-10.29.26:743][174]LogWorld: Bringing up level for play took: 0.000816
+[2021.07.03-10.29.26:743][174]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.07.03-10.29.26:745][174]LogTemp: Error: No PhysicsHandleComponent is attached to: DefaultPawnBP_C_0
+[2021.07.03-10.29.26:745][174]PIE: Server logged in
+[2021.07.03-10.29.26:745][174]PIE: Play in editor total start time 0.121 seconds.
+[2021.07.03-10.29.32:258][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.29.32:258][828]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.29.32:258][828]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.29.32:258][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.29.32:262][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.29.32:266][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.29.32:276][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.29.32:276][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.29.32:277][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.29.32:291][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.07.03-10.29.32:337][831]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.07.03-10.29.38:446][560]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP
+[2021.07.03-10.29.40:014][705]Cmd: TRANSACTION UNDO
+[2021.07.03-10.29.40:014][705]LogEditorTransaction: Undo Set Node Enabled State
+[2021.07.03-10.29.41:213][793]BlueprintLog: New page: Compile DefaultPawnBP
+[2021.07.03-10.29.41:217][793]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_5, Actor: /Engine/Transient.World_5:PersistentLevel.REINST_DefaultPawnBP_C_1
+[2021.07.03-10.29.41:237][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.07.03-10.29.41:703][844]LogSlate: Window 'DefaultPawnBP' being destroyed
+[2021.07.03-10.29.41:709][844]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.29.41:709][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.29.42:644][947]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.29.42:648][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.29.42:648][947]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:29:42 AM)
+[2021.07.03-10.29.42:648][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.29.42:654][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006007s)
+[2021.07.03-10.29.42:655][947]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.29.42:655][947]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2021.07.03-10.29.42:655][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.006905s)
+[2021.07.03-10.29.42:670][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.07.03-10.29.42:670][947]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.07.03-10.29.42:670][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.29.42:671][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.29.42:671][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.29.42:671][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.29.42:671][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.29.42:671][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.29.42:671][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.29.42:671][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.29.42:671][947]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.29.42:671][947]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.29.42:675][947]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.29.42:675][947]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.29.42:683][947]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.29.42:683][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.29.42:683][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.29.42:683][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.29.42:683][947]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.29.42:683][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.29.42:683][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.29.42:694][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.29.42:694][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.29.42:694][947]LogInit: FAudioDevice initialized.
+[2021.07.03-10.29.42:694][947]LogAudio: Display: Audio Device (ID: 9) registered with world 'DefaultMap'.
+[2021.07.03-10.29.42:701][947]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.29.42:702][947]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.29.42
+[2021.07.03-10.29.42:702][947]LogWorld: Bringing up level for play took: 0.000797
+[2021.07.03-10.29.42:702][947]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.07.03-10.29.42:703][947]PIE: Server logged in
+[2021.07.03-10.29.42:704][947]PIE: Play in editor total start time 0.056 seconds.
+[2021.07.03-10.29.45:768][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.29.45:768][306]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.29.45:768][306]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.29.45:769][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.29.45:777][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.29.45:781][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.29.45:790][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.03-10.29.45:791][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.29.45:792][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.29.45:803][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.29.45:806][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.07.03-10.29.45:844][308]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.07.03-10.32.12:413][128]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.03-10.33.06:583][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.07.03-10.33.06:585][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.054
+[2021.07.03-10.33.06:585][ 43]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/DefaultPawnBP] ([2] browsable assets)...
+[2021.07.03-10.33.06:603][ 43]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP]
+[2021.07.03-10.33.06:621][ 43]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP]
+[2021.07.03-10.33.06:621][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DefaultPawnBP]
+[2021.07.03-10.33.06:621][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DefaultPawnBP" FILE="../../../../../../GameDev/Escape/Saved/Autosaves/Game/Blueprints/DefaultPawnBP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.07.03-10.33.06:628][ 43]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultPawnBP_Auto2127FC6074417859E1602CC9ADDC752A1.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/Blueprints/DefaultPawnBP_Auto2.uasset'
+[2021.07.03-10.33.06:629][ 43]LogFileHelpers: Auto-saving content packages took 0.044
+[2021.07.03-10.41.16:792][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap" FILE="../../../../../../GameDev/Escape/Content/Maps/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.03-10.41.16:835][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.07.03-10.41.16:855][ 24]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap9516F5E74CABE801080AE39FEB0D1F47.tmp' to '../../../../../../GameDev/Escape/Content/Maps/DefaultMap.umap'
+[2021.07.03-10.41.16:862][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DefaultMap_BuiltData" FILE="../../../../../../GameDev/Escape/Content/Maps/DefaultMap_BuiltData.uasset" SILENT=true
+[2021.07.03-10.41.16:892][ 24]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultMap_BuiltData190D97674FCFC1BC548BADB840FF0EDB.tmp' to '../../../../../../GameDev/Escape/Content/Maps/DefaultMap_BuiltData.uasset'
+[2021.07.03-10.41.16:903][ 24]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-10.41.16:903][ 24]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DefaultMap_BuiltData.DefaultMap_BuiltData
+[2021.07.03-10.41.16:903][ 24]LogContentValidation: Display: Validating World /Game/Maps/DefaultMap.DefaultMap
+[2021.07.03-10.41.21:638][392]Candidate modules for hot reload:
+[2021.07.03-10.41.21:638][392]  Escape
+[2021.07.03-10.41.21:638][392]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,5637 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.03-10.41.21:640][392]Warning: Starting HotReload took  0.0s.
+[2021.07.03-10.41.26:923][980]CompilerResultsLog: New page: Compilation - Jul 4, 2021, 6:41:26 AM
+[2021.07.03-10.41.26:923][980]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.03-10.41.26:923][980]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.07.03-10.41.26:923][980]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.03-10.41.26:923][980]CompilerResultsLog: Reflection code generated for EscapeEditor in 3.4277479 seconds
+[2021.07.03-10.41.26:923][980]CompilerResultsLog: Building EscapeEditor...
+[2021.07.03-10.41.26:923][980]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-10.41.26:923][980]CompilerResultsLog: Building 5 actions with 12 processes...
+[2021.07.03-10.41.26:923][980]CompilerResultsLog:   [1/5] Grabber.cpp
+[2021.07.03-10.41.26:923][980]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2021.07.03-10.41.26:923][980]CompilerResultsLog:   [3/5] UE4Editor-Escape-5637.lib
+[2021.07.03-10.41.26:923][980]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5637.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5637.exp
+[2021.07.03-10.41.26:923][980]CompilerResultsLog:   [4/5] UE4Editor-Escape-5637.dll
+[2021.07.03-10.41.26:923][980]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5637.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-5637.suppressed.exp
+[2021.07.03-10.41.26:923][980]CompilerResultsLog:   [5/5] EscapeEditor.target
+[2021.07.03-10.41.26:923][980]CompilerResultsLog: Total time in Parallel executor: 1.26 seconds
+[2021.07.03-10.41.26:923][980]CompilerResultsLog: Total execution time: 5.22 seconds
+[2021.07.03-10.41.26:923][980]LogMainFrame: MainFrame: Module compiling took 5.288 seconds
+[2021.07.03-10.41.26:955][980]LogClass: Could not find existing class Grabber in package /Script/Escape for HotReload, assuming new class
+[2021.07.03-10.41.26:962][980]LogHotReload: Re-instancing Grabber after hot-reload.
+[2021.07.03-10.41.26:971][980]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.07.03-10.41.26:974][980]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.03-10.41.27:026][980]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0105 seconds. Added 3605 classes and 861 folders.
+[2021.07.03-10.41.27:026][980]Display: HotReload took  5.4s.
+[2021.07.03-10.41.27:791][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.41.27:796][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.41.27:796][ 39]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:41:27 AM)
+[2021.07.03-10.41.27:830][ 39]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.41.27:837][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006387s)
+[2021.07.03-10.41.27:838][ 39]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.41.27:838][ 39]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2021.07.03-10.41.27:838][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007441s)
+[2021.07.03-10.41.27:890][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.07.03-10.41.27:891][ 39]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.07.03-10.41.27:891][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.41.27:891][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.41.27:891][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.41.27:891][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.41.27:891][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.41.27:891][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.41.27:891][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.41.27:891][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.41.27:892][ 39]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.41.27:892][ 39]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.41.27:896][ 39]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.41.27:896][ 39]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.41.27:904][ 39]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.41.27:904][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.41.27:904][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.41.27:904][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.41.27:904][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.41.27:904][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.41.27:904][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.41.27:916][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.41.27:916][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.41.27:916][ 39]LogInit: FAudioDevice initialized.
+[2021.07.03-10.41.27:916][ 39]LogAudio: Display: Audio Device (ID: 10) registered with world 'DefaultMap'.
+[2021.07.03-10.41.27:920][ 39]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.41.27:921][ 39]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.41.27
+[2021.07.03-10.41.27:922][ 39]LogWorld: Bringing up level for play took: 0.000920
+[2021.07.03-10.41.27:922][ 39]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.07.03-10.41.27:924][ 39]PIE: Server logged in
+[2021.07.03-10.41.27:925][ 39]PIE: Play in editor total start time 0.128 seconds.
+[2021.07.03-10.41.29:330][206]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.29:339][207]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.29:347][208]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.29:356][209]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.29:364][210]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.29:372][211]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.29:380][212]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.29:489][225]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.29:497][226]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.29:505][227]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.29:514][228]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.29:522][229]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.29:530][230]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:439][339]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.30:447][340]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.30:456][341]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.30:464][342]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.30:472][343]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.30:480][344]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.30:672][367]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:680][368]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:689][369]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:697][370]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:705][371]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:714][372]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:947][400]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:955][401]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:964][402]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:972][403]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:980][404]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:989][405]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.30:997][406]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.31:005][407]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.31:014][408]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.31:022][409]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.31:030][410]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.31:230][434]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.31:238][435]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.31:247][436]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.31:255][437]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.31:263][438]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.31:747][496]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.31:922][517]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.33:639][723]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.33:647][724]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.33:656][725]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.33:664][726]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:172][787]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:180][788]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:189][789]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:197][790]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:206][791]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:214][792]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:222][793]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:230][794]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:239][795]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:247][796]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:256][797]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:265][798]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:273][799]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:282][800]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:290][801]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:298][802]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:306][803]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:315][804]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:323][805]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:331][806]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:340][807]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:348][808]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:357][809]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:365][810]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:374][811]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:382][812]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:390][813]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:399][814]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:407][815]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:415][816]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:424][817]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:432][818]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:440][819]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:448][820]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:456][821]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:465][822]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:474][823]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:482][824]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:490][825]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:498][826]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:506][827]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:514][828]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:523][829]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:531][830]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:539][831]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:547][832]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:556][833]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:564][834]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:573][835]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:581][836]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:589][837]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:598][838]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:606][839]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:615][840]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:623][841]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:631][842]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:639][843]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:648][844]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:656][845]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:664][846]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:673][847]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:681][848]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:690][849]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:697][850]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:706][851]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:714][852]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:722][853]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:730][854]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:739][855]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:747][856]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:755][857]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:764][858]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:772][859]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:780][860]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:789][861]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:797][862]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:805][863]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:815][864]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:822][865]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:831][866]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:839][867]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:847][868]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:855][869]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:864][870]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:872][871]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:880][872]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:889][873]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:897][874]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:905][875]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:914][876]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:922][877]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:930][878]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:939][879]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:947][880]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:956][881]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:964][882]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:972][883]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:981][884]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:989][885]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.34:998][886]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:006][887]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:014][888]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:023][889]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:032][890]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:039][891]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:048][892]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:330][926]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:339][927]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:347][928]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:355][929]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:363][930]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:797][982]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:806][983]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:814][984]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:822][985]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:831][986]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:839][987]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.35:972][  3]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:981][  4]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:989][  5]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.35:997][  6]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.36:306][ 43]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.36:314][ 44]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.36:323][ 45]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.36:331][ 46]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.36:339][ 47]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.36:481][ 64]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:489][ 65]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:497][ 66]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:506][ 67]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:514][ 68]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:522][ 69]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:530][ 70]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:539][ 71]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:547][ 72]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:556][ 73]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:564][ 74]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:572][ 75]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:581][ 76]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:589][ 77]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:597][ 78]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:606][ 79]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:614][ 80]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:622][ 81]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:631][ 82]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:640][ 83]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:648][ 84]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:657][ 85]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:665][ 86]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:674][ 87]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:682][ 88]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:690][ 89]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:698][ 90]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:707][ 91]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:716][ 92]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:724][ 93]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.36:732][ 94]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:147][144]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:155][145]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:164][146]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:172][147]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:180][148]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:223][153]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:230][154]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:239][155]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:247][156]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:330][166]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:339][167]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:347][168]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:355][169]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:488][185]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:497][186]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:505][187]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:513][188]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:580][196]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:588][197]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:596][198]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:689][209]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:697][210]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:705][211]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.37:797][222]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:906][235]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.37:963][242]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:081][256]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:547][312]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:580][316]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.38:588][317]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.38:597][318]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.38:605][319]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.38:613][320]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.38:647][324]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:655][325]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:663][326]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:697][330]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:705][331]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:713][332]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:888][353]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:896][354]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:905][355]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:913][356]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:922][357]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.38:930][358]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:030][370]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:038][371]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:063][374]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:071][375]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:205][391]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:213][392]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:221][393]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:230][394]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:238][395]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:563][434]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.39:572][435]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.40:747][576]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.40:755][577]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.40:764][578]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.40:772][579]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.40:780][580]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:189][629]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:197][630]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:205][631]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:255][637]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:263][638]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:272][639]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:463][662]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.41:472][663]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.41:572][675]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:581][676]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:589][677]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:597][678]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:606][679]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:614][680]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:656][685]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.41:722][693]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.41:839][707]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.41:847][708]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.41:888][713]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.41:896][714]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.41:938][719]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:946][720]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:955][721]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:963][722]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:971][723]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.41:980][724]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.42:130][742]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.42:138][743]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.42:147][744]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.42:631][798]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.42:639][799]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.44:381][  8]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.44:473][ 19]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.44:598][ 34]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.44:606][ 35]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.44:639][ 39]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.44:714][ 48]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.44:723][ 49]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.44:831][ 62]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.44:898][ 70]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.44:931][ 74]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.44:939][ 75]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.44:948][ 76]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.44:956][ 77]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.44:964][ 78]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.44:973][ 79]LogTemp: Actor within reach is: Cone2
+[2021.07.03-10.41.45:123][ 97]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.45:189][105]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.45:314][120]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-10.41.47:162][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.41.47:162][338]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.41.47:162][338]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.41.47:162][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.41.47:168][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.41.47:172][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.41.47:180][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.41.47:180][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.41.47:182][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.41.47:197][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.07.03-10.41.47:235][340]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.07.03-10.45.01:860][727]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.45.01:865][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.45.01:865][727]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:45:01 AM)
+[2021.07.03-10.45.01:888][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.45.01:895][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006655s)
+[2021.07.03-10.45.01:896][727]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.45.01:896][727]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2021.07.03-10.45.01:896][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007696s)
+[2021.07.03-10.45.01:908][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.07.03-10.45.01:909][727]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.07.03-10.45.01:909][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.45.01:909][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.45.01:909][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.45.01:909][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.45.01:909][727]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.45.01:909][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.45.01:909][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.45.01:909][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.45.01:910][727]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.45.01:910][727]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.45.01:914][727]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.45.01:914][727]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.45.01:922][727]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.45.01:923][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.45.01:923][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.45.01:923][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.45.01:923][727]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.45.01:923][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.45.01:923][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.45.01:934][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.45.01:934][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.45.01:934][727]LogInit: FAudioDevice initialized.
+[2021.07.03-10.45.01:934][727]LogAudio: Display: Audio Device (ID: 11) registered with world 'DefaultMap'.
+[2021.07.03-10.45.01:942][727]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.45.01:943][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.45.01
+[2021.07.03-10.45.01:943][727]LogWorld: Bringing up level for play took: 0.000837
+[2021.07.03-10.45.01:943][727]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.07.03-10.45.01:945][727]PIE: Server logged in
+[2021.07.03-10.45.01:946][727]PIE: Play in editor total start time 0.081 seconds.
+[2021.07.03-10.45.03:110][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.45.03:110][860]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.45.03:110][860]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.45.03:110][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.45.03:118][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.45.03:122][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.45.03:131][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.45.03:131][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.45.03:132][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.45.03:146][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.07.03-10.45.03:177][863]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.07.03-10.45.03:517][902]Candidate modules for hot reload:
+[2021.07.03-10.45.03:517][902]  Escape
+[2021.07.03-10.45.03:518][902]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,9534 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.03-10.45.03:520][902]Warning: Starting HotReload took  0.0s.
+[2021.07.03-10.45.08:869][491]CompilerResultsLog: New page: Compilation - Jul 4, 2021, 6:45:08 AM
+[2021.07.03-10.45.08:869][491]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.03-10.45.08:869][491]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.07.03-10.45.08:869][491]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.03-10.45.08:869][491]CompilerResultsLog: Reflection code generated for EscapeEditor in 3.3681619 seconds
+[2021.07.03-10.45.08:869][491]CompilerResultsLog: Building EscapeEditor...
+[2021.07.03-10.45.08:869][491]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-10.45.08:869][491]CompilerResultsLog: Building 5 actions with 12 processes...
+[2021.07.03-10.45.08:869][491]CompilerResultsLog:   [1/5] Grabber.gen.cpp
+[2021.07.03-10.45.08:869][491]CompilerResultsLog:   [2/5] Grabber.cpp
+[2021.07.03-10.45.08:869][491]CompilerResultsLog:   [3/5] UE4Editor-Escape-9534.lib
+[2021.07.03-10.45.08:869][491]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-9534.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-9534.exp
+[2021.07.03-10.45.08:869][491]CompilerResultsLog:   [4/5] UE4Editor-Escape-9534.dll
+[2021.07.03-10.45.08:869][491]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-9534.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-9534.suppressed.exp
+[2021.07.03-10.45.08:869][491]CompilerResultsLog:   [5/5] EscapeEditor.target
+[2021.07.03-10.45.08:869][491]CompilerResultsLog: Total time in Parallel executor: 1.40 seconds
+[2021.07.03-10.45.08:869][491]CompilerResultsLog: Total execution time: 5.29 seconds
+[2021.07.03-10.45.08:869][491]LogMainFrame: MainFrame: Module compiling took 5.354 seconds
+[2021.07.03-10.45.08:895][491]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.07.03-10.45.08:898][491]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.03-10.45.08:951][491]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3605 classes and 861 folders.
+[2021.07.03-10.45.08:951][491]Display: HotReload took  5.4s.
+[2021.07.03-10.45.10:629][663]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-10.45.10:634][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-10.45.10:634][663]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 6:45:10 AM)
+[2021.07.03-10.45.10:634][663]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.45.10:641][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006420s)
+[2021.07.03-10.45.10:641][663]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-10.45.10:641][663]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2021.07.03-10.45.10:641][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.007336s)
+[2021.07.03-10.45.10:693][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.07.03-10.45.10:693][663]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.07.03-10.45.10:693][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-10.45.10:694][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-10.45.10:694][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-10.45.10:694][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-10.45.10:694][663]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-10.45.10:694][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-10.45.10:694][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-10.45.10:694][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-10.45.10:694][663]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-10.45.10:694][663]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-10.45.10:699][663]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-10.45.10:699][663]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-10.45.10:706][663]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-10.45.10:706][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-10.45.10:706][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-10.45.10:706][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-10.45.10:707][663]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-10.45.10:707][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-10.45.10:707][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-10.45.10:717][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-10.45.10:717][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-10.45.10:717][663]LogInit: FAudioDevice initialized.
+[2021.07.03-10.45.10:717][663]LogAudio: Display: Audio Device (ID: 12) registered with world 'DefaultMap'.
+[2021.07.03-10.45.10:725][663]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-10.45.10:726][663]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-20.45.10
+[2021.07.03-10.45.10:726][663]LogWorld: Bringing up level for play took: 0.000773
+[2021.07.03-10.45.10:726][663]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.07.03-10.45.10:728][663]PIE: Server logged in
+[2021.07.03-10.45.10:729][663]PIE: Play in editor total start time 0.096 seconds.
+[2021.07.03-10.45.11:693][778]LogTemp: Error: It Works
+[2021.07.03-10.45.12:260][846]LogTemp: Error: It Works
+[2021.07.03-10.45.12:419][865]LogTemp: Error: It Works
+[2021.07.03-10.45.12:544][880]LogTemp: Error: It Works
+[2021.07.03-10.45.12:661][894]LogTemp: Error: It Works
+[2021.07.03-10.45.12:769][907]LogTemp: Error: It Works
+[2021.07.03-10.45.13:694][ 18]LogTemp: Error: It Works
+[2021.07.03-10.45.13:969][ 51]LogTemp: Error: It Works
+[2021.07.03-10.45.14:280][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.45.14:280][ 84]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-10.45.14:280][ 84]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-10.45.14:280][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.45.14:286][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-10.45.14:290][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-10.45.14:298][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.03-10.45.14:298][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.45.14:299][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-10.45.14:311][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-10.45.14:338][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.07.03-10.45.14:355][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_18

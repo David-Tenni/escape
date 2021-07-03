@@ -2,8 +2,9 @@
 
 #pragma once
 
-#include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
+#include "CoreMinimal.h"
+#include "PhysicsEngine/PhysicsHandleComponent.h"
 #include "Grabber.generated.h"
 
 
@@ -32,4 +33,7 @@ private:
 	UPROPERTY(EditAnywhere)
 		float ReachDistance = 1000.f;
 	
+	UPhysicsHandleComponent* PhysicsHandle = nullptr;
+	UInputComponent* InputComponent = nullptr;
+	void Grab();
 };

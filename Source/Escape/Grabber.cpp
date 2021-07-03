@@ -21,10 +21,21 @@ void UGrabber::BeginPlay()
 	Super::BeginPlay();
 	Player = GetWorld()->GetFirstPlayerController()->GetPawn();
 	// ...
-
+	PhysicsHandle = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
+	if (PhysicsHandle){}//checking component exists
+	else
+	{
+	UE_LOG(LogTemp, Error, TEXT("No PhysicsHandleComponent is attached to: %s"), *GetOwner()->GetName());
+	}
+	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>(); //since its  default on pawn doent need a null check
+	InputComponent->BindAction("Grab", IE_Pressed, this, &UGrabber::Grab);
 }
 
+void UGrabber::Grab()
+{
+	UE_LOG(LogTemp, Error, TEXT("It Works"));
 
+}
 // Called every frame
 void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
