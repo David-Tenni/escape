@@ -21,7 +21,7 @@ void UGrabber::BeginPlay()
 	Super::BeginPlay();
 	Player = GetWorld()->GetFirstPlayerController()->GetPawn();
 	// ...
-	
+
 }
 
 
@@ -39,5 +39,17 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	FVector LineTraceDirection = PlayerViewRotation.Vector();
 	FVector LineTraceEnd = PlayerViewLocation + PlayerViewRotation.Vector() * ReachDistance;
 	DrawDebugLine(GetWorld(), PlayerViewLocation, LineTraceEnd, FColor(0, 0, 255), false, 1.0f, 1, 5);
+
+	FHitResult Hit;
+	FCollisionQueryParams TraceParams(FName(TEXT("")), false, GetOwner());
+	GetWorld()->LineTraceSingleByObjectType(
+	OUT Hit,
+		PlayerViewLocation,
+		LineTraceEnd,
+		FCollisionObjectQueryParams(ECC_PhysicsBody),TraceParams
+	);
+
+	UE_LOG(LogTemp, Log, TEXT("Actor within reach is: %s"), *Hit.GetActor()->GetName() );
+
 }
 

@@ -30,5 +30,7 @@ private:
 	APawn* Player;
 
 	UPROPERTY(EditAnywhere)
-		float ReachDistance = 100.f;
+		float ReachDistance = 1000.f;
+	
+	//AActor ReachableOject;
 };
