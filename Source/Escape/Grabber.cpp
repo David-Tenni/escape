@@ -7,11 +7,7 @@
 // Sets default values for this component's properties
 UGrabber::UGrabber()
 {
-	// Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
-	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
-
-	// ...
 }
 
 
@@ -21,12 +17,23 @@ void UGrabber::BeginPlay()
 	Super::BeginPlay();
 	Player = GetWorld()->GetFirstPlayerController()->GetPawn();
 	// ...
+	FindPhysicsHandle();
+	InitialiseInputComponent();
+
+}
+
+void UGrabber::FindPhysicsHandle() 
+{
 	PhysicsHandle = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
-	if (PhysicsHandle){}//checking component exists
+	if (PhysicsHandle) {}//checking component exists
 	else
 	{
-	UE_LOG(LogTemp, Error, TEXT("No PhysicsHandleComponent is attached to: %s"), *GetOwner()->GetName());
+		UE_LOG(LogTemp, Error, TEXT("No PhysicsHandleComponent is attached to: %s"), *GetOwner()->GetName());
 	}
+}
+
+void UGrabber::InitialiseInputComponent()
+{
 	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>(); //since its  default on pawn doent need a null check
 	InputComponent->BindAction("Grab", IE_Pressed, this, &UGrabber::Grab);
 	InputComponent->BindAction("Grab", IE_Released, this, &UGrabber::Release);
@@ -37,6 +44,7 @@ void UGrabber::Grab()
 	UE_LOG(LogTemp, Error, TEXT("Grab"));
 
 }
+
 void UGrabber::Release()
 {
 	UE_LOG(LogTemp, Error, TEXT("Release"));

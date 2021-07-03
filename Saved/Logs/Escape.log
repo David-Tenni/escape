@@ -2539,3 +2539,305 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.03-11.30.13:159][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.07.03-11.30.13:180][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
 [2021.07.03-11.30.13:198][978]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.07.03-13.21.31:527][130]Candidate modules for hot reload:
+[2021.07.03-13.21.31:527][130]  Escape
+[2021.07.03-13.21.31:527][130]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,8338 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.03-13.21.31:530][130]Warning: Starting HotReload took  0.0s.
+[2021.07.03-13.21.37:177][755]CompilerResultsLog: New page: Compilation - Jul 4, 2021, 9:21:37 AM
+[2021.07.03-13.21.37:178][755]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.03-13.21.37:178][755]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.07.03-13.21.37:178][755]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.03-13.21.37:178][755]CompilerResultsLog: Reflection code generated for EscapeEditor in 3.5337145 seconds
+[2021.07.03-13.21.37:178][755]CompilerResultsLog: Building EscapeEditor...
+[2021.07.03-13.21.37:178][755]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-13.21.37:178][755]CompilerResultsLog: Building 5 actions with 12 processes...
+[2021.07.03-13.21.37:178][755]CompilerResultsLog:   [1/5] Grabber.cpp
+[2021.07.03-13.21.37:178][755]CompilerResultsLog:   [2/5] Grabber.gen.cpp
+[2021.07.03-13.21.37:178][755]CompilerResultsLog:   [3/5] UE4Editor-Escape-8338.lib
+[2021.07.03-13.21.37:178][755]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8338.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8338.exp
+[2021.07.03-13.21.37:178][755]CompilerResultsLog:   [4/5] UE4Editor-Escape-8338.dll
+[2021.07.03-13.21.37:178][755]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8338.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-8338.suppressed.exp
+[2021.07.03-13.21.37:178][755]CompilerResultsLog:   [5/5] EscapeEditor.target
+[2021.07.03-13.21.37:178][755]CompilerResultsLog: Total time in Parallel executor: 1.48 seconds
+[2021.07.03-13.21.37:178][755]CompilerResultsLog: Total execution time: 5.58 seconds
+[2021.07.03-13.21.37:178][755]LogMainFrame: MainFrame: Module compiling took 5.654 seconds
+[2021.07.03-13.21.37:206][755]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.07.03-13.21.37:211][755]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.03-13.21.37:263][755]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3605 classes and 861 folders.
+[2021.07.03-13.21.37:263][755]Display: HotReload took  5.7s.
+[2021.07.03-13.21.38:213][838]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-13.21.38:218][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-13.21.38:218][838]PIE: New page: PIE session: DefaultMap (Jul 4, 2021, 9:21:38 AM)
+[2021.07.03-13.21.38:252][838]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-13.21.38:259][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006610s)
+[2021.07.03-13.21.38:260][838]LogAIModule: Creating AISystem for world DefaultMap
+[2021.07.03-13.21.38:260][838]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2021.07.03-13.21.38:260][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.008183s)
+[2021.07.03-13.21.38:311][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.07.03-13.21.38:311][838]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.07.03-13.21.38:311][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-13.21.38:311][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-13.21.38:311][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-13.21.38:311][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-13.21.38:311][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-13.21.38:311][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-13.21.38:311][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-13.21.38:312][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-13.21.38:312][838]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-13.21.38:312][838]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-13.21.38:317][838]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-13.21.38:317][838]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-13.21.38:324][838]LogAudioMixer: Display: Using Audio Device ASUS VP247 (2- NVIDIA High Definition Audio)
+[2021.07.03-13.21.38:325][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-13.21.38:325][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-13.21.38:325][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-13.21.38:326][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-13.21.38:326][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-13.21.38:326][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-13.21.38:337][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-13.21.38:337][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-13.21.38:337][838]LogInit: FAudioDevice initialized.
+[2021.07.03-13.21.38:337][838]LogAudio: Display: Audio Device (ID: 15) registered with world 'DefaultMap'.
+[2021.07.03-13.21.38:346][838]LogLoad: Game class is 'BaseGamemodeBP_C'
+[2021.07.03-13.21.38:347][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2021.07.03-23.21.38
+[2021.07.03-13.21.38:347][838]LogWorld: Bringing up level for play took: 0.000859
+[2021.07.03-13.21.38:347][838]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.07.03-13.21.38:349][838]PIE: Server logged in
+[2021.07.03-13.21.38:349][838]PIE: Play in editor total start time 0.132 seconds.
+[2021.07.03-13.21.39:581][985]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:590][986]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:598][987]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:608][988]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:616][989]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:625][990]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:632][991]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:640][992]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:649][993]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:657][994]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:665][995]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:674][996]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:682][997]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:690][998]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:698][999]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:707][  0]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:715][  1]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:723][  2]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:732][  3]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:740][  4]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:748][  5]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:757][  6]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:765][  7]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:774][  8]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:782][  9]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:790][ 10]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:798][ 11]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:807][ 12]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:815][ 13]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:823][ 14]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:831][ 15]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:840][ 16]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:848][ 17]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:856][ 18]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:865][ 19]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:873][ 20]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:881][ 21]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:890][ 22]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:898][ 23]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:906][ 24]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:915][ 25]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:923][ 26]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:932][ 27]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:940][ 28]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:948][ 29]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:957][ 30]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:965][ 31]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:973][ 32]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:981][ 33]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:990][ 34]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.39:998][ 35]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:006][ 36]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:015][ 37]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:023][ 38]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:032][ 39]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:040][ 40]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:048][ 41]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:056][ 42]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:065][ 43]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:073][ 44]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:082][ 45]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:090][ 46]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:098][ 47]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:107][ 48]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:115][ 49]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:123][ 50]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:131][ 51]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:140][ 52]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:148][ 53]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:157][ 54]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:165][ 55]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:173][ 56]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:182][ 57]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:190][ 58]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:198][ 59]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:207][ 60]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:215][ 61]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:223][ 62]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:231][ 63]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:240][ 64]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:248][ 65]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:257][ 66]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:265][ 67]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.40:682][117]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:690][118]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:698][119]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:707][120]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:715][121]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:724][122]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:732][123]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:740][124]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:749][125]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:757][126]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:765][127]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:774][128]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:782][129]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:790][130]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:799][131]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:807][132]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:815][133]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:824][134]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:832][135]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:840][136]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:849][137]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:857][138]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:865][139]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:874][140]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:882][141]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:890][142]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:899][143]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:907][144]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:915][145]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:924][146]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:932][147]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:940][148]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:948][149]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:957][150]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:965][151]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:973][152]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:982][153]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:990][154]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.40:998][155]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:007][156]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:015][157]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:023][158]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:031][159]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:040][160]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:048][161]LogTemp: Error: Grab
+[2021.07.03-13.21.41:049][161]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:057][162]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:065][163]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:073][164]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:082][165]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:090][166]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:098][167]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:106][168]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:115][169]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:123][170]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:131][171]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:140][172]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:148][173]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:156][174]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:165][175]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:173][176]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:182][177]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:190][178]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:198][179]LogTemp: Error: Release
+[2021.07.03-13.21.41:198][179]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:206][180]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:215][181]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:223][182]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:231][183]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:240][184]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:248][185]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:256][186]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:265][187]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:273][188]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:281][189]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:290][190]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:298][191]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:306][192]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:315][193]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:323][194]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:331][195]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:340][196]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:348][197]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:357][198]LogTemp: Error: Grab
+[2021.07.03-13.21.41:357][198]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:365][199]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:373][200]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:381][201]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:390][202]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:398][203]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:406][204]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:415][205]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:423][206]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:431][207]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:440][208]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:448][209]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:456][210]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:465][211]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:473][212]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:481][213]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:490][214]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:498][215]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:506][216]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:515][217]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:523][218]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:531][219]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:540][220]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:548][221]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:556][222]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:565][223]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:573][224]LogTemp: Actor within reach is: Cone_45
+[2021.07.03-13.21.41:690][238]LogTemp: Error: Release
+[2021.07.03-13.21.41:849][257]LogTemp: Error: Grab
+[2021.07.03-13.21.41:865][259]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.41:874][260]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.41:882][261]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.41:890][262]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.41:899][263]LogTemp: Actor within reach is: Cone2
+[2021.07.03-13.21.41:982][273]LogTemp: Error: Release
+[2021.07.03-13.21.42:073][284]LogTemp: Error: Grab
+[2021.07.03-13.21.42:198][299]LogTemp: Error: Release
+[2021.07.03-13.21.42:298][311]LogTemp: Error: Grab
+[2021.07.03-13.21.42:398][323]LogTemp: Error: Release
+[2021.07.03-13.21.42:423][326]LogTemp: Error: Grab
+[2021.07.03-13.21.42:782][369]LogTemp: Error: Release
+[2021.07.03-13.21.43:199][419]LogTemp: Error: Grab
+[2021.07.03-13.21.43:257][426]LogTemp: Error: Release
+[2021.07.03-13.21.43:432][447]LogTemp: Error: Grab
+[2021.07.03-13.21.43:598][467]LogTemp: Error: Release
+[2021.07.03-13.21.43:691][478]LogTemp: Error: Grab
+[2021.07.03-13.21.44:457][570]LogTemp: Error: Release
+[2021.07.03-13.21.44:633][591]LogTemp: Error: Grab
+[2021.07.03-13.21.44:717][601]LogTemp: Error: Release
+[2021.07.03-13.21.44:807][612]LogTemp: Error: Grab
+[2021.07.03-13.21.44:874][620]LogTemp: Error: Release
+[2021.07.03-13.21.44:958][630]LogTemp: Error: Grab
+[2021.07.03-13.21.45:000][635]LogTemp: Error: Release
+[2021.07.03-13.21.45:083][645]LogTemp: Error: Grab
+[2021.07.03-13.21.45:166][655]LogTemp: Error: Release
+[2021.07.03-13.21.45:241][664]LogTemp: Error: Grab
+[2021.07.03-13.21.45:360][678]LogTemp: Error: Release
+[2021.07.03-13.21.45:450][689]LogTemp: Error: Grab
+[2021.07.03-13.21.45:640][712]LogTemp: Error: Release
+[2021.07.03-13.21.46:163][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-13.21.46:163][770]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2021.07.03-13.21.46:163][770]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-13.21.46:164][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-13.21.46:168][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-13.21.46:171][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-13.21.46:181][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-13.21.46:185][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-13.21.46:187][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-13.21.46:224][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.07.03-13.21.46:242][771]LogPlayLevel: Display: Destroying online subsystem :Context_21
