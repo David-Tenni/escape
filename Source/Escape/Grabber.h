@@ -38,4 +38,6 @@ private:
 	void Release();
 	void FindPhysicsHandle();
 	void InitialiseInputComponent();
+	FHitResult GetReachableObject() const;
+
 };

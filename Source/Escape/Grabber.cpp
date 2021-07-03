@@ -55,7 +55,12 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 	//get player viewpoint
+	GetReachableObject();
 
+}
+
+FHitResult UGrabber::GetReachableObject() const
+{
 	FVector PlayerViewLocation = Player->GetActorLocation();
 	FRotator PlayerViewRotation = Player->GetActorRotation();
 	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(OUT PlayerViewLocation, OUT PlayerViewRotation);
@@ -63,21 +68,22 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	//linetraceToDistance based on reach
 	FVector LineTraceDirection = PlayerViewRotation.Vector();
 	FVector LineTraceEnd = PlayerViewLocation + PlayerViewRotation.Vector() * ReachDistance;
-	DrawDebugLine(GetWorld(), PlayerViewLocation, LineTraceEnd, FColor(0, 0, 255), false, 1.0f, 1, 5);
+	//Visualise Reach Range
+	//DrawDebugLine(GetWorld(), PlayerViewLocation, LineTraceEnd, FColor(0, 0, 255), false, 1.0f, 1, 5);
 
 	FHitResult Hit;
 	FCollisionQueryParams TraceParams(FName(TEXT("")), false, GetOwner());
 	GetWorld()->LineTraceSingleByObjectType(
-	OUT Hit,
+		OUT Hit,
 		PlayerViewLocation,
 		LineTraceEnd,
-		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),TraceParams
+		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody), TraceParams
 	);
 
 	AActor* ActorHit = Hit.GetActor();
 	if (ActorHit) {
 		UE_LOG(LogTemp, Log, TEXT("Actor within reach is: %s"), *(ActorHit->GetName()));
 	}
-
+	return Hit;
 }
 
