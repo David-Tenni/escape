@@ -41,6 +41,8 @@ void UGrabber::InitialiseInputComponent()
 
 void UGrabber::Grab()
 {
+	GetReachableObject();
+
 	UE_LOG(LogTemp, Error, TEXT("Grab"));
 
 }
@@ -55,7 +57,6 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 	//get player viewpoint
-	GetReachableObject();
 
 }
 
