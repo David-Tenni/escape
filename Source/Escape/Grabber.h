@@ -32,5 +32,4 @@ private:
 	UPROPERTY(EditAnywhere)
 		float ReachDistance = 1000.f;
 	
-	//AActor ReachableOject;
 };

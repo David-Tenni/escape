@@ -46,10 +46,13 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	OUT Hit,
 		PlayerViewLocation,
 		LineTraceEnd,
-		FCollisionObjectQueryParams(ECC_PhysicsBody),TraceParams
+		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),TraceParams
 	);
 
-	UE_LOG(LogTemp, Log, TEXT("Actor within reach is: %s"), *Hit.GetActor()->GetName() );
+	AActor* ActorHit = Hit.GetActor();
+	if (ActorHit) {
+		UE_LOG(LogTemp, Log, TEXT("Actor within reach is: %s"), *(ActorHit->GetName()));
+	}
 
 }
 
