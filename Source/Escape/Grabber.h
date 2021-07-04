@@ -31,8 +31,9 @@ private:
 
 	UPROPERTY(EditAnywhere)
 		float ReachDistance = 150.f;
-	
 	UPrimitiveComponent* HeldObject;
+
+	FVector LineTraceEnd() const;
 
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
 	UInputComponent* InputComponent = nullptr;
