@@ -30,8 +30,10 @@ private:
 	APawn* Player;
 
 	UPROPERTY(EditAnywhere)
-		float ReachDistance = 1000.f;
+		float ReachDistance = 150.f;
 	
+	UPrimitiveComponent* HeldObject;
+
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
 	UInputComponent* InputComponent = nullptr;
 	void Grab();
@@ -39,5 +41,4 @@ private:
 	void FindPhysicsHandle();
 	void InitialiseInputComponent();
 	FHitResult GetReachableObject() const;
-
 };

@@ -1,7 +1,7 @@
 // tutorial said to fill out copyright section so i guess copyright david tenni 2021 although can you copyright code from a tutorial probs not idek whatever its done now
 
-#include "DrawDebugHelpers.h"
 #include "Grabber.h"
+#include "DrawDebugHelpers.h"
 
 #define OUT
 // Sets default values for this component's properties
@@ -41,22 +41,46 @@ void UGrabber::InitialiseInputComponent()
 
 void UGrabber::Grab()
 {
-	GetReachableObject();
-
+	FHitResult HitResult = GetReachableObject();
+	HeldObject = HitResult.GetComponent();
+	
 	UE_LOG(LogTemp, Error, TEXT("Grab"));
+
+	if (HitResult.GetActor())
+	{
+		PhysicsHandle->GrabComponentAtLocation
+		(
+			HeldObject,
+			NAME_None,
+			HitResult.Location
+		);
+	}
+		
 
 }
 
 void UGrabber::Release()
 {
 	UE_LOG(LogTemp, Error, TEXT("Release"));
-
+	PhysicsHandle->ReleaseComponent();
 }
 // Called every frame
 void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 	//get player viewpoint
+
+	if(PhysicsHandle->GrabbedComponent)
+	{
+		FVector PlayerViewLocation = Player->GetActorLocation();
+		FRotator PlayerViewRotation = Player->GetActorRotation();
+		GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(OUT PlayerViewLocation, OUT PlayerViewRotation);
+		//UE_LOG(LogTemp, Log, TEXT("player location is %s player rotation is %s"), *PlayerViewLocation.ToString(), *PlayerViewRotation.ToString() );
+		//linetraceToDistance based on reach
+		FVector LineTraceDirection = PlayerViewRotation.Vector();
+		FVector LineTraceEnd = PlayerViewLocation + PlayerViewRotation.Vector() * ReachDistance;
+		PhysicsHandle->SetTargetLocation(LineTraceEnd);
+	}
 
 }
 
