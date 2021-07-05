@@ -73,9 +73,12 @@ void UOpenDoor::CloseDoor(float DeltaTime)
 }
 float UOpenDoor::TotalMassInVolume() const
 {
-	TArray<AActor*> OverlappingActors;
-	DoorOpenTrigger->GetOverlappingActors(OverlappingActors);
 	float TotalMass = 0.f;
+	if (!DoorOpenTrigger) { return TotalMass; }
+
+	TArray<AActor*> OverlappingActors;
+	
+	DoorOpenTrigger->GetOverlappingActors(OverlappingActors);
 
 	for(AActor* Actor : OverlappingActors)
 	{
