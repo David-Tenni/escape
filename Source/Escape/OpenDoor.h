@@ -27,15 +27,19 @@ public:
 	void OpenDoor(float DeltaTime);
 	void CloseDoor(float DeltaTime);
 
+	float TotalMassInVolume() const;
+
 private:
 	float InitialYaw;
 	float CurrentYaw;
+
+	float RequiredMassToOpen = 50.f;
 
 	UPROPERTY(EditAnywhere)
 	ATriggerVolume* DoorOpenTrigger;
 
 	UPROPERTY(EditAnywhere)
-	float OpenTargetYaw = 90;
+	float OpenTargetYaw = 90.f;
 
 	UPROPERTY(EditAnywhere)
 	float OpenDoorSpeed = 2.f;
