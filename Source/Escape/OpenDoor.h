@@ -49,7 +49,7 @@ private:
 	float CloseDoorSpeed = 1.f;
 
 	UPROPERTY(EditAnywhere)
-		AActor* ActorThatOpens;
+		AActor* ActorThatOpens = nullptr;
 
 	float DoorLastOpened = 0.f;
 	
