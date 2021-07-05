@@ -33,6 +33,7 @@ private:
 	float InitialYaw;
 	float CurrentYaw;
 
+	UPROPERTY(EditAnywhere)
 	float RequiredMassToOpen = 50.f;
 
 	UPROPERTY(EditAnywhere)
