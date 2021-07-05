@@ -5384,3 +5384,42 @@ Script Stack (0 frames):
 [2021.07.05-05.42.43:326][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.07.05-05.42.43:342][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2021.07.05-05.42.43:368][757]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.07.05-05.44.23:957][863]Candidate modules for hot reload:
+[2021.07.05-05.44.23:957][863]  Escape
+[2021.07.05-05.44.23:957][863]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Escape,6880 EscapeEditor Win64 Development -Project="C:/GameDev/Escape/Escape.uproject" "C:/GameDev/Escape/Escape.uproject"  -IgnoreJunk]
+[2021.07.05-05.44.23:959][863]Warning: Starting HotReload took  0.0s.
+[2021.07.05-05.44.30:458][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.07.05-05.44.31:986][738]CompilerResultsLog: New page: Compilation - Jul 6, 2021, 1:44:31 AM
+[2021.07.05-05.44.31:987][738]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\GameDev\Escape).
+[2021.07.05-05.44.31:987][738]CompilerResultsLog: Parsing headers for EscapeEditor
+[2021.07.05-05.44.31:987][738]CompilerResultsLog:   Running UnrealHeaderTool "C:\GameDev\Escape\Escape.uproject" "C:\GameDev\Escape\Intermediate\Build\Win64\EscapeEditor\Development\EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\elvev\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.07.05-05.44.31:987][738]CompilerResultsLog: Reflection code generated for EscapeEditor in 3.867214 seconds
+[2021.07.05-05.44.31:987][738]CompilerResultsLog: Building EscapeEditor...
+[2021.07.05-05.44.31:987][738]CompilerResultsLog: Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.05-05.44.31:987][738]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.07.05-05.44.31:987][738]CompilerResultsLog:   [1/6] Escape.init.gen.cpp
+[2021.07.05-05.44.31:987][738]CompilerResultsLog:   [2/6] OpenDoor.gen.cpp
+[2021.07.05-05.44.31:987][738]CompilerResultsLog:   [3/6] OpenDoor.cpp
+[2021.07.05-05.44.31:987][738]CompilerResultsLog:   [4/6] UE4Editor-Escape-6880.lib
+[2021.07.05-05.44.31:987][738]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-6880.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-6880.exp
+[2021.07.05-05.44.31:987][738]CompilerResultsLog:   [5/6] UE4Editor-Escape-6880.dll
+[2021.07.05-05.44.31:987][738]CompilerResultsLog:      Creating library C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-6880.suppressed.lib and object C:\GameDev\Escape\Intermediate\Build\Win64\UE4Editor\Development\Escape\UE4Editor-Escape-6880.suppressed.exp
+[2021.07.05-05.44.31:987][738]CompilerResultsLog:   [6/6] EscapeEditor.target
+[2021.07.05-05.44.31:987][738]CompilerResultsLog: Total time in Parallel executor: 3.50 seconds
+[2021.07.05-05.44.31:987][738]CompilerResultsLog: Total execution time: 7.95 seconds
+[2021.07.05-05.44.31:987][738]LogMainFrame: MainFrame: Module compiling took 8.033 seconds
+[2021.07.05-05.44.32:011][738]LogClass: Could not find existing class OpenDoor in package /Script/Escape for HotReload, assuming new class
+[2021.07.05-05.44.32:019][738]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2021.07.05-05.44.32:029][738]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Escape' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2021.07.05-05.44.32:033][738]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.05-05.44.32:089][738]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3605 classes and 861 folders.
+[2021.07.05-05.44.32:089][738]Display: HotReload took  8.1s.
+[2021.07.05-05.48.50:514][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.07.05-05.48.50:516][564]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.065
+[2021.07.05-05.48.50:517][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/DefaultPawnBP] ([2] browsable assets)...
+[2021.07.05-05.48.50:538][564]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP]
+[2021.07.05-05.48.50:556][564]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/DefaultPawnBP.DefaultPawnBP]
+[2021.07.05-05.48.50:556][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DefaultPawnBP]
+[2021.07.05-05.48.50:556][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DefaultPawnBP" FILE="../../../../../../GameDev/Escape/Saved/Autosaves/Game/Blueprints/DefaultPawnBP_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2021.07.05-05.48.50:563][564]LogSavePackage: Moving '../../../../../../GameDev/Escape/Saved/DefaultPawnBP_Auto7F94ED9274467D6CC2F75A0A33669DBBC.tmp' to '../../../../../../GameDev/Escape/Saved/Autosaves/Game/Blueprints/DefaultPawnBP_Auto7.uasset'
+[2021.07.05-05.48.50:564][564]LogFileHelpers: Auto-saving content packages took 0.048

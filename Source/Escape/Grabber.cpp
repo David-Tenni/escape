@@ -24,7 +24,7 @@ void UGrabber::BeginPlay()
 void UGrabber::FindPhysicsHandle() 
 {
 	PhysicsHandle = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
-	if (PhysicsHandle == nullptr) //checking component exists
+	if (!PhysicsHandle) //checking component exists
 	{ 
 		UE_LOG(LogTemp, Error, TEXT("No PhysicsHandleComponent is attached to: %s"), *GetOwner()->GetName()); 
 	}
@@ -41,9 +41,11 @@ void UGrabber::Grab()
 {
 	FHitResult HitResult = GetReachableObject();
 	HeldObject = HitResult.GetComponent();
-	
-	if (HitResult.GetActor())
+	AActor* ActorHit = HitResult.GetActor();
+
+	if (ActorHit)
 	{
+		if (!PhysicsHandle) { return; }
 		PhysicsHandle->GrabComponentAtLocation
 		(
 			HeldObject,
@@ -55,6 +57,7 @@ void UGrabber::Grab()
 
 void UGrabber::Release()
 {
+	if (!PhysicsHandle) { return; }
 	PhysicsHandle->ReleaseComponent();
 }
 // Called every frame
@@ -62,7 +65,7 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 	//get player viewpoint
-
+	if (!PhysicsHandle) { return; }
 	if(PhysicsHandle->GrabbedComponent)
 	{
 		
