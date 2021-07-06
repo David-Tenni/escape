@@ -2,6 +2,7 @@
 
 
 #include "OpenDoor.h"
+#include "Components/AudioComponent.h"
 #include "Components/PrimitiveComponent.h"
 #include"GameFramework/actor.h"
 #include "EngineMinimal.h"
@@ -23,14 +24,23 @@ void UOpenDoor::BeginPlay()
 	InitialYaw = GetOwner()->GetActorRotation().Yaw;
 	CurrentYaw = InitialYaw;
 	OpenTargetYaw += InitialYaw;
-
+	FindAudioComponent();
 	ActorThatOpens = GetWorld()->GetFirstPlayerController()->GetPawn();
 	if (!DoorOpenTrigger)
 	{
 		UE_LOG(LogTemp, Error, TEXT("OpenDoorTrigger not set on %s"), *GetOwner()->GetFName().ToString());
-	}
+	}	
+
 }
 
+void UOpenDoor::FindAudioComponent()
+{
+	DoorAudio = GetOwner()->FindComponentByClass<UAudioComponent>();
+	if (!DoorAudio) //checking component exists
+	{
+		UE_LOG(LogTemp, Error, TEXT("No AudioComponent is attached to: %s"), *GetOwner()->GetName());
+	}
+}
 
 // Called every frame
 void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
